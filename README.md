@@ -19,5 +19,7 @@ Student in the first year of BTS, at Lycée Louise Michel in Grenoble.
 ### ✍️ Dev Quote
 > "On continue tant qu'il y'a de l'espoir..." - Lucien Lassalle 
 
+#### CodeWars 
+![](https://www.codewars.com/users/LucienLassalle/badges/large)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=LucienLassalle&icon=7&color=4)](https://visitcount.itsvg.in)
