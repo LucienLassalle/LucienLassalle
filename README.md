@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucien Lassalle</h1>
 <h3 align="center">A passionate web developer from France</h3>
-<h4 align="right"> Student in the first year of BTS, at Lycée Louise Michel in Grenoble. </h4>
+<h4 align="right"> Third year student in DevOps, targeting cybersecurity, at Lycée Louise Michel in Grenoble. </h4>
 
 # <div align="center"> 💻 Purpose: </div> # 
 - WEB DEVELOPMENT <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20"/>
