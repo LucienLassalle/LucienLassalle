@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="146" viewBox="0 0 900 146">
+  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}.c0{animation:fi .3s 0.00s ease both}.c1{animation:fi .3s 0.04s ease both}.c2{animation:fi .3s 0.08s ease both}.c3{animation:fi .3s 0.12s ease both}.c4{animation:fi .3s 0.16s ease both}.c5{animation:fi .3s 0.20s ease both}.c6{animation:fi .3s 0.24s ease both}.c7{animation:fi .3s 0.28s ease both}.c8{animation:fi .3s 0.32s ease both}.c9{animation:fi .3s 0.36s ease both}.c10{animation:fi .3s 0.40s ease both}.c11{animation:fi .3s 0.44s ease both}</style></defs>
+<rect width="900" height="146" fill="#0d1117" rx="10"/>
+<rect x="1" y="1" width="898" height="144" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+<rect width="900" height="36" fill="#161b22" rx="10"/>
+<rect y="24" width="900" height="12" fill="#161b22"/>
+<text x="14" y="23" font-size="11"><tspan fill="#56d364">loka@nobara:~$</tspan><tspan fill="#484f58"> cat languages.txt</tspan></text>
+<text x="886" y="23" font-size="11" fill="#f85149"      text-anchor="end">✕</text>
+<text x="868" y="23" font-size="11" fill="#484f58" text-anchor="end">□</text>
+<text x="850" y="23" font-size="11" fill="#484f58" text-anchor="end">─</text>
+<g class="c0">
+  <rect x="22" y="56" width="76" height="28" rx="14" fill="#0d1117" stroke="#3572A5" stroke-width="1.5"/>
+  <circle cx="34" cy="70" r="4" fill="#3572A5"/>
+  <text x="42" y="74" font-size="12" fill="#c9d1d9">Python</text>
+</g>
+<g class="c1">
+  <rect x="106" y="56" width="44" height="28" rx="14" fill="#0d1117" stroke="#00ADD8" stroke-width="1.5"/>
+  <circle cx="118" cy="70" r="4" fill="#00ADD8"/>
+  <text x="126" y="74" font-size="12" fill="#c9d1d9">Go</text>
+</g>
+<g class="c2">
+  <rect x="158" y="56" width="36" height="28" rx="14" fill="#0d1117" stroke="#6f9eb7" stroke-width="1.5"/>
+  <circle cx="170" cy="70" r="4" fill="#6f9eb7"/>
+  <text x="178" y="74" font-size="12" fill="#c9d1d9">C</text>
+</g>
+<g class="c3">
+  <rect x="202" y="56" width="52" height="28" rx="14" fill="#0d1117" stroke="#f34b7d" stroke-width="1.5"/>
+  <circle cx="214" cy="70" r="4" fill="#f34b7d"/>
+  <text x="222" y="74" font-size="12" fill="#c9d1d9">C++</text>
+</g>
+<g class="c4">
+  <rect x="262" y="56" width="68" height="28" rx="14" fill="#0d1117" stroke="#3be133" stroke-width="1.5"/>
+  <circle cx="274" cy="70" r="4" fill="#3be133"/>
+  <text x="282" y="74" font-size="12" fill="#c9d1d9">OCaml</text>
+</g>
+<g class="c5">
+  <rect x="338" y="56" width="108" height="28" rx="14" fill="#0d1117" stroke="#8b949e" stroke-width="1.5"/>
+  <circle cx="350" cy="70" r="4" fill="#8b949e"/>
+  <text x="358" y="74" font-size="12" fill="#c9d1d9">Shell/Bash</text>
+</g>
+<g class="c6">
+  <rect x="454" y="56" width="108" height="28" rx="14" fill="#0d1117" stroke="#f1e05a" stroke-width="1.5"/>
+  <circle cx="466" cy="70" r="4" fill="#f1e05a"/>
+  <text x="474" y="74" font-size="12" fill="#c9d1d9">JavaScript</text>
+</g>
+<g class="c7">
+  <rect x="570" y="56" width="52" height="28" rx="14" fill="#0d1117" stroke="#4F5D95" stroke-width="1.5"/>
+  <circle cx="582" cy="70" r="4" fill="#4F5D95"/>
+  <text x="590" y="74" font-size="12" fill="#c9d1d9">PHP</text>
+</g>
+<g class="c8">
+  <rect x="630" y="56" width="92" height="28" rx="14" fill="#0d1117" stroke="#8b949e" stroke-width="1.5"/>
+  <circle cx="642" cy="70" r="4" fill="#8b949e"/>
+  <text x="650" y="74" font-size="12" fill="#c9d1d9">HTML/CSS</text>
+</g>
+<g class="c9">
+  <rect x="730" y="56" width="52" height="28" rx="14" fill="#0d1117" stroke="#000080" stroke-width="1.5"/>
+  <circle cx="742" cy="70" r="4" fill="#000080"/>
+  <text x="750" y="74" font-size="12" fill="#c9d1d9">Lua</text>
+</g>
+<g class="c10">
+  <rect x="790" y="56" width="60" height="28" rx="14" fill="#0d1117" stroke="#b07219" stroke-width="1.5"/>
+  <circle cx="802" cy="70" r="4" fill="#b07219"/>
+  <text x="810" y="74" font-size="12" fill="#c9d1d9">Java</text>
+</g>
+<g class="c11">
+  <rect x="22" y="94" width="108" height="28" rx="14" fill="#0d1117" stroke="#384d54" stroke-width="1.5"/>
+  <circle cx="34" cy="108" r="4" fill="#384d54"/>
+  <text x="42" y="112" font-size="12" fill="#c9d1d9">Dockerfile</text>
+</g>
+
+</svg>

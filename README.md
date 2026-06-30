@@ -1,26 +1,168 @@
-<h1 align="center">Hi 👋, I'm Lucien Lassalle</h1>
-<h3 align="center">A passionate developer from France</h3>
-<h4 align="right"> Four year student in DevOps, targeting cybersecurity, at Ecole Supérieur de Génie Informatique (ESGI) in Grenoble. </h4>
+<!-- AUTO-GENERATED — do not edit manually -->
+<!-- Last updated: 2026-06-30 · github.com/LucienLassalle/Dynamic-Readme -->
 
-# <div align="center"> 💻 Purpose: </div> # 
-- WEB DEVELOPMENT <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20"/>
-- DATABASE ADMINISTRATOR <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="20"/>
+<div align="center">
 
-# <div align="center"> 💻 Tech Stack: </div>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+<img src="assets/header.svg" width="100%" alt="Lucien Lassalle — DevOps & Security Specialist"/>
 
-# <div align="center"> 📊 GitHub Stats: </div>
-![](https://github-readme-stats.vercel.app/api?username=LucienLassalle&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucienLassalle&theme=blue-green&hide_border=false) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucienLassalle&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## <div align="center"> 🏆 GitHub Trophies </div>
-![](https://github-profile-trophy.vercel.app/?username=LucienLassalle&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+[GitHub @LucienLassalle](https://github.com/LucienLassalle) · [LinkedIn](https://www.linkedin.com/in/lucas-ravagnier/) · [Matrix `@loka:lloka.fr`](https://matrix.to/#/@loka:lloka.fr)
 
-### <div align="center"> ✍️ Dev Quote </div>
-> "On continue tant qu'il y'a de l'espoir..." - Lucien Lassalle 
+</div>
 
-#### <div align="center"> 💫 CodeWars </div>
-![](https://www.codewars.com/users/LucienLassalle/badges/large)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=LucienLassalle&icon=7&color=4)](https://visitcount.itsvg.in)
+
+## `> cat about.json`
+
+<div align="center">
+
+<img src="assets/about.svg" width="100%" alt="About"/>
+
+</div>
+
+---
+
+## `> ./stats --all`
+
+<div align="center">
+
+<img src="assets/stats.svg" width="100%" alt="Statistics"/>
+
+</div>
+
+> _208 public contributions · 2 issues opened / 1 closed_
+
+---
+
+## `> cat languages.txt`
+
+<div align="center">
+
+<img src="assets/languages.svg" width="100%" alt="Languages"/>
+
+</div>
+
+---
+
+## `> cat skills.json`
+
+<div align="center">
+
+<img src="assets/skills.svg" width="100%" alt="Skills"/>
+
+</div>
+
+---
+
+## `> gh pr list --author @me --state all`
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/pr_header.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/pr_div_00.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/ldns/pull/3"><img src="assets/pr_row_00.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/NLnetLabs/ldns/pull/311"><img src="assets/pr_row_01.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/libreswan/pull/4"><img src="assets/pr_row_02.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/lldpd/pull/2"><img src="assets/pr_row_03.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/kernel/pull/34"><img src="assets/pr_row_04.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/openssh/pull/7"><img src="assets/pr_row_05.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/pr_div_01.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xapi-project/xen-api/pull/7115"><img src="assets/pr_row_06.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/pr_div_02.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/34"><img src="assets/pr_row_07.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/openssh/pull/11"><img src="assets/pr_row_08.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/SLE/pull/3"><img src="assets/pr_row_09.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/SLE/pull/2"><img src="assets/pr_row_10.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/30"><img src="assets/pr_row_11.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/33"><img src="assets/pr_row_12.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/32"><img src="assets/pr_row_13.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/Vsftpd-exporter/pull/1"><img src="assets/pr_row_14.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/teams/pull/3"><img src="assets/pr_row_15.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/races/pull/2"><img src="assets/pr_row_16.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/drivers/pull/4"><img src="assets/pr_row_17.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/pr_div_03.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/sudo/pull/7"><img src="assets/pr_row_18.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/openssh/pull/12"><img src="assets/pr_row_19.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/races/pull/3"><img src="assets/pr_row_20.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/teams/pull/4"><img src="assets/pr_row_21.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/drivers/pull/5"><img src="assets/pr_row_22.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng/xcp-ng-org/pull/413"><img src="assets/pr_row_23.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/pr_div_04.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Mayfly277/ctftime_events_info/pull/1"><img src="assets/pr_row_24.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/sudo/pull/6"><img src="assets/pr_row_25.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/pr_div_05.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/crazy-max/diun/pull/1775"><img src="assets/pr_row_26.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xapi-project/xen-api/pull/7112"><img src="assets/pr_row_27.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng/xcp-ng-build-env/pull/64"><img src="assets/pr_row_28.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/SLE/pull/1"><img src="assets/pr_row_29.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/13"><img src="assets/pr_row_30.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/29"><img src="assets/pr_row_31.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/28"><img src="assets/pr_row_32.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng/xcp-ng-org/pull/411"><img src="assets/pr_row_33.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/net-snmp/pull/5"><img src="assets/pr_row_34.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/Motorsport-DB/website/pull/27"><img src="assets/pr_row_35.svg" width="100%" style="display:block"/></a></td></tr>
+</table>
+
+
+<sub>74 PRs merged · 6 open in total</sub>
+
+---
+
+## `> ls -la projects/`
+
+<div align="center">
+
+<img src="assets/featured.svg" width="100%" alt="Projects"/>
+
+</div>
+
+---
+
+## `> cat self-hosted.txt`
+
+<div align="center">
+
+<img src="assets/self_hosted.svg" width="100%" alt="Self-hosted services"/>
+
+</div>
+
+---
+
+## `> git log --all --oneline`
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/activity_header.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/activity_row_00.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/xapi/pull/87"><img src="assets/activity_row_01.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/ldns/pull/3#pullrequestreview-4599320980"><img src="assets/activity_row_02.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/ldns/commits/lrr_cve_2026_10846"><img src="assets/activity_row_03.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/ldns/pull/3#pullrequestreview-4598987175"><img src="assets/activity_row_04.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/NLnetLabs/ldns/pull/311"><img src="assets/activity_row_05.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/ldns/tree/lle-release_1_7_x-backport-cve-2026-10846"><img src="assets/activity_row_06.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><img src="assets/activity_row_07.svg" width="100%" style="display:block"/></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/ldns/commits/lle_backport_fix_cve_2026_10846"><img src="assets/activity_row_08.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/ldns/tree/lle_backport_fix_cve_2026_10846"><img src="assets/activity_row_09.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/LucienLassalle/ldns"><img src="assets/activity_row_10.svg" width="100%" style="display:block"/></a></td></tr>
+<tr><td style="line-height:0;font-size:0;padding:0;margin:0"><a href="https://github.com/xcp-ng-rpms/libreswan/pull/4"><img src="assets/activity_row_11.svg" width="100%" style="display:block"/></a></td></tr>
+</table>
+
+
+---
+
+## `> cat codewars.md`
+
+<div align="center">
+
+[![CodeWars](https://www.codewars.com/users/LucienLassalle/badges/large)](https://www.codewars.com/users/LucienLassalle)
+
+</div>
+
+
+<div align="center">
+
+<sub>
+Auto-generated daily · 2026-06-30 · 7 followers · 4 following ·
+<!-- <a href="https://github.com/LucienLassalle/Dynamic-Readme">How this works ↗</a> -->
+</sub>
+
+</div>
