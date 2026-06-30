@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="422" viewBox="0 0 900 422">
+  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes sl{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}.r0{animation:sl .3s 0.00s ease forwards;opacity:0}.r1{animation:sl .3s 0.07s ease forwards;opacity:0}.r2{animation:sl .3s 0.14s ease forwards;opacity:0}.r3{animation:sl .3s 0.21s ease forwards;opacity:0}.r4{animation:sl .3s 0.28s ease forwards;opacity:0}.r5{animation:sl .3s 0.35s ease forwards;opacity:0}.r6{animation:sl .3s 0.42s ease forwards;opacity:0}.r7{animation:sl .3s 0.49s ease forwards;opacity:0}.r8{animation:sl .3s 0.56s ease forwards;opacity:0}.r9{animation:sl .3s 0.63s ease forwards;opacity:0}.r10{animation:sl .3s 0.70s ease forwards;opacity:0}.r11{animation:sl .3s 0.77s ease forwards;opacity:0}</style></defs>
+<rect width="900" height="422" fill="#0d1117" rx="10"/>
+<path d="M 10 0 L 890 0 Q 900 0 900 10 L 900 36 L 0 36 L 0 10 Q 0 0 10 0 Z" fill="#161b22"/>
+<line x1="1" y1="36" x2="899" y2="36" stroke="#21262d" stroke-width="1"/>
+<text x="14" y="23" font-size="11"><tspan fill="#56d364">loka@nobara:~$</tspan><tspan fill="#484f58"> git log --all --oneline</tspan></text>
+<text x="886" y="23" font-size="11" fill="#f85149"      text-anchor="end">✕</text>
+<text x="868" y="23" font-size="11" fill="#484f58" text-anchor="end">□</text>
+<text x="850" y="23" font-size="11" fill="#484f58" text-anchor="end">─</text>
+<text x="18" y="50" font-size="9" fill="#484f58">DATE</text>
+<text x="110" y="50" font-size="9" fill="#484f58">TYPE</text>
+<text x="252" y="50" font-size="9" fill="#484f58">REPOSITORY</text>
+<text x="468" y="50" font-size="9" fill="#484f58">DETAILS</text>
+<line x1="1" y1="56" x2="899" y2="56" stroke="#21262d" stroke-width="0.5"/>
+<g class="r0">
+  <text x="18"   y="75" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="75" font-size="11" fill="#484f58" font-weight="bold">DELETE</text>
+  <text x="252"   y="75" font-size="11" fill="#c9d1d9">xcp-ng-rpms/xapi</text>
+  <text x="468" y="75" font-size="11" fill="#8b949e">branch: 8.3-secure_client-renegotiation_to</text>
+</g>
+<line x1="1" y1="86" x2="899" y2="86" stroke="#21262d" stroke-width="0.5"/>
+<g class="r1">
+  <text x="18"   y="105" font-size="11" fill="#484f58">2026-03-11</text>
+  <text x="110"   y="105" font-size="11" fill="#58a6ff" font-weight="bold">PR CLOSED</text>
+  <text x="252"   y="105" font-size="11" fill="#c9d1d9">xcp-ng-rpms/xapi</text>
+  <text x="468" y="105" font-size="11" fill="#8b949e">PR closed</text>
+</g>
+<line x1="1" y1="116" x2="899" y2="116" stroke="#21262d" stroke-width="0.5"/>
+<g class="r2">
+  <text x="18"   y="135" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="135" font-size="11" fill="#bc8cff" font-weight="bold">REVIEW</text>
+  <text x="252"   y="135" font-size="11" fill="#c9d1d9">xcp-ng-rpms/ldns</text>
+</g>
+<line x1="1" y1="146" x2="899" y2="146" stroke="#21262d" stroke-width="0.5"/>
+<g class="r3">
+  <text x="18"   y="165" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="165" font-size="11" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="252"   y="165" font-size="11" fill="#c9d1d9">xcp-ng-rpms/ldns</text>
+  <text x="468" y="165" font-size="11" fill="#8b949e">→ lrr_cve_2026_10846</text>
+</g>
+<line x1="1" y1="176" x2="899" y2="176" stroke="#21262d" stroke-width="0.5"/>
+<g class="r4">
+  <text x="18"   y="195" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="195" font-size="11" fill="#bc8cff" font-weight="bold">REVIEW</text>
+  <text x="252"   y="195" font-size="11" fill="#c9d1d9">xcp-ng-rpms/ldns</text>
+</g>
+<line x1="1" y1="206" x2="899" y2="206" stroke="#21262d" stroke-width="0.5"/>
+<g class="r5">
+  <text x="18"   y="225" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="225" font-size="11" fill="#58a6ff" font-weight="bold">PR OPENED</text>
+  <text x="252"   y="225" font-size="11" fill="#c9d1d9">NLnetLabs/ldns</text>
+  <text x="468" y="225" font-size="11" fill="#8b949e">PR opened</text>
+</g>
+<line x1="1" y1="236" x2="899" y2="236" stroke="#21262d" stroke-width="0.5"/>
+<g class="r6">
+  <text x="18"   y="255" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="255" font-size="11" fill="#f0883e" font-weight="bold">CREATE BRANCH</text>
+  <text x="252"   y="255" font-size="11" fill="#c9d1d9">ldns</text>
+  <text x="468" y="255" font-size="11" fill="#8b949e">lle-release_1_7_x-backport-cve-2026-10846</text>
+</g>
+<line x1="1" y1="266" x2="899" y2="266" stroke="#21262d" stroke-width="0.5"/>
+<g class="r7">
+  <text x="18"   y="285" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="285" font-size="11" fill="#484f58" font-weight="bold">DELETE</text>
+  <text x="252"   y="285" font-size="11" fill="#c9d1d9">ldns</text>
+  <text x="468" y="285" font-size="11" fill="#8b949e">branch: lle_backport_fix_cve_2026_10846</text>
+</g>
+<line x1="1" y1="296" x2="899" y2="296" stroke="#21262d" stroke-width="0.5"/>
+<g class="r8">
+  <text x="18"   y="315" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="315" font-size="11" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="252"   y="315" font-size="11" fill="#c9d1d9">ldns</text>
+  <text x="468" y="315" font-size="11" fill="#8b949e">→ lle_backport_fix_cve_2026_10846</text>
+</g>
+<line x1="1" y1="326" x2="899" y2="326" stroke="#21262d" stroke-width="0.5"/>
+<g class="r9">
+  <text x="18"   y="345" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="345" font-size="11" fill="#f0883e" font-weight="bold">CREATE BRANCH</text>
+  <text x="252"   y="345" font-size="11" fill="#c9d1d9">ldns</text>
+  <text x="468" y="345" font-size="11" fill="#8b949e">lle_backport_fix_cve_2026_10846</text>
+</g>
+<line x1="1" y1="356" x2="899" y2="356" stroke="#21262d" stroke-width="0.5"/>
+<g class="r10">
+  <text x="18"   y="375" font-size="11" fill="#484f58">2026-06-30</text>
+  <text x="110"   y="375" font-size="11" fill="#f0883e" font-weight="bold">FORK</text>
+  <text x="252"   y="375" font-size="11" fill="#c9d1d9">NLnetLabs/ldns</text>
+  <text x="468" y="375" font-size="11" fill="#8b949e">LucienLassalle/ldns</text>
+</g>
+<line x1="1" y1="386" x2="899" y2="386" stroke="#21262d" stroke-width="0.5"/>
+<g class="r11">
+  <text x="18"   y="405" font-size="11" fill="#484f58">2026-06-29</text>
+  <text x="110"   y="405" font-size="11" fill="#58a6ff" font-weight="bold">PR OPENED</text>
+  <text x="252"   y="405" font-size="11" fill="#c9d1d9">xcp-ng-rpms/libreswan</text>
+  <text x="468" y="405" font-size="11" fill="#8b949e">PR opened</text>
+</g>
+<rect x="1" y="1" width="898" height="420" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+
+</svg>
