@@ -31,7 +31,7 @@
 
 </div>
 
-> _210 public contributions · 2 issues opened / 1 closed_
+> _0 public contributions · 0 issues opened / 0 closed_
 
 ---
 
@@ -63,7 +63,7 @@
 
 </div>
 
-<sub>74 PRs merged · 6 open in total</sub>
+<sub>0 PRs merged · 0 open in total</sub>
 
 ---
 
@@ -109,7 +109,7 @@
 <div align="center">
 
 <sub>
-Auto-generated daily · 2026-07-01 · 7 followers · 4 following ·
+Auto-generated daily · 2026-07-01 · 0 followers · 0 following ·
 <!-- <a href="https://github.com/LucienLassalle/Dynamic-Readme">How this works ↗</a> -->
 </sub>
 
