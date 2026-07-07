@@ -20,7 +20,7 @@
   <circle cx="24" cy="95" r="5" fill="#56d364"/>
   <text x="44"  y="99" font-size="13" fill="#8b949e">xcp-ng-rpms/ldns</text>
   <text x="270" y="99" font-size="13" fill="#c9d1d9">fix: CVE-2026-10846</text>
-  <text x="882"  y="99" font-size="12" fill="#484f58" text-anchor="end">2026-07-06</text>
+  <text x="882"  y="99" font-size="12" fill="#484f58" text-anchor="end">2026-07-07</text>
 </g>
 <line x1="1" y1="110" x2="899" y2="110" stroke="#21262d" stroke-width="0.5"/>
 <g class="r1">
