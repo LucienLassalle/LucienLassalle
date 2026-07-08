@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="146" viewBox="0 0 900 146">
-  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}.c0{animation:fi .3s 0.00s ease both}.c1{animation:fi .3s 0.04s ease both}.c2{animation:fi .3s 0.08s ease both}.c3{animation:fi .3s 0.12s ease both}.c4{animation:fi .3s 0.16s ease both}.c5{animation:fi .3s 0.20s ease both}.c6{animation:fi .3s 0.24s ease both}.c7{animation:fi .3s 0.28s ease both}.c8{animation:fi .3s 0.32s ease both}.c9{animation:fi .3s 0.36s ease both}.c10{animation:fi .3s 0.40s ease both}.c11{animation:fi .3s 0.44s ease both}</style></defs>
-<rect width="900" height="146" fill="#0d1117" rx="10"/>
-<rect x="1" y="1" width="898" height="144" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="108" viewBox="0 0 900 108">
+  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}.c0{animation:fi .3s 0.00s ease both}.c1{animation:fi .3s 0.04s ease both}.c2{animation:fi .3s 0.08s ease both}.c3{animation:fi .3s 0.12s ease both}.c4{animation:fi .3s 0.16s ease both}.c5{animation:fi .3s 0.20s ease both}.c6{animation:fi .3s 0.24s ease both}.c7{animation:fi .3s 0.28s ease both}.c8{animation:fi .3s 0.32s ease both}.c9{animation:fi .3s 0.36s ease both}.c10{animation:fi .3s 0.40s ease both}</style></defs>
+<rect width="900" height="108" fill="#0d1117" rx="10"/>
+<rect x="1" y="1" width="898" height="106" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
 <rect width="900" height="36" fill="#161b22" rx="10"/>
 <rect y="24" width="900" height="12" fill="#161b22"/>
 <text x="14" y="23" font-size="13"><tspan fill="#56d364">loka@nobara:~$</tspan><tspan fill="#484f58"> cat languages.txt</tspan></text>
@@ -62,11 +62,6 @@
   <rect x="790" y="56" width="60" height="28" rx="14" fill="#0d1117" stroke="#b07219" stroke-width="1.5"/>
   <circle cx="802" cy="70" r="4" fill="#b07219"/>
   <text x="810" y="74" font-size="14" fill="#c9d1d9">Java</text>
-</g>
-<g class="c11">
-  <rect x="22" y="94" width="108" height="28" rx="14" fill="#0d1117" stroke="#384d54" stroke-width="1.5"/>
-  <circle cx="34" cy="108" r="4" fill="#384d54"/>
-  <text x="42" y="112" font-size="14" fill="#c9d1d9">Dockerfile</text>
 </g>
 
 </svg>
