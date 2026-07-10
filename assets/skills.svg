@@ -10,110 +10,110 @@
 <text x="850" y="23" font-size="13" fill="#484f58" text-anchor="end">─</text>
 <text x="22" y="69" font-size="11" fill="#58a6ff" font-weight="bold">INFRASTRUCTURE &amp; TOOLS</text>
 <g class="c0">
-  <rect x="22" y="76" width="66" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="34" y="93" font-size="13" fill="#c9d1d9">XCP-ng</text>
+  <rect x="22" y="76" width="74.8" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="36" y="93" font-size="13" fill="#c9d1d9">XCP-ng</text>
 </g>
 <g class="c1">
-  <rect x="96" y="76" width="115" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="108" y="93" font-size="13" fill="#c9d1d9">Xen Orchestra</text>
+  <rect x="104.8" y="76" width="129.39999999999998" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="118.8" y="93" font-size="13" fill="#c9d1d9">Xen Orchestra</text>
 </g>
 <g class="c2">
-  <rect x="219" y="76" width="66" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="231" y="93" font-size="13" fill="#c9d1d9">Docker</text>
+  <rect x="242.2" y="76" width="74.8" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="256.2" y="93" font-size="13" fill="#c9d1d9">Docker</text>
 </g>
 <g class="c3">
-  <rect x="293" y="76" width="59" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="305" y="93" font-size="13" fill="#c9d1d9">Linux</text>
+  <rect x="325.0" y="76" width="67.0" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="339.0" y="93" font-size="13" fill="#c9d1d9">Linux</text>
 </g>
 <g class="c4">
-  <rect x="360" y="76" width="59" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="372" y="93" font-size="13" fill="#c9d1d9">Nginx</text>
+  <rect x="400.0" y="76" width="67.0" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="414.0" y="93" font-size="13" fill="#c9d1d9">Nginx</text>
 </g>
 <g class="c5">
-  <rect x="427" y="76" width="87" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="439" y="93" font-size="13" fill="#c9d1d9">WireGuard</text>
+  <rect x="475.0" y="76" width="98.2" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="489.0" y="93" font-size="13" fill="#c9d1d9">WireGuard</text>
 </g>
 <g class="c6">
-  <rect x="522" y="76" width="108" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="534" y="93" font-size="13" fill="#c9d1d9">AdGuard Home</text>
+  <rect x="581.2" y="76" width="121.6" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="595.2" y="93" font-size="13" fill="#c9d1d9">AdGuard Home</text>
 </g>
 <g class="c7">
-  <rect x="638" y="76" width="101" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="650" y="93" font-size="13" fill="#c9d1d9">Uptime Kuma</text>
+  <rect x="710.8000000000001" y="76" width="113.8" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="724.8000000000001" y="93" font-size="13" fill="#c9d1d9">Uptime Kuma</text>
 </g>
 <g class="c8">
-  <rect x="747" y="76" width="66" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="759" y="93" font-size="13" fill="#c9d1d9">Ollama</text>
+  <rect x="22" y="110" width="74.8" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="36" y="127" font-size="13" fill="#c9d1d9">Ollama</text>
 </g>
 <g class="c9">
-  <rect x="22" y="110" width="87" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="34" y="127" font-size="13" fill="#c9d1d9">Portainer</text>
+  <rect x="104.8" y="110" width="98.2" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="118.8" y="127" font-size="13" fill="#c9d1d9">Portainer</text>
 </g>
 <g class="c10">
-  <rect x="117" y="110" width="73" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="129" y="127" font-size="13" fill="#c9d1d9">Synapse</text>
+  <rect x="211.0" y="110" width="82.6" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="225.0" y="127" font-size="13" fill="#c9d1d9">Synapse</text>
 </g>
 <g class="c11">
-  <rect x="198" y="110" width="73" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="210" y="127" font-size="13" fill="#c9d1d9">Systemd</text>
+  <rect x="301.6" y="110" width="82.6" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="315.6" y="127" font-size="13" fill="#c9d1d9">Systemd</text>
 </g>
 <g class="c12">
-  <rect x="279" y="110" width="94" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="291" y="127" font-size="13" fill="#c9d1d9">Prometheus</text>
+  <rect x="392.20000000000005" y="110" width="106.0" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="406.20000000000005" y="127" font-size="13" fill="#c9d1d9">Prometheus</text>
 </g>
 <g class="c13">
-  <rect x="381" y="110" width="52" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="393" y="127" font-size="13" fill="#c9d1d9">Loki</text>
+  <rect x="506.20000000000005" y="110" width="59.2" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="520.2" y="127" font-size="13" fill="#c9d1d9">Loki</text>
 </g>
 <g class="c14">
-  <rect x="441" y="110" width="73" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="453" y="127" font-size="13" fill="#c9d1d9">Grafana</text>
+  <rect x="573.4000000000001" y="110" width="82.6" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="587.4000000000001" y="127" font-size="13" fill="#c9d1d9">Grafana</text>
 </g>
 <g class="c15">
-  <rect x="522" y="110" width="115" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="534" y="127" font-size="13" fill="#c9d1d9">RPM packaging</text>
+  <rect x="664.0000000000001" y="110" width="129.39999999999998" height="26" rx="13" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="678.0000000000001" y="127" font-size="13" fill="#c9d1d9">RPM packaging</text>
 </g>
 <text x="22" y="167" font-size="11" fill="#f85149" font-weight="bold">SECURITY</text>
 <g class="c16">
-  <rect x="22" y="174" width="108" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
-  <text x="34" y="191" font-size="13" fill="#c9d1d9">CVE Patching</text>
+  <rect x="22" y="174" width="121.6" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
+  <text x="36" y="191" font-size="13" fill="#c9d1d9">CVE Patching</text>
 </g>
 <g class="c17">
-  <rect x="138" y="174" width="80" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
-  <text x="150" y="191" font-size="13" fill="#c9d1d9">fail2ban</text>
+  <rect x="151.6" y="174" width="90.4" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
+  <text x="165.6" y="191" font-size="13" fill="#c9d1d9">fail2ban</text>
 </g>
 <g class="c18">
-  <rect x="226" y="174" width="143" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
-  <text x="238" y="191" font-size="13" fill="#c9d1d9">OpenSSH hardening</text>
+  <rect x="250.0" y="174" width="160.6" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
+  <text x="264.0" y="191" font-size="13" fill="#c9d1d9">OpenSSH hardening</text>
 </g>
 <g class="c19">
-  <rect x="377" y="174" width="73" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
-  <text x="389" y="191" font-size="13" fill="#c9d1d9">OpenSSL</text>
+  <rect x="418.6" y="174" width="82.6" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
+  <text x="432.6" y="191" font-size="13" fill="#c9d1d9">OpenSSL</text>
 </g>
 <g class="c20">
-  <rect x="458" y="174" width="101" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
-  <text x="470" y="191" font-size="13" fill="#c9d1d9">Pen Testing</text>
+  <rect x="509.20000000000005" y="174" width="113.8" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
+  <text x="523.2" y="191" font-size="13" fill="#c9d1d9">Pen Testing</text>
 </g>
 <g class="c21">
-  <rect x="567" y="174" width="45" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
-  <text x="579" y="191" font-size="13" fill="#c9d1d9">CTF</text>
+  <rect x="631.0" y="174" width="51.4" height="26" rx="13" fill="#0d1117" stroke="#f85149" stroke-width="1"/>
+  <text x="645.0" y="191" font-size="13" fill="#c9d1d9">CTF</text>
 </g>
 <text x="22" y="231" font-size="11" fill="#bc8cff" font-weight="bold">DATABASES</text>
 <g class="c22">
-  <rect x="22" y="238" width="94" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
-  <text x="34" y="255" font-size="13" fill="#c9d1d9">PostgreSQL</text>
+  <rect x="22" y="238" width="106.0" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
+  <text x="36" y="255" font-size="13" fill="#c9d1d9">PostgreSQL</text>
 </g>
 <g class="c23">
-  <rect x="124" y="238" width="59" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
-  <text x="136" y="255" font-size="13" fill="#c9d1d9">MySQL</text>
+  <rect x="136.0" y="238" width="67.0" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
+  <text x="150.0" y="255" font-size="13" fill="#c9d1d9">MySQL</text>
 </g>
 <g class="c24">
-  <rect x="191" y="238" width="73" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
-  <text x="203" y="255" font-size="13" fill="#c9d1d9">MariaDB</text>
+  <rect x="211.0" y="238" width="82.6" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
+  <text x="225.0" y="255" font-size="13" fill="#c9d1d9">MariaDB</text>
 </g>
 <g class="c25">
-  <rect x="272" y="238" width="66" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
-  <text x="284" y="255" font-size="13" fill="#c9d1d9">SQLite</text>
+  <rect x="301.6" y="238" width="74.8" height="26" rx="13" fill="#0d1117" stroke="#bc8cff" stroke-width="1"/>
+  <text x="315.6" y="255" font-size="13" fill="#c9d1d9">SQLite</text>
 </g>
 
 </svg>

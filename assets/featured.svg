@@ -13,21 +13,21 @@
 <line x1="22" y1="102" x2="878" y2="102" stroke="#21262d" stroke-width="0.5"/>
 <text x="22" y="121" font-size="15" fill="#58a6ff" font-weight="bold">SLE</text>
 <text x="878" y="121" font-size="13" fill="#bc8cff" text-anchor="end">★ 1</text>
-<rect x="776" y="109" width="64" height="15" rx="7" fill="#0d1117" stroke="#3572A5" stroke-width="1"/>
-<circle cx="785" cy="117" r="3" fill="#3572A5"/>
-<text x="792" y="121" font-size="11" fill="#c9d1d9">Python</text>
+<rect x="765.4000000000001" y="109" width="70.8" height="15" rx="7" fill="#0d1117" stroke="#3572A5" stroke-width="1"/>
+<circle cx="774.4000000000001" cy="117" r="3" fill="#3572A5"/>
+<text x="781.4000000000001" y="121" font-size="11" fill="#c9d1d9">Python</text>
 <text x="22" y="140" font-size="13" fill="#8b949e">SLE (Simple Log Exporter) is a lightweight Python service that allows you to send logs to </text>
 <line x1="22" y1="154" x2="878" y2="154" stroke="#21262d" stroke-width="0.5"/>
 <text x="22" y="173" font-size="15" fill="#58a6ff" font-weight="bold">Vsftpd-exporter</text>
-<rect x="842" y="161" width="36" height="15" rx="7" fill="#0d1117" stroke="#00ADD8" stroke-width="1"/>
-<circle cx="851" cy="169" r="3" fill="#00ADD8"/>
-<text x="858" y="173" font-size="11" fill="#c9d1d9">Go</text>
+<rect x="838.4" y="161" width="39.6" height="15" rx="7" fill="#0d1117" stroke="#00ADD8" stroke-width="1"/>
+<circle cx="847.4" cy="169" r="3" fill="#00ADD8"/>
+<text x="854.4" y="173" font-size="11" fill="#c9d1d9">Go</text>
 <text x="22" y="192" font-size="13" fill="#8b949e">A simple exporter use to prometheus</text>
 <line x1="22" y1="206" x2="878" y2="206" stroke="#21262d" stroke-width="0.5"/>
 <text x="22" y="225" font-size="15" fill="#58a6ff" font-weight="bold">Matrix_Werewolf</text>
-<rect x="814" y="213" width="64" height="15" rx="7" fill="#0d1117" stroke="#3572A5" stroke-width="1"/>
-<circle cx="823" cy="221" r="3" fill="#3572A5"/>
-<text x="830" y="225" font-size="11" fill="#c9d1d9">Python</text>
+<rect x="807.2" y="213" width="70.8" height="15" rx="7" fill="#0d1117" stroke="#3572A5" stroke-width="1"/>
+<circle cx="816.2" cy="221" r="3" fill="#3572A5"/>
+<text x="823.2" y="225" font-size="11" fill="#c9d1d9">Python</text>
 <text x="22" y="244" font-size="13" fill="#8b949e">French bot for playing Werewolf with friends on Matrix.</text>
 
 </svg>

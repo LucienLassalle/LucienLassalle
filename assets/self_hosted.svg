@@ -10,11 +10,11 @@
 <text x="850" y="23" font-size="13" fill="#484f58" text-anchor="end">─</text>
 <circle cx="24" cy="66" r="4" fill="#56d364"/>
 <text x="38" y="70" font-size="14" fill="#58a6ff" font-weight="bold">Matrix</text>
-<text x="108" y="70" font-size="13" fill="#484f58">chat.lloka.fr</text>
+<text x="113.6" y="70" font-size="13" fill="#484f58">chat.lloka.fr</text>
 <text x="878" y="70" font-size="13" fill="#8b949e" text-anchor="end">Self-hosted Matrix homeserver · chat.lloka.fr</text>
 <circle cx="24" cy="98" r="4" fill="#56d364"/>
 <text x="38" y="102" font-size="14" fill="#58a6ff" font-weight="bold">MotorsportDB</text>
-<text x="162" y="102" font-size="13" fill="#484f58">motorsportdb.org</text>
+<text x="171.2" y="102" font-size="13" fill="#484f58">motorsportdb.org</text>
 <text x="878" y="102" font-size="13" fill="#8b949e" text-anchor="end">Open motorsport database &amp; website · motorsportdb.org</text>
 
 </svg>
