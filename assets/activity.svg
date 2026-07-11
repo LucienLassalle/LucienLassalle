@@ -13,84 +13,86 @@
 <text x="468" y="50" font-size="11" fill="#484f58">DETAILS</text>
 <line x1="1" y1="56" x2="899" y2="56" stroke="#21262d" stroke-width="0.5"/>
 <g class="r0">
-  <text x="18"   y="75" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="75" font-size="13" fill="#58a6ff" font-weight="bold">PR MERGED</text>
-  <text x="252"   y="75" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="75" font-size="13" fill="#8b949e">PR merged</text>
+  <text x="18"   y="75" font-size="13" fill="#484f58">2026-07-10</text>
+  <text x="110"   y="75" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="252"   y="75" font-size="13" fill="#c9d1d9">Beam-RemotePlus-Mobile</text>
+  <text x="468" y="75" font-size="13" fill="#8b949e">→ master</text>
 </g>
 <line x1="1" y1="86" x2="899" y2="86" stroke="#21262d" stroke-width="0.5"/>
 <g class="r1">
-  <text x="18"   y="105" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="105" font-size="13" fill="#58a6ff" font-weight="bold">PR OPENED</text>
-  <text x="252"   y="105" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="105" font-size="13" fill="#8b949e">PR opened</text>
+  <text x="18"   y="105" font-size="13" fill="#484f58">2026-07-10</text>
+  <text x="110"   y="105" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="252"   y="105" font-size="13" fill="#c9d1d9">Beam-RemotePlus-Mod</text>
+  <text x="468" y="105" font-size="13" fill="#8b949e">→ master</text>
 </g>
 <line x1="1" y1="116" x2="899" y2="116" stroke="#21262d" stroke-width="0.5"/>
 <g class="r2">
-  <text x="18"   y="135" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="135" font-size="13" fill="#f0883e" font-weight="bold">CREATE BRANCH</text>
+  <text x="18"   y="135" font-size="13" fill="#484f58">2026-07-10</text>
+  <text x="110"   y="135" font-size="13" fill="#58a6ff" font-weight="bold">PR OPENED</text>
   <text x="252"   y="135" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="135" font-size="13" fill="#8b949e">lle-linux-fix</text>
+  <text x="468" y="135" font-size="13" fill="#8b949e">PR opened</text>
 </g>
 <line x1="1" y1="146" x2="899" y2="146" stroke="#21262d" stroke-width="0.5"/>
 <g class="r3">
-  <text x="18"   y="165" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="165" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="18"   y="165" font-size="13" fill="#484f58">2026-07-10</text>
+  <text x="110"   y="165" font-size="13" fill="#484f58" font-weight="bold">DELETE</text>
   <text x="252"   y="165" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="165" font-size="13" fill="#8b949e">→ staging</text>
+  <text x="468" y="165" font-size="13" fill="#8b949e">branch: fix/ad-cmdlet</text>
 </g>
 <line x1="1" y1="176" x2="899" y2="176" stroke="#21262d" stroke-width="0.5"/>
 <g class="r4">
-  <text x="18"   y="195" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="195" font-size="13" fill="#bc8cff" font-weight="bold">REVIEW</text>
+  <text x="18"   y="195" font-size="13" fill="#484f58">2026-07-10</text>
+  <text x="110"   y="195" font-size="13" fill="#484f58" font-weight="bold">DELETE</text>
   <text x="252"   y="195" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
+  <text x="468" y="195" font-size="13" fill="#8b949e">branch: feat/diagnostic</text>
 </g>
 <line x1="1" y1="206" x2="899" y2="206" stroke="#21262d" stroke-width="0.5"/>
 <g class="r5">
-  <text x="18"   y="225" font-size="13" fill="#484f58">2026-07-09</text>
+  <text x="18"   y="225" font-size="13" fill="#484f58">2026-07-10</text>
   <text x="110"   y="225" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
-  <text x="252"   y="225" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="225" font-size="13" fill="#8b949e">→ staging</text>
+  <text x="252"   y="225" font-size="13" fill="#c9d1d9">LucienLassalle</text>
+  <text x="468" y="225" font-size="13" fill="#8b949e">→ main</text>
 </g>
 <line x1="1" y1="236" x2="899" y2="236" stroke="#21262d" stroke-width="0.5"/>
 <g class="r6">
-  <text x="18"   y="255" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="255" font-size="13" fill="#bc8cff" font-weight="bold">REVIEW</text>
-  <text x="252"   y="255" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
+  <text x="18"   y="255" font-size="13" fill="#484f58">2026-07-10</text>
+  <text x="110"   y="255" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="252"   y="255" font-size="13" fill="#c9d1d9">LucienLassalle</text>
+  <text x="468" y="255" font-size="13" fill="#8b949e">→ main</text>
 </g>
 <line x1="1" y1="266" x2="899" y2="266" stroke="#21262d" stroke-width="0.5"/>
 <g class="r7">
   <text x="18"   y="285" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="285" font-size="13" fill="#484f58" font-weight="bold">DELETE</text>
+  <text x="110"   y="285" font-size="13" fill="#58a6ff" font-weight="bold">PR MERGED</text>
   <text x="252"   y="285" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="285" font-size="13" fill="#8b949e">branch: fix/windows-ad-ds</text>
+  <text x="468" y="285" font-size="13" fill="#8b949e">PR merged</text>
 </g>
 <line x1="1" y1="296" x2="899" y2="296" stroke="#21262d" stroke-width="0.5"/>
 <g class="r8">
   <text x="18"   y="315" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="315" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="110"   y="315" font-size="13" fill="#58a6ff" font-weight="bold">PR OPENED</text>
   <text x="252"   y="315" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="315" font-size="13" fill="#8b949e">→ staging</text>
+  <text x="468" y="315" font-size="13" fill="#8b949e">PR opened</text>
 </g>
 <line x1="1" y1="326" x2="899" y2="326" stroke="#21262d" stroke-width="0.5"/>
 <g class="r9">
   <text x="18"   y="345" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="345" font-size="13" fill="#bc8cff" font-weight="bold">REVIEW</text>
+  <text x="110"   y="345" font-size="13" fill="#f0883e" font-weight="bold">CREATE BRANCH</text>
   <text x="252"   y="345" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
+  <text x="468" y="345" font-size="13" fill="#8b949e">lle-linux-fix</text>
 </g>
 <line x1="1" y1="356" x2="899" y2="356" stroke="#21262d" stroke-width="0.5"/>
 <g class="r10">
   <text x="18"   y="375" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="375" font-size="13" fill="#58a6ff" font-weight="bold">PR MERGED</text>
+  <text x="110"   y="375" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
   <text x="252"   y="375" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="375" font-size="13" fill="#8b949e">PR merged</text>
+  <text x="468" y="375" font-size="13" fill="#8b949e">→ staging</text>
 </g>
 <line x1="1" y1="386" x2="899" y2="386" stroke="#21262d" stroke-width="0.5"/>
 <g class="r11">
   <text x="18"   y="405" font-size="13" fill="#484f58">2026-07-09</text>
-  <text x="110"   y="405" font-size="13" fill="#56d364" font-weight="bold">PUSH</text>
+  <text x="110"   y="405" font-size="13" fill="#bc8cff" font-weight="bold">REVIEW</text>
   <text x="252"   y="405" font-size="13" fill="#c9d1d9">ThatsMeTomtom/projet_power</text>
-  <text x="468" y="405" font-size="13" fill="#8b949e">→ staging</text>
 </g>
 <rect x="1" y="1" width="898" height="420" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
 
