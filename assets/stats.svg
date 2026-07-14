@@ -15,7 +15,7 @@
 <text x="225" y="110" font-size="32" font-weight="bold" fill="#f0883e" text-anchor="middle">5</text>
 <line x1="300" y1="46" x2="300" y2="132" stroke="#21262d" stroke-width="1"/>
 <text x="375" y="62" font-size="12" fill="#8b949e" text-anchor="middle">★  Stars Earned</text>
-<text x="375" y="110" font-size="32" font-weight="bold" fill="#bc8cff" text-anchor="middle">10</text>
+<text x="375" y="110" font-size="32" font-weight="bold" fill="#bc8cff" text-anchor="middle">11</text>
 <line x1="450" y1="46" x2="450" y2="132" stroke="#21262d" stroke-width="1"/>
 <text x="525" y="62" font-size="12" fill="#8b949e" text-anchor="middle">!  Issues Opened</text>
 <text x="525" y="110" font-size="32" font-weight="bold" fill="#f85149" text-anchor="middle">2</text>
@@ -24,6 +24,6 @@
 <text x="675" y="110" font-size="32" font-weight="bold" fill="#58a6ff" text-anchor="middle">14</text>
 <line x1="750" y1="46" x2="750" y2="132" stroke="#21262d" stroke-width="1"/>
 <text x="825" y="62" font-size="12" fill="#8b949e" text-anchor="middle">♟  Followers</text>
-<text x="825" y="110" font-size="32" font-weight="bold" fill="#8b949e" text-anchor="middle">7</text>
+<text x="825" y="110" font-size="32" font-weight="bold" fill="#8b949e" text-anchor="middle">8</text>
 
 </svg>
