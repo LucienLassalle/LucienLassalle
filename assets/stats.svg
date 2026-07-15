@@ -12,7 +12,7 @@
 <text x="75" y="110" font-size="32" font-weight="bold" fill="#56d364" text-anchor="middle">77</text>
 <line x1="150" y1="46" x2="150" y2="132" stroke="#21262d" stroke-width="1"/>
 <text x="225" y="62" font-size="12" fill="#8b949e" text-anchor="middle">⌥  PRs Open</text>
-<text x="225" y="110" font-size="32" font-weight="bold" fill="#f0883e" text-anchor="middle">5</text>
+<text x="225" y="110" font-size="32" font-weight="bold" fill="#f0883e" text-anchor="middle">6</text>
 <line x1="300" y1="46" x2="300" y2="132" stroke="#21262d" stroke-width="1"/>
 <text x="375" y="62" font-size="12" fill="#8b949e" text-anchor="middle">★  Stars Earned</text>
 <text x="375" y="110" font-size="32" font-weight="bold" fill="#bc8cff" text-anchor="middle">11</text>
