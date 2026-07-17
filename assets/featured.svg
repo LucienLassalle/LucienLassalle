@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="272" viewBox="0 0 900 272">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="376" viewBox="0 0 900 376">
   <defs><style>text{font-family:'Courier New', Courier, monospace} </style></defs>
-<rect width="900" height="272" fill="#0d1117" rx="10"/>
-<rect x="1" y="1" width="898" height="270" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+<rect width="900" height="376" fill="#0d1117" rx="10"/>
+<rect x="1" y="1" width="898" height="374" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
 <rect width="900" height="36" fill="#161b22" rx="10"/>
 <rect y="24" width="900" height="12" fill="#161b22"/>
 <text x="14" y="23" font-size="13"><tspan fill="#56d364">loka@nobara:~$</tspan><tspan fill="#484f58"> ls -la projects/</tspan></text>
@@ -29,5 +29,16 @@
 <circle cx="816.2" cy="221" r="3" fill="#3572A5"/>
 <text x="823.2" y="225" font-size="11" fill="#c9d1d9">Python</text>
 <text x="22" y="244" font-size="13" fill="#8b949e">French bot for playing Werewolf with friends on Matrix.</text>
+<line x1="22" y1="258" x2="878" y2="258" stroke="#21262d" stroke-width="0.5"/>
+<text x="22" y="277" font-size="15" fill="#58a6ff" font-weight="bold">Beam-RemotePlus-Mod</text>
+<rect x="830.6" y="265" width="47.4" height="15" rx="7" fill="#0d1117" stroke="#000080" stroke-width="1"/>
+<circle cx="839.6" cy="273" r="3" fill="#000080"/>
+<text x="846.6" y="277" font-size="11" fill="#c9d1d9">Lua</text>
+<line x1="22" y1="310" x2="878" y2="310" stroke="#21262d" stroke-width="0.5"/>
+<text x="22" y="329" font-size="15" fill="#58a6ff" font-weight="bold">Beam-RemotePlus-Mobile</text>
+<rect x="822.8" y="317" width="55.2" height="15" rx="7" fill="#0d1117" stroke="#00B4AB" stroke-width="1"/>
+<circle cx="831.8" cy="325" r="3" fill="#00B4AB"/>
+<text x="838.8" y="329" font-size="11" fill="#c9d1d9">Dart</text>
+<text x="22" y="348" font-size="13" fill="#8b949e">BeamNG Remote Controller (Android phone)</text>
 
 </svg>
