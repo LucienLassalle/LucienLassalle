@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1886" viewBox="0 0 900 1886">
-  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes sl{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}.r0{animation:sl .3s 0.00s ease forwards;opacity:0}.r1{animation:sl .3s 0.05s ease forwards;opacity:0}.r2{animation:sl .3s 0.10s ease forwards;opacity:0}.r3{animation:sl .3s 0.15s ease forwards;opacity:0}.r4{animation:sl .3s 0.20s ease forwards;opacity:0}.r5{animation:sl .3s 0.25s ease forwards;opacity:0}.r6{animation:sl .3s 0.30s ease forwards;opacity:0}.r7{animation:sl .3s 0.35s ease forwards;opacity:0}.r8{animation:sl .3s 0.40s ease forwards;opacity:0}.r9{animation:sl .3s 0.45s ease forwards;opacity:0}.r10{animation:sl .3s 0.50s ease forwards;opacity:0}.r11{animation:sl .3s 0.55s ease forwards;opacity:0}.r12{animation:sl .3s 0.60s ease forwards;opacity:0}.r13{animation:sl .3s 0.65s ease forwards;opacity:0}.r14{animation:sl .3s 0.70s ease forwards;opacity:0}.r15{animation:sl .3s 0.75s ease forwards;opacity:0}.r16{animation:sl .3s 0.80s ease forwards;opacity:0}.r17{animation:sl .3s 0.85s ease forwards;opacity:0}.r18{animation:sl .3s 0.90s ease forwards;opacity:0}.r19{animation:sl .3s 0.95s ease forwards;opacity:0}.r20{animation:sl .3s 1.00s ease forwards;opacity:0}.r21{animation:sl .3s 1.05s ease forwards;opacity:0}.r22{animation:sl .3s 1.10s ease forwards;opacity:0}.r23{animation:sl .3s 1.15s ease forwards;opacity:0}.r24{animation:sl .3s 1.20s ease forwards;opacity:0}.r25{animation:sl .3s 1.25s ease forwards;opacity:0}.r26{animation:sl .3s 1.30s ease forwards;opacity:0}.r27{animation:sl .3s 1.35s ease forwards;opacity:0}.r28{animation:sl .3s 1.40s ease forwards;opacity:0}.r29{animation:sl .3s 1.45s ease forwards;opacity:0}.r30{animation:sl .3s 1.50s ease forwards;opacity:0}.r31{animation:sl .3s 1.55s ease forwards;opacity:0}.r32{animation:sl .3s 1.60s ease forwards;opacity:0}.r33{animation:sl .3s 1.65s ease forwards;opacity:0}.r34{animation:sl .3s 1.70s ease forwards;opacity:0}.r35{animation:sl .3s 1.75s ease forwards;opacity:0}.r36{animation:sl .3s 1.80s ease forwards;opacity:0}.r37{animation:sl .3s 1.85s ease forwards;opacity:0}.r38{animation:sl .3s 1.90s ease forwards;opacity:0}.r39{animation:sl .3s 1.95s ease forwards;opacity:0}.r40{animation:sl .3s 2.00s ease forwards;opacity:0}.r41{animation:sl .3s 2.05s ease forwards;opacity:0}.r42{animation:sl .3s 2.10s ease forwards;opacity:0}.r43{animation:sl .3s 2.15s ease forwards;opacity:0}.r44{animation:sl .3s 2.20s ease forwards;opacity:0}.r45{animation:sl .3s 2.25s ease forwards;opacity:0}.r46{animation:sl .3s 2.30s ease forwards;opacity:0}.r47{animation:sl .3s 2.35s ease forwards;opacity:0}.r48{animation:sl .3s 2.40s ease forwards;opacity:0}.r49{animation:sl .3s 2.45s ease forwards;opacity:0}.r50{animation:sl .3s 2.50s ease forwards;opacity:0}.r51{animation:sl .3s 2.55s ease forwards;opacity:0}.r52{animation:sl .3s 2.60s ease forwards;opacity:0}.r53{animation:sl .3s 2.65s ease forwards;opacity:0}.r54{animation:sl .3s 2.70s ease forwards;opacity:0}.r55{animation:sl .3s 2.75s ease forwards;opacity:0}</style></defs>
-<rect width="900" height="1886" fill="#0d1117" rx="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1916" viewBox="0 0 900 1916">
+  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes sl{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}.r0{animation:sl .3s 0.00s ease forwards;opacity:0}.r1{animation:sl .3s 0.05s ease forwards;opacity:0}.r2{animation:sl .3s 0.10s ease forwards;opacity:0}.r3{animation:sl .3s 0.15s ease forwards;opacity:0}.r4{animation:sl .3s 0.20s ease forwards;opacity:0}.r5{animation:sl .3s 0.25s ease forwards;opacity:0}.r6{animation:sl .3s 0.30s ease forwards;opacity:0}.r7{animation:sl .3s 0.35s ease forwards;opacity:0}.r8{animation:sl .3s 0.40s ease forwards;opacity:0}.r9{animation:sl .3s 0.45s ease forwards;opacity:0}.r10{animation:sl .3s 0.50s ease forwards;opacity:0}.r11{animation:sl .3s 0.55s ease forwards;opacity:0}.r12{animation:sl .3s 0.60s ease forwards;opacity:0}.r13{animation:sl .3s 0.65s ease forwards;opacity:0}.r14{animation:sl .3s 0.70s ease forwards;opacity:0}.r15{animation:sl .3s 0.75s ease forwards;opacity:0}.r16{animation:sl .3s 0.80s ease forwards;opacity:0}.r17{animation:sl .3s 0.85s ease forwards;opacity:0}.r18{animation:sl .3s 0.90s ease forwards;opacity:0}.r19{animation:sl .3s 0.95s ease forwards;opacity:0}.r20{animation:sl .3s 1.00s ease forwards;opacity:0}.r21{animation:sl .3s 1.05s ease forwards;opacity:0}.r22{animation:sl .3s 1.10s ease forwards;opacity:0}.r23{animation:sl .3s 1.15s ease forwards;opacity:0}.r24{animation:sl .3s 1.20s ease forwards;opacity:0}.r25{animation:sl .3s 1.25s ease forwards;opacity:0}.r26{animation:sl .3s 1.30s ease forwards;opacity:0}.r27{animation:sl .3s 1.35s ease forwards;opacity:0}.r28{animation:sl .3s 1.40s ease forwards;opacity:0}.r29{animation:sl .3s 1.45s ease forwards;opacity:0}.r30{animation:sl .3s 1.50s ease forwards;opacity:0}.r31{animation:sl .3s 1.55s ease forwards;opacity:0}.r32{animation:sl .3s 1.60s ease forwards;opacity:0}.r33{animation:sl .3s 1.65s ease forwards;opacity:0}.r34{animation:sl .3s 1.70s ease forwards;opacity:0}.r35{animation:sl .3s 1.75s ease forwards;opacity:0}.r36{animation:sl .3s 1.80s ease forwards;opacity:0}.r37{animation:sl .3s 1.85s ease forwards;opacity:0}.r38{animation:sl .3s 1.90s ease forwards;opacity:0}.r39{animation:sl .3s 1.95s ease forwards;opacity:0}.r40{animation:sl .3s 2.00s ease forwards;opacity:0}.r41{animation:sl .3s 2.05s ease forwards;opacity:0}.r42{animation:sl .3s 2.10s ease forwards;opacity:0}.r43{animation:sl .3s 2.15s ease forwards;opacity:0}.r44{animation:sl .3s 2.20s ease forwards;opacity:0}.r45{animation:sl .3s 2.25s ease forwards;opacity:0}.r46{animation:sl .3s 2.30s ease forwards;opacity:0}.r47{animation:sl .3s 2.35s ease forwards;opacity:0}.r48{animation:sl .3s 2.40s ease forwards;opacity:0}.r49{animation:sl .3s 2.45s ease forwards;opacity:0}.r50{animation:sl .3s 2.50s ease forwards;opacity:0}.r51{animation:sl .3s 2.55s ease forwards;opacity:0}.r52{animation:sl .3s 2.60s ease forwards;opacity:0}.r53{animation:sl .3s 2.65s ease forwards;opacity:0}.r54{animation:sl .3s 2.70s ease forwards;opacity:0}.r55{animation:sl .3s 2.75s ease forwards;opacity:0}.r56{animation:sl .3s 2.80s ease forwards;opacity:0}</style></defs>
+<rect width="900" height="1916" fill="#0d1117" rx="10"/>
 <path d="M 10 0 L 890 0 Q 900 0 900 10 L 900 36 L 0 36 L 0 10 Q 0 0 10 0 Z" fill="#161b22"/>
 <line x1="1" y1="36" x2="899" y2="36" stroke="#21262d" stroke-width="1"/>
 <text x="14" y="23" font-size="13"><tspan fill="#56d364">loka@nobara:~$</tspan><tspan fill="#484f58"> gh pr list --author @me --state all</tspan></text>
@@ -205,223 +205,230 @@
 </g>
 <rect x="1" y="908" width="898" height="24" fill="#161b22"/>
 <text x="18" y="924" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
-<text x="882" y="924" font-size="11" fill="#484f58" text-anchor="end">1 open · 2 closed · 10 merged</text>
+<text x="882" y="924" font-size="11" fill="#484f58" text-anchor="end">2 open · 2 closed · 10 merged</text>
 <line x1="1" y1="932" x2="899" y2="932" stroke="#21262d" stroke-width="0.5"/>
 <g class="r26">
   <circle cx="24" cy="947" r="5" fill="#56d364"/>
-  <text x="44"  y="951" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="951" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
-  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
+  <text x="44"  y="951" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
+  <text x="270" y="951" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
+  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-07-22</text>
 </g>
 <line x1="1" y1="962" x2="899" y2="962" stroke="#21262d" stroke-width="0.5"/>
 <g class="r27">
-  <circle cx="24" cy="977" r="5" fill="#bc8cff"/>
-  <text x="44"  y="981" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="981" font-size="13" fill="#c9d1d9">Fix: Linux character</text>
-  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-07-09</text>
+  <circle cx="24" cy="977" r="5" fill="#56d364"/>
+  <text x="44"  y="981" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
+  <text x="270" y="981" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
+  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
 </g>
 <line x1="1" y1="992" x2="899" y2="992" stroke="#21262d" stroke-width="0.5"/>
 <g class="r28">
   <circle cx="24" cy="1007" r="5" fill="#bc8cff"/>
   <text x="44"  y="1011" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="1011" font-size="13" fill="#c9d1d9">Fix: Use french date &amp; Version is deprecated</text>
-  <text x="882"  y="1011" font-size="12" fill="#484f58" text-anchor="end">2026-07-08</text>
+  <text x="270" y="1011" font-size="13" fill="#c9d1d9">Fix: Linux character</text>
+  <text x="882"  y="1011" font-size="12" fill="#484f58" text-anchor="end">2026-07-09</text>
 </g>
 <line x1="1" y1="1022" x2="899" y2="1022" stroke="#21262d" stroke-width="0.5"/>
 <g class="r29">
   <circle cx="24" cy="1037" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1041" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="1041" font-size="13" fill="#c9d1d9">Fix: Potential ECDSA and CA Authorized_Keys ByPass</text>
-  <text x="882"  y="1041" font-size="12" fill="#484f58" text-anchor="end">2026-04-20</text>
+  <text x="44"  y="1041" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
+  <text x="270" y="1041" font-size="13" fill="#c9d1d9">Fix: Use french date &amp; Version is deprecated</text>
+  <text x="882"  y="1041" font-size="12" fill="#484f58" text-anchor="end">2026-07-08</text>
 </g>
 <line x1="1" y1="1052" x2="899" y2="1052" stroke="#21262d" stroke-width="0.5"/>
 <g class="r30">
-  <circle cx="24" cy="1067" r="5" fill="#f85149"/>
+  <circle cx="24" cy="1067" r="5" fill="#bc8cff"/>
   <text x="44"  y="1071" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="1071" font-size="13" fill="#c9d1d9">Fix(testsuite): Fix testsuite and fix ciphers</text>
-  <text x="882"  y="1071" font-size="12" fill="#484f58" text-anchor="end">2026-02-13</text>
+  <text x="270" y="1071" font-size="13" fill="#c9d1d9">Fix: Potential ECDSA and CA Authorized_Keys ByPass</text>
+  <text x="882"  y="1071" font-size="12" fill="#484f58" text-anchor="end">2026-04-20</text>
 </g>
 <line x1="1" y1="1082" x2="899" y2="1082" stroke="#21262d" stroke-width="0.5"/>
 <g class="r31">
-  <circle cx="24" cy="1097" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1101" font-size="13" fill="#8b949e">LucienLassalle/SLE</text>
-  <text x="270" y="1101" font-size="13" fill="#c9d1d9">Hotfix: conf</text>
-  <text x="882"  y="1101" font-size="12" fill="#484f58" text-anchor="end">2025-12-19</text>
+  <circle cx="24" cy="1097" r="5" fill="#f85149"/>
+  <text x="44"  y="1101" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
+  <text x="270" y="1101" font-size="13" fill="#c9d1d9">Fix(testsuite): Fix testsuite and fix ciphers</text>
+  <text x="882"  y="1101" font-size="12" fill="#484f58" text-anchor="end">2026-02-13</text>
 </g>
 <line x1="1" y1="1112" x2="899" y2="1112" stroke="#21262d" stroke-width="0.5"/>
 <g class="r32">
   <circle cx="24" cy="1127" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1131" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1131" font-size="13" fill="#c9d1d9">Fix: broken_links</text>
-  <text x="882"  y="1131" font-size="12" fill="#484f58" text-anchor="end">2025-11-23</text>
+  <text x="44"  y="1131" font-size="13" fill="#8b949e">LucienLassalle/SLE</text>
+  <text x="270" y="1131" font-size="13" fill="#c9d1d9">Hotfix: conf</text>
+  <text x="882"  y="1131" font-size="12" fill="#484f58" text-anchor="end">2025-12-19</text>
 </g>
 <line x1="1" y1="1142" x2="899" y2="1142" stroke="#21262d" stroke-width="0.5"/>
 <g class="r33">
   <circle cx="24" cy="1157" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1161" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
+  <text x="44"  y="1161" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
   <text x="270" y="1161" font-size="13" fill="#c9d1d9">Fix: broken_links</text>
   <text x="882"  y="1161" font-size="12" fill="#484f58" text-anchor="end">2025-11-23</text>
 </g>
 <line x1="1" y1="1172" x2="899" y2="1172" stroke="#21262d" stroke-width="0.5"/>
 <g class="r34">
   <circle cx="24" cy="1187" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1191" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1191" font-size="13" fill="#c9d1d9">Fix: broken_links &amp; bad picture</text>
+  <text x="44"  y="1191" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
+  <text x="270" y="1191" font-size="13" fill="#c9d1d9">Fix: broken_links</text>
   <text x="882"  y="1191" font-size="12" fill="#484f58" text-anchor="end">2025-11-23</text>
 </g>
 <line x1="1" y1="1202" x2="899" y2="1202" stroke="#21262d" stroke-width="0.5"/>
 <g class="r35">
   <circle cx="24" cy="1217" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1221" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1221" font-size="13" fill="#c9d1d9">Fix broken links &amp; better handle for proposal</text>
-  <text x="882"  y="1221" font-size="12" fill="#484f58" text-anchor="end">2025-06-12</text>
+  <text x="44"  y="1221" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1221" font-size="13" fill="#c9d1d9">Fix: broken_links &amp; bad picture</text>
+  <text x="882"  y="1221" font-size="12" fill="#484f58" text-anchor="end">2025-11-23</text>
 </g>
 <line x1="1" y1="1232" x2="899" y2="1232" stroke="#21262d" stroke-width="0.5"/>
 <g class="r36">
   <circle cx="24" cy="1247" r="5" fill="#bc8cff"/>
   <text x="44"  y="1251" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1251" font-size="13" fill="#c9d1d9">Hotfix for driverdle</text>
+  <text x="270" y="1251" font-size="13" fill="#c9d1d9">Fix broken links &amp; better handle for proposal</text>
   <text x="882"  y="1251" font-size="12" fill="#484f58" text-anchor="end">2025-06-12</text>
 </g>
 <line x1="1" y1="1262" x2="899" y2="1262" stroke="#21262d" stroke-width="0.5"/>
 <g class="r37">
   <circle cx="24" cy="1277" r="5" fill="#bc8cff"/>
   <text x="44"  y="1281" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1281" font-size="13" fill="#c9d1d9">Fix interface</text>
+  <text x="270" y="1281" font-size="13" fill="#c9d1d9">Hotfix for driverdle</text>
   <text x="882"  y="1281" font-size="12" fill="#484f58" text-anchor="end">2025-06-12</text>
 </g>
 <line x1="1" y1="1292" x2="899" y2="1292" stroke="#21262d" stroke-width="0.5"/>
 <g class="r38">
-  <circle cx="24" cy="1307" r="5" fill="#f85149"/>
-  <text x="44"  y="1311" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-release</text>
-  <text x="270" y="1311" font-size="13" fill="#c9d1d9">8.2 fix curl ciphers for xoa</text>
-  <text x="882"  y="1311" font-size="12" fill="#484f58" text-anchor="end">2025-01-14</text>
+  <circle cx="24" cy="1307" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1311" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1311" font-size="13" fill="#c9d1d9">Fix interface</text>
+  <text x="882"  y="1311" font-size="12" fill="#484f58" text-anchor="end">2025-06-12</text>
 </g>
-<rect x="1" y="1322" width="898" height="24" fill="#161b22"/>
-<text x="18" y="1338" font-size="12" fill="#58a6ff" font-weight="bold">🔄 Dependency updates</text>
-<text x="882" y="1338" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 1 merged</text>
-<line x1="1" y1="1346" x2="899" y2="1346" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="1322" x2="899" y2="1322" stroke="#21262d" stroke-width="0.5"/>
 <g class="r39">
-  <circle cx="24" cy="1361" r="5" fill="#56d364"/>
-  <text x="44"  y="1365" font-size="13" fill="#8b949e">Mayfly277/ctftime_events_inf</text>
-  <text x="270" y="1365" font-size="13" fill="#c9d1d9">Update for Python3</text>
-  <text x="882"  y="1365" font-size="12" fill="#484f58" text-anchor="end">2023-04-22</text>
+  <circle cx="24" cy="1337" r="5" fill="#f85149"/>
+  <text x="44"  y="1341" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-release</text>
+  <text x="270" y="1341" font-size="13" fill="#c9d1d9">8.2 fix curl ciphers for xoa</text>
+  <text x="882"  y="1341" font-size="12" fill="#484f58" text-anchor="end">2025-01-14</text>
 </g>
+<rect x="1" y="1352" width="898" height="24" fill="#161b22"/>
+<text x="18" y="1368" font-size="12" fill="#58a6ff" font-weight="bold">🔄 Dependency updates</text>
+<text x="882" y="1368" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 1 merged</text>
 <line x1="1" y1="1376" x2="899" y2="1376" stroke="#21262d" stroke-width="0.5"/>
 <g class="r40">
-  <circle cx="24" cy="1391" r="5" fill="#f85149"/>
-  <text x="44"  y="1395" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="1395" font-size="13" fill="#c9d1d9">Revert &quot;Update sudo to 1.9.17-4 from CentOS10&quot;</text>
-  <text x="882"  y="1395" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
+  <circle cx="24" cy="1391" r="5" fill="#56d364"/>
+  <text x="44"  y="1395" font-size="13" fill="#8b949e">Mayfly277/ctftime_events_inf</text>
+  <text x="270" y="1395" font-size="13" fill="#c9d1d9">Update for Python3</text>
+  <text x="882"  y="1395" font-size="12" fill="#484f58" text-anchor="end">2023-04-22</text>
 </g>
 <line x1="1" y1="1406" x2="899" y2="1406" stroke="#21262d" stroke-width="0.5"/>
 <g class="r41">
-  <circle cx="24" cy="1421" r="5" fill="#bc8cff"/>
+  <circle cx="24" cy="1421" r="5" fill="#f85149"/>
   <text x="44"  y="1425" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="1425" font-size="13" fill="#c9d1d9">Update sudo to 1.9.17-4 from CentOS10</text>
-  <text x="882"  y="1425" font-size="12" fill="#484f58" text-anchor="end">2026-06-18</text>
+  <text x="270" y="1425" font-size="13" fill="#c9d1d9">Revert &quot;Update sudo to 1.9.17-4 from CentOS10&quot;</text>
+  <text x="882"  y="1425" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
 </g>
-<rect x="1" y="1436" width="898" height="24" fill="#161b22"/>
-<text x="18" y="1452" font-size="12" fill="#58a6ff" font-weight="bold">🔧 Other contributions</text>
-<text x="882" y="1452" font-size="11" fill="#484f58" text-anchor="end">2 open · 2 closed · 10 merged</text>
-<line x1="1" y1="1460" x2="899" y2="1460" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="1436" x2="899" y2="1436" stroke="#21262d" stroke-width="0.5"/>
 <g class="r42">
-  <circle cx="24" cy="1475" r="5" fill="#56d364"/>
-  <text x="44"  y="1479" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="1479" font-size="13" fill="#c9d1d9">Merge staging --&gt; main</text>
-  <text x="882"  y="1479" font-size="12" fill="#484f58" text-anchor="end">2026-07-10</text>
+  <circle cx="24" cy="1451" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1455" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
+  <text x="270" y="1455" font-size="13" fill="#c9d1d9">Update sudo to 1.9.17-4 from CentOS10</text>
+  <text x="882"  y="1455" font-size="12" fill="#484f58" text-anchor="end">2026-06-18</text>
 </g>
+<rect x="1" y="1466" width="898" height="24" fill="#161b22"/>
+<text x="18" y="1482" font-size="12" fill="#58a6ff" font-weight="bold">🔧 Other contributions</text>
+<text x="882" y="1482" font-size="11" fill="#484f58" text-anchor="end">2 open · 2 closed · 10 merged</text>
 <line x1="1" y1="1490" x2="899" y2="1490" stroke="#21262d" stroke-width="0.5"/>
 <g class="r43">
   <circle cx="24" cy="1505" r="5" fill="#56d364"/>
-  <text x="44"  y="1509" font-size="13" fill="#8b949e">crazy-max/diun</text>
-  <text x="270" y="1509" font-size="13" fill="#c9d1d9">Improve watch_repo with newer_only option</text>
-  <text x="882"  y="1509" font-size="12" fill="#484f58" text-anchor="end">2026-06-16</text>
+  <text x="44"  y="1509" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
+  <text x="270" y="1509" font-size="13" fill="#c9d1d9">Merge staging --&gt; main</text>
+  <text x="882"  y="1509" font-size="12" fill="#484f58" text-anchor="end">2026-07-10</text>
 </g>
 <line x1="1" y1="1520" x2="899" y2="1520" stroke="#21262d" stroke-width="0.5"/>
 <g class="r44">
-  <circle cx="24" cy="1535" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1539" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="1539" font-size="13" fill="#c9d1d9">Merge from staging to main</text>
-  <text x="882"  y="1539" font-size="12" fill="#484f58" text-anchor="end">2026-07-09</text>
+  <circle cx="24" cy="1535" r="5" fill="#56d364"/>
+  <text x="44"  y="1539" font-size="13" fill="#8b949e">crazy-max/diun</text>
+  <text x="270" y="1539" font-size="13" fill="#c9d1d9">Improve watch_repo with newer_only option</text>
+  <text x="882"  y="1539" font-size="12" fill="#484f58" text-anchor="end">2026-06-16</text>
 </g>
 <line x1="1" y1="1550" x2="899" y2="1550" stroke="#21262d" stroke-width="0.5"/>
 <g class="r45">
   <circle cx="24" cy="1565" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1569" font-size="13" fill="#8b949e">xapi-project/xen-api</text>
-  <text x="270" y="1569" font-size="13" fill="#c9d1d9">xapi: Improve error reporting when pool join fails on TLS verificat</text>
-  <text x="882"  y="1569" font-size="12" fill="#484f58" text-anchor="end">2026-06-04</text>
+  <text x="44"  y="1569" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
+  <text x="270" y="1569" font-size="13" fill="#c9d1d9">Merge from staging to main</text>
+  <text x="882"  y="1569" font-size="12" fill="#484f58" text-anchor="end">2026-07-09</text>
 </g>
 <line x1="1" y1="1580" x2="899" y2="1580" stroke="#21262d" stroke-width="0.5"/>
 <g class="r46">
   <circle cx="24" cy="1595" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1599" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-build-env</text>
-  <text x="270" y="1599" font-size="13" fill="#c9d1d9">Use local image instead of pulling from ghcr.io</text>
-  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-03-23</text>
+  <text x="44"  y="1599" font-size="13" fill="#8b949e">xapi-project/xen-api</text>
+  <text x="270" y="1599" font-size="13" fill="#c9d1d9">xapi: Improve error reporting when pool join fails on TLS verificat</text>
+  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-06-04</text>
 </g>
 <line x1="1" y1="1610" x2="899" y2="1610" stroke="#21262d" stroke-width="0.5"/>
 <g class="r47">
   <circle cx="24" cy="1625" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1629" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1629" font-size="13" fill="#c9d1d9">Previsualisation and other improvments</text>
-  <text x="882"  y="1629" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
+  <text x="44"  y="1629" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-build-env</text>
+  <text x="270" y="1629" font-size="13" fill="#c9d1d9">Use local image instead of pulling from ghcr.io</text>
+  <text x="882"  y="1629" font-size="12" fill="#484f58" text-anchor="end">2026-03-23</text>
 </g>
 <line x1="1" y1="1640" x2="899" y2="1640" stroke="#21262d" stroke-width="0.5"/>
 <g class="r48">
-  <circle cx="24" cy="1655" r="5" fill="#f85149"/>
+  <circle cx="24" cy="1655" r="5" fill="#bc8cff"/>
   <text x="44"  y="1659" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1659" font-size="13" fill="#c9d1d9">In dev</text>
-  <text x="882"  y="1659" font-size="12" fill="#484f58" text-anchor="end">2025-12-07</text>
+  <text x="270" y="1659" font-size="13" fill="#c9d1d9">Previsualisation and other improvments</text>
+  <text x="882"  y="1659" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
 </g>
 <line x1="1" y1="1670" x2="899" y2="1670" stroke="#21262d" stroke-width="0.5"/>
 <g class="r49">
-  <circle cx="24" cy="1685" r="5" fill="#bc8cff"/>
+  <circle cx="24" cy="1685" r="5" fill="#f85149"/>
   <text x="44"  y="1689" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
   <text x="270" y="1689" font-size="13" fill="#c9d1d9">In dev</text>
-  <text x="882"  y="1689" font-size="12" fill="#484f58" text-anchor="end">2025-11-23</text>
+  <text x="882"  y="1689" font-size="12" fill="#484f58" text-anchor="end">2025-12-07</text>
 </g>
 <line x1="1" y1="1700" x2="899" y2="1700" stroke="#21262d" stroke-width="0.5"/>
 <g class="r50">
   <circle cx="24" cy="1715" r="5" fill="#bc8cff"/>
   <text x="44"  y="1719" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1719" font-size="13" fill="#c9d1d9">Rework interfaces</text>
-  <text x="882"  y="1719" font-size="12" fill="#484f58" text-anchor="end">2025-11-21</text>
+  <text x="270" y="1719" font-size="13" fill="#c9d1d9">In dev</text>
+  <text x="882"  y="1719" font-size="12" fill="#484f58" text-anchor="end">2025-11-23</text>
 </g>
 <line x1="1" y1="1730" x2="899" y2="1730" stroke="#21262d" stroke-width="0.5"/>
 <g class="r51">
   <circle cx="24" cy="1745" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1749" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-org</text>
-  <text x="270" y="1749" font-size="13" fill="#c9d1d9">docs: How to enable/disable HSTS</text>
-  <text x="882"  y="1749" font-size="12" fill="#484f58" text-anchor="end">2025-11-14</text>
+  <text x="44"  y="1749" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1749" font-size="13" fill="#c9d1d9">Rework interfaces</text>
+  <text x="882"  y="1749" font-size="12" fill="#484f58" text-anchor="end">2025-11-21</text>
 </g>
 <line x1="1" y1="1760" x2="899" y2="1760" stroke="#21262d" stroke-width="0.5"/>
 <g class="r52">
   <circle cx="24" cy="1775" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1779" font-size="13" fill="#8b949e">xcp-ng-rpms/net-snmp</text>
-  <text x="270" y="1779" font-size="13" fill="#c9d1d9">Deleting an unused patch</text>
-  <text x="882"  y="1779" font-size="12" fill="#484f58" text-anchor="end">2025-09-02</text>
+  <text x="44"  y="1779" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-org</text>
+  <text x="270" y="1779" font-size="13" fill="#c9d1d9">docs: How to enable/disable HSTS</text>
+  <text x="882"  y="1779" font-size="12" fill="#484f58" text-anchor="end">2025-11-14</text>
 </g>
 <line x1="1" y1="1790" x2="899" y2="1790" stroke="#21262d" stroke-width="0.5"/>
 <g class="r53">
   <circle cx="24" cy="1805" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1809" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1809" font-size="13" fill="#c9d1d9">New Games + Better gestion of key &amp; Proposal modification (#23)</text>
-  <text x="882"  y="1809" font-size="12" fill="#484f58" text-anchor="end">2025-06-12</text>
+  <text x="44"  y="1809" font-size="13" fill="#8b949e">xcp-ng-rpms/net-snmp</text>
+  <text x="270" y="1809" font-size="13" fill="#c9d1d9">Deleting an unused patch</text>
+  <text x="882"  y="1809" font-size="12" fill="#484f58" text-anchor="end">2025-09-02</text>
 </g>
 <line x1="1" y1="1820" x2="899" y2="1820" stroke="#21262d" stroke-width="0.5"/>
 <g class="r54">
   <circle cx="24" cy="1835" r="5" fill="#bc8cff"/>
   <text x="44"  y="1839" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1839" font-size="13" fill="#c9d1d9">New Games + Better gestion of key &amp; Proposal modification</text>
-  <text x="882"  y="1839" font-size="12" fill="#484f58" text-anchor="end">2025-06-11</text>
+  <text x="270" y="1839" font-size="13" fill="#c9d1d9">New Games + Better gestion of key &amp; Proposal modification (#23)</text>
+  <text x="882"  y="1839" font-size="12" fill="#484f58" text-anchor="end">2025-06-12</text>
 </g>
 <line x1="1" y1="1850" x2="899" y2="1850" stroke="#21262d" stroke-width="0.5"/>
 <g class="r55">
-  <circle cx="24" cy="1865" r="5" fill="#f85149"/>
-  <text x="44"  y="1869" font-size="13" fill="#8b949e">xcp-ng-rpms/samba</text>
-  <text x="270" y="1869" font-size="13" fill="#c9d1d9">8.3 import 4.10.16 25.src.rpm</text>
-  <text x="882"  y="1869" font-size="12" fill="#484f58" text-anchor="end">2025-03-28</text>
+  <circle cx="24" cy="1865" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1869" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1869" font-size="13" fill="#c9d1d9">New Games + Better gestion of key &amp; Proposal modification</text>
+  <text x="882"  y="1869" font-size="12" fill="#484f58" text-anchor="end">2025-06-11</text>
 </g>
-<rect x="1" y="1" width="898" height="1884" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+<line x1="1" y1="1880" x2="899" y2="1880" stroke="#21262d" stroke-width="0.5"/>
+<g class="r56">
+  <circle cx="24" cy="1895" r="5" fill="#f85149"/>
+  <text x="44"  y="1899" font-size="13" fill="#8b949e">xcp-ng-rpms/samba</text>
+  <text x="270" y="1899" font-size="13" fill="#c9d1d9">8.3 import 4.10.16 25.src.rpm</text>
+  <text x="882"  y="1899" font-size="12" fill="#484f58" text-anchor="end">2025-03-28</text>
+</g>
+<rect x="1" y="1" width="898" height="1914" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
 
 </svg>
