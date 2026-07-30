@@ -211,7 +211,7 @@
   <circle cx="24" cy="947" r="5" fill="#56d364"/>
   <text x="44"  y="951" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
   <text x="270" y="951" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
-  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-07-22</text>
+  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-07-30</text>
 </g>
 <line x1="1" y1="962" x2="899" y2="962" stroke="#21262d" stroke-width="0.5"/>
 <g class="r27">
