@@ -205,20 +205,20 @@
 </g>
 <rect x="1" y="908" width="898" height="24" fill="#161b22"/>
 <text x="18" y="924" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
-<text x="882" y="924" font-size="11" fill="#484f58" text-anchor="end">2 open · 2 closed · 10 merged</text>
+<text x="882" y="924" font-size="11" fill="#484f58" text-anchor="end">1 open · 3 closed · 10 merged</text>
 <line x1="1" y1="932" x2="899" y2="932" stroke="#21262d" stroke-width="0.5"/>
 <g class="r26">
   <circle cx="24" cy="947" r="5" fill="#56d364"/>
-  <text x="44"  y="951" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
-  <text x="270" y="951" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
-  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-07-30</text>
+  <text x="44"  y="951" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
+  <text x="270" y="951" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
+  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
 </g>
 <line x1="1" y1="962" x2="899" y2="962" stroke="#21262d" stroke-width="0.5"/>
 <g class="r27">
-  <circle cx="24" cy="977" r="5" fill="#56d364"/>
-  <text x="44"  y="981" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="981" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
-  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
+  <circle cx="24" cy="977" r="5" fill="#f85149"/>
+  <text x="44"  y="981" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
+  <text x="270" y="981" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
+  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-07-31</text>
 </g>
 <line x1="1" y1="992" x2="899" y2="992" stroke="#21262d" stroke-width="0.5"/>
 <g class="r28">
