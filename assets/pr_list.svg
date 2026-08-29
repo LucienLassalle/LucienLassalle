@@ -131,7 +131,7 @@
   <circle cx="24" cy="593" r="5" fill="#56d364"/>
   <text x="44"  y="597" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
   <text x="270" y="597" font-size="13" fill="#c9d1d9">add SSH feature coverage for the OpenSSH update</text>
-  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-08-27</text>
+  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-08-28</text>
 </g>
 <line x1="1" y1="608" x2="899" y2="608" stroke="#21262d" stroke-width="0.5"/>
 <g class="r16">
