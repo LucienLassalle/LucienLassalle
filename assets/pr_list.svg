@@ -343,7 +343,7 @@
   <circle cx="24" cy="1535" r="5" fill="#56d364"/>
   <text x="44"  y="1539" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-org</text>
   <text x="270" y="1539" font-size="13" fill="#c9d1d9">openssh.md: Configuring and hardening OpenSSH</text>
-  <text x="882"  y="1539" font-size="12" fill="#484f58" text-anchor="end">2026-09-08</text>
+  <text x="882"  y="1539" font-size="12" fill="#484f58" text-anchor="end">2026-09-09</text>
 </g>
 <line x1="1" y1="1550" x2="899" y2="1550" stroke="#21262d" stroke-width="0.5"/>
 <g class="r45">
