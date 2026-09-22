@@ -130,15 +130,15 @@
 <g class="r15">
   <circle cx="24" cy="593" r="5" fill="#56d364"/>
   <text x="44"  y="597" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="597" font-size="13" fill="#c9d1d9">add test coverage for sudo</text>
-  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-09-18</text>
+  <text x="270" y="597" font-size="13" fill="#c9d1d9">add SSH feature coverage for the OpenSSH update</text>
+  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-09-21</text>
 </g>
 <line x1="1" y1="608" x2="899" y2="608" stroke="#21262d" stroke-width="0.5"/>
 <g class="r16">
   <circle cx="24" cy="623" r="5" fill="#56d364"/>
   <text x="44"  y="627" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="627" font-size="13" fill="#c9d1d9">add SSH feature coverage for the OpenSSH update</text>
-  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-09-14</text>
+  <text x="270" y="627" font-size="13" fill="#c9d1d9">add test coverage for sudo</text>
+  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-09-18</text>
 </g>
 <line x1="1" y1="638" x2="899" y2="638" stroke="#21262d" stroke-width="0.5"/>
 <g class="r17">
@@ -355,15 +355,15 @@
 <line x1="1" y1="1580" x2="899" y2="1580" stroke="#21262d" stroke-width="0.5"/>
 <g class="r46">
   <circle cx="24" cy="1595" r="5" fill="#56d364"/>
-  <text x="44"  y="1599" font-size="13" fill="#8b949e">xcp-ng/host-installer</text>
-  <text x="270" y="1599" font-size="13" fill="#c9d1d9">[XCPNG9] Preserve etc/ssh/sshd_config.d and etc/ssh/ssh_config.d</text>
-  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-09-16</text>
+  <text x="44"  y="1599" font-size="13" fill="#8b949e">xcp-ng-rpms/libcbor</text>
+  <text x="270" y="1599" font-size="13" fill="#c9d1d9">Import libcbor-0.11.0-3.el10.src.rpm</text>
+  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-09-21</text>
 </g>
 <line x1="1" y1="1610" x2="899" y2="1610" stroke="#21262d" stroke-width="0.5"/>
 <g class="r47">
   <circle cx="24" cy="1625" r="5" fill="#56d364"/>
-  <text x="44"  y="1629" font-size="13" fill="#8b949e">xcp-ng-rpms/libcbor</text>
-  <text x="270" y="1629" font-size="13" fill="#c9d1d9">Import libcbor-0.11.0-3.el10.src.rpm</text>
+  <text x="44"  y="1629" font-size="13" fill="#8b949e">xcp-ng/host-installer</text>
+  <text x="270" y="1629" font-size="13" fill="#c9d1d9">[XCPNG9] Preserve etc/ssh/sshd_config.d and etc/ssh/ssh_config.d</text>
   <text x="882"  y="1629" font-size="12" fill="#484f58" text-anchor="end">2026-09-16</text>
 </g>
 <line x1="1" y1="1640" x2="899" y2="1640" stroke="#21262d" stroke-width="0.5"/>
