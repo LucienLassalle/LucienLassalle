@@ -125,20 +125,20 @@
 </g>
 <rect x="1" y="554" width="898" height="24" fill="#161b22"/>
 <text x="18" y="570" font-size="12" fill="#58a6ff" font-weight="bold">✨ Features</text>
-<text x="882" y="570" font-size="11" fill="#484f58" text-anchor="end">2 open · 1 closed · 10 merged</text>
+<text x="882" y="570" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 10 merged</text>
 <line x1="1" y1="578" x2="899" y2="578" stroke="#21262d" stroke-width="0.5"/>
 <g class="r15">
   <circle cx="24" cy="593" r="5" fill="#56d364"/>
   <text x="44"  y="597" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="597" font-size="13" fill="#c9d1d9">add SSH feature coverage for the OpenSSH update</text>
-  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-09-24</text>
+  <text x="270" y="597" font-size="13" fill="#c9d1d9">[depends on OpenSSH 9.9p1 update] add SSH feature coverage for the </text>
+  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
 </g>
 <line x1="1" y1="608" x2="899" y2="608" stroke="#21262d" stroke-width="0.5"/>
 <g class="r16">
-  <circle cx="24" cy="623" r="5" fill="#56d364"/>
+  <circle cx="24" cy="623" r="5" fill="#bc8cff"/>
   <text x="44"  y="627" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
   <text x="270" y="627" font-size="13" fill="#c9d1d9">add test coverage for sudo</text>
-  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-09-24</text>
+  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
 </g>
 <line x1="1" y1="638" x2="899" y2="638" stroke="#21262d" stroke-width="0.5"/>
 <g class="r17">
@@ -210,16 +210,16 @@
   <text x="270" y="927" font-size="13" fill="#c9d1d9">feat: Major application improvments</text>
   <text x="882"  y="927" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
 </g>
-<line x1="1" y1="938" x2="899" y2="938" stroke="#21262d" stroke-width="0.5"/>
+<rect x="1" y="938" width="898" height="24" fill="#161b22"/>
+<text x="18" y="954" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
+<text x="882" y="954" font-size="11" fill="#484f58" text-anchor="end">1 open · 4 closed · 10 merged</text>
+<line x1="1" y1="962" x2="899" y2="962" stroke="#21262d" stroke-width="0.5"/>
 <g class="r27">
-  <circle cx="24" cy="953" r="5" fill="#bc8cff"/>
-  <text x="44"  y="957" font-size="13" fill="#8b949e">LucienLassalle/Vsftpd-export</text>
-  <text x="270" y="957" font-size="13" fill="#c9d1d9">Add: FTP with SSL (FTPS)</text>
-  <text x="882"  y="957" font-size="12" fill="#484f58" text-anchor="end">2025-11-29</text>
+  <circle cx="24" cy="977" r="5" fill="#56d364"/>
+  <text x="44"  y="981" font-size="13" fill="#8b949e">xcp-ng-rpms/libssh2</text>
+  <text x="270" y="981" font-size="13" fill="#c9d1d9">Fix: Multiple vulnerabilities in libssh2</text>
+  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
 </g>
-<rect x="1" y="968" width="898" height="24" fill="#161b22"/>
-<text x="18" y="984" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
-<text x="882" y="984" font-size="11" fill="#484f58" text-anchor="end">4 closed · 10 merged</text>
 <line x1="1" y1="992" x2="899" y2="992" stroke="#21262d" stroke-width="0.5"/>
 <g class="r28">
   <circle cx="24" cy="1007" r="5" fill="#f85149"/>
@@ -357,7 +357,7 @@
   <circle cx="24" cy="1595" r="5" fill="#56d364"/>
   <text x="44"  y="1599" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
   <text x="270" y="1599" font-size="13" fill="#c9d1d9">For 8.3/import openssh 9.9p1 27.el10.alma.1.src.rpm</text>
-  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-09-25</text>
+  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
 </g>
 <line x1="1" y1="1610" x2="899" y2="1610" stroke="#21262d" stroke-width="0.5"/>
 <g class="r47">
