@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="184" viewBox="0 0 900 184">
-  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}.c0{animation:fi .3s 0.00s ease both}.c1{animation:fi .3s 0.04s ease both}.c2{animation:fi .3s 0.08s ease both}.c3{animation:fi .3s 0.12s ease both}.c4{animation:fi .3s 0.16s ease both}.c5{animation:fi .3s 0.20s ease both}.c6{animation:fi .3s 0.24s ease both}.c7{animation:fi .3s 0.28s ease both}.c8{animation:fi .3s 0.32s ease both}.c9{animation:fi .3s 0.36s ease both}.c10{animation:fi .3s 0.40s ease both}.c11{animation:fi .3s 0.44s ease both}.c12{animation:fi .3s 0.48s ease both}.c13{animation:fi .3s 0.52s ease both}.c14{animation:fi .3s 0.56s ease both}.c15{animation:fi .3s 0.60s ease both}.c16{animation:fi .3s 0.64s ease both}.c17{animation:fi .3s 0.68s ease both}.c18{animation:fi .3s 0.72s ease both}.c19{animation:fi .3s 0.76s ease both}.c20{animation:fi .3s 0.80s ease both}.c21{animation:fi .3s 0.84s ease both}.c22{animation:fi .3s 0.88s ease both}.c23{animation:fi .3s 0.92s ease both}</style></defs>
+  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}.c0{animation:fi .3s 0.00s ease both}.c1{animation:fi .3s 0.04s ease both}.c2{animation:fi .3s 0.08s ease both}.c3{animation:fi .3s 0.12s ease both}.c4{animation:fi .3s 0.16s ease both}.c5{animation:fi .3s 0.20s ease both}.c6{animation:fi .3s 0.24s ease both}.c7{animation:fi .3s 0.28s ease both}.c8{animation:fi .3s 0.32s ease both}.c9{animation:fi .3s 0.36s ease both}.c10{animation:fi .3s 0.40s ease both}.c11{animation:fi .3s 0.44s ease both}.c12{animation:fi .3s 0.48s ease both}.c13{animation:fi .3s 0.52s ease both}.c14{animation:fi .3s 0.56s ease both}.c15{animation:fi .3s 0.60s ease both}.c16{animation:fi .3s 0.64s ease both}.c17{animation:fi .3s 0.68s ease both}.c18{animation:fi .3s 0.72s ease both}.c19{animation:fi .3s 0.76s ease both}.c20{animation:fi .3s 0.80s ease both}.c21{animation:fi .3s 0.84s ease both}.c22{animation:fi .3s 0.88s ease both}.c23{animation:fi .3s 0.92s ease both}.c24{animation:fi .3s 0.96s ease both}</style></defs>
 <rect width="900" height="184" fill="#0d1117" rx="10"/>
 <rect x="1" y="1" width="898" height="182" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
 <rect width="900" height="36" fill="#161b22" rx="10"/>
@@ -124,9 +124,14 @@
   <text x="192.8" y="150" font-size="14" fill="#c9d1d9">Kotlin</text>
 </g>
 <g class="c23">
-  <rect x="262.4" y="132" width="75.0" height="28" rx="14" fill="#0d1117" stroke="#a52a22" stroke-width="1.5"/>
-  <circle cx="276.4" cy="146" r="4" fill="#a52a22"/>
-  <text x="284.4" y="150" font-size="14" fill="#c9d1d9">Jinja</text>
+  <rect x="262.4" y="132" width="57.8" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
+  <circle cx="276.4" cy="146" r="4" fill="#ededed"/>
+  <text x="284.4" y="150" font-size="14" fill="#c9d1d9">EJS</text>
+</g>
+<g class="c24">
+  <rect x="328.2" y="132" width="75.0" height="28" rx="14" fill="#0d1117" stroke="#a52a22" stroke-width="1.5"/>
+  <circle cx="342.2" cy="146" r="4" fill="#a52a22"/>
+  <text x="350.2" y="150" font-size="14" fill="#c9d1d9">Jinja</text>
 </g>
 
 </svg>
