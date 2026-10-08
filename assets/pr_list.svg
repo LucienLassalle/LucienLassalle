@@ -136,72 +136,72 @@
 <line x1="1" y1="608" x2="899" y2="608" stroke="#21262d" stroke-width="0.5"/>
 <g class="r16">
   <circle cx="24" cy="623" r="5" fill="#bc8cff"/>
-  <text x="44"  y="627" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
-  <text x="270" y="627" font-size="13" fill="#c9d1d9">Add: Fuzzing</text>
-  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
+  <text x="44"  y="627" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="627" font-size="13" fill="#c9d1d9">feat: Beam-RemotePlus app v2</text>
+  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-10-07</text>
 </g>
 <line x1="1" y1="638" x2="899" y2="638" stroke="#21262d" stroke-width="0.5"/>
 <g class="r17">
   <circle cx="24" cy="653" r="5" fill="#bc8cff"/>
-  <text x="44"  y="657" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="657" font-size="13" fill="#c9d1d9">add test coverage for sudo</text>
-  <text x="882"  y="657" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
+  <text x="44"  y="657" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="657" font-size="13" fill="#c9d1d9">feat: Beam-RemotePlus mod v2</text>
+  <text x="882"  y="657" font-size="12" fill="#484f58" text-anchor="end">2026-10-07</text>
 </g>
 <line x1="1" y1="668" x2="899" y2="668" stroke="#21262d" stroke-width="0.5"/>
 <g class="r18">
   <circle cx="24" cy="683" r="5" fill="#bc8cff"/>
-  <text x="44"  y="687" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="687" font-size="13" fill="#c9d1d9">Add: Include sshd_config.d drop-in directory in sshd_config</text>
-  <text x="882"  y="687" font-size="12" fill="#484f58" text-anchor="end">2026-08-17</text>
+  <text x="44"  y="687" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
+  <text x="270" y="687" font-size="13" fill="#c9d1d9">Add: Fuzzing</text>
+  <text x="882"  y="687" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="698" x2="899" y2="698" stroke="#21262d" stroke-width="0.5"/>
 <g class="r19">
   <circle cx="24" cy="713" r="5" fill="#bc8cff"/>
   <text x="44"  y="717" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="717" font-size="13" fill="#c9d1d9">tests: add sshd_config.d include regression test</text>
-  <text x="882"  y="717" font-size="12" fill="#484f58" text-anchor="end">2026-08-11</text>
+  <text x="270" y="717" font-size="13" fill="#c9d1d9">add test coverage for sudo</text>
+  <text x="882"  y="717" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
 </g>
 <line x1="1" y1="728" x2="899" y2="728" stroke="#21262d" stroke-width="0.5"/>
 <g class="r20">
   <circle cx="24" cy="743" r="5" fill="#bc8cff"/>
-  <text x="44"  y="747" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="747" font-size="13" fill="#c9d1d9">feat: driverdle update &amp; sitemap fixes</text>
-  <text x="882"  y="747" font-size="12" fill="#484f58" text-anchor="end">2026-06-20</text>
+  <text x="44"  y="747" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
+  <text x="270" y="747" font-size="13" fill="#c9d1d9">Add: Include sshd_config.d drop-in directory in sshd_config</text>
+  <text x="882"  y="747" font-size="12" fill="#484f58" text-anchor="end">2026-08-17</text>
 </g>
 <line x1="1" y1="758" x2="899" y2="758" stroke="#21262d" stroke-width="0.5"/>
 <g class="r21">
   <circle cx="24" cy="773" r="5" fill="#bc8cff"/>
-  <text x="44"  y="777" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="777" font-size="13" fill="#c9d1d9">Add: Enable ssh-rsa with warning</text>
-  <text x="882"  y="777" font-size="12" fill="#484f58" text-anchor="end">2026-03-12</text>
+  <text x="44"  y="777" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
+  <text x="270" y="777" font-size="13" fill="#c9d1d9">tests: add sshd_config.d include regression test</text>
+  <text x="882"  y="777" font-size="12" fill="#484f58" text-anchor="end">2026-08-11</text>
 </g>
 <line x1="1" y1="788" x2="899" y2="788" stroke="#21262d" stroke-width="0.5"/>
 <g class="r22">
   <circle cx="24" cy="803" r="5" fill="#bc8cff"/>
-  <text x="44"  y="807" font-size="13" fill="#8b949e">LucienLassalle/SLE</text>
-  <text x="270" y="807" font-size="13" fill="#c9d1d9">feat: auto-reload, disk buffering (WAL) and queue management</text>
-  <text x="882"  y="807" font-size="12" fill="#484f58" text-anchor="end">2025-12-19</text>
+  <text x="44"  y="807" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="807" font-size="13" fill="#c9d1d9">feat: driverdle update &amp; sitemap fixes</text>
+  <text x="882"  y="807" font-size="12" fill="#484f58" text-anchor="end">2026-06-20</text>
 </g>
 <line x1="1" y1="818" x2="899" y2="818" stroke="#21262d" stroke-width="0.5"/>
 <g class="r23">
   <circle cx="24" cy="833" r="5" fill="#bc8cff"/>
-  <text x="44"  y="837" font-size="13" fill="#8b949e">LucienLassalle/SLE</text>
-  <text x="270" y="837" font-size="13" fill="#c9d1d9">feat: glob patterns, rate limiting and batching</text>
-  <text x="882"  y="837" font-size="12" fill="#484f58" text-anchor="end">2025-12-19</text>
+  <text x="44"  y="837" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
+  <text x="270" y="837" font-size="13" fill="#c9d1d9">Add: Enable ssh-rsa with warning</text>
+  <text x="882"  y="837" font-size="12" fill="#484f58" text-anchor="end">2026-03-12</text>
 </g>
 <line x1="1" y1="848" x2="899" y2="848" stroke="#21262d" stroke-width="0.5"/>
 <g class="r24">
   <circle cx="24" cy="863" r="5" fill="#bc8cff"/>
-  <text x="44"  y="867" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="867" font-size="13" fill="#c9d1d9">feat: Major application improvments</text>
-  <text x="882"  y="867" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
+  <text x="44"  y="867" font-size="13" fill="#8b949e">LucienLassalle/SLE</text>
+  <text x="270" y="867" font-size="13" fill="#c9d1d9">feat: auto-reload, disk buffering (WAL) and queue management</text>
+  <text x="882"  y="867" font-size="12" fill="#484f58" text-anchor="end">2025-12-19</text>
 </g>
 <line x1="1" y1="878" x2="899" y2="878" stroke="#21262d" stroke-width="0.5"/>
 <g class="r25">
   <circle cx="24" cy="893" r="5" fill="#bc8cff"/>
-  <text x="44"  y="897" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="897" font-size="13" fill="#c9d1d9">feat: Major application improvments</text>
-  <text x="882"  y="897" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
+  <text x="44"  y="897" font-size="13" fill="#8b949e">LucienLassalle/SLE</text>
+  <text x="270" y="897" font-size="13" fill="#c9d1d9">feat: glob patterns, rate limiting and batching</text>
+  <text x="882"  y="897" font-size="12" fill="#484f58" text-anchor="end">2025-12-19</text>
 </g>
 <line x1="1" y1="908" x2="899" y2="908" stroke="#21262d" stroke-width="0.5"/>
 <g class="r26">
@@ -230,86 +230,86 @@
 <line x1="1" y1="1022" x2="899" y2="1022" stroke="#21262d" stroke-width="0.5"/>
 <g class="r29">
   <circle cx="24" cy="1037" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1041" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1041" font-size="13" fill="#c9d1d9">Security: Fix SQLi &amp; XSS, then improve website</text>
-  <text x="882"  y="1041" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
+  <text x="44"  y="1041" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="1041" font-size="13" fill="#c9d1d9">Fix/feedback 2</text>
+  <text x="882"  y="1041" font-size="12" fill="#484f58" text-anchor="end">2026-10-07</text>
 </g>
 <line x1="1" y1="1052" x2="899" y2="1052" stroke="#21262d" stroke-width="0.5"/>
 <g class="r30">
   <circle cx="24" cy="1067" r="5" fill="#bc8cff"/>
   <text x="44"  y="1071" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1071" font-size="13" fill="#c9d1d9">Fix dependencies</text>
+  <text x="270" y="1071" font-size="13" fill="#c9d1d9">Security: Fix SQLi &amp; XSS, then improve website</text>
   <text x="882"  y="1071" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1082" x2="899" y2="1082" stroke="#21262d" stroke-width="0.5"/>
 <g class="r31">
   <circle cx="24" cy="1097" r="5" fill="#bc8cff"/>
   <text x="44"  y="1101" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1101" font-size="13" fill="#c9d1d9">Security: Several fixes link to Trivy flags</text>
+  <text x="270" y="1101" font-size="13" fill="#c9d1d9">Fix dependencies</text>
   <text x="882"  y="1101" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1112" x2="899" y2="1112" stroke="#21262d" stroke-width="0.5"/>
 <g class="r32">
   <circle cx="24" cy="1127" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1131" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
-  <text x="270" y="1131" font-size="13" fill="#c9d1d9">Improve: Trivy, KICS &amp; fix of systemd</text>
+  <text x="44"  y="1131" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
+  <text x="270" y="1131" font-size="13" fill="#c9d1d9">Security: Several fixes link to Trivy flags</text>
   <text x="882"  y="1131" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1142" x2="899" y2="1142" stroke="#21262d" stroke-width="0.5"/>
 <g class="r33">
   <circle cx="24" cy="1157" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1161" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1161" font-size="13" fill="#c9d1d9">Proposal: Rework CI/CD, Security fixes &amp; fix release number</text>
-  <text x="882"  y="1161" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
+  <text x="44"  y="1161" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
+  <text x="270" y="1161" font-size="13" fill="#c9d1d9">Improve: Trivy, KICS &amp; fix of systemd</text>
+  <text x="882"  y="1161" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1172" x2="899" y2="1172" stroke="#21262d" stroke-width="0.5"/>
 <g class="r34">
   <circle cx="24" cy="1187" r="5" fill="#bc8cff"/>
   <text x="44"  y="1191" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1191" font-size="13" fill="#c9d1d9">fix(deps): bump express to 4.22.0 and body-parser to 1.20.6</text>
+  <text x="270" y="1191" font-size="13" fill="#c9d1d9">Proposal: Rework CI/CD, Security fixes &amp; fix release number</text>
   <text x="882"  y="1191" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
 </g>
 <line x1="1" y1="1202" x2="899" y2="1202" stroke="#21262d" stroke-width="0.5"/>
 <g class="r35">
   <circle cx="24" cy="1217" r="5" fill="#bc8cff"/>
   <text x="44"  y="1221" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1221" font-size="13" fill="#c9d1d9">Generate SBOM &amp; Fix dependabot version</text>
+  <text x="270" y="1221" font-size="13" fill="#c9d1d9">fix(deps): bump express to 4.22.0 and body-parser to 1.20.6</text>
   <text x="882"  y="1221" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
 </g>
 <line x1="1" y1="1232" x2="899" y2="1232" stroke="#21262d" stroke-width="0.5"/>
 <g class="r36">
-  <circle cx="24" cy="1247" r="5" fill="#f85149"/>
-  <text x="44"  y="1251" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="1251" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
-  <text x="882"  y="1251" font-size="12" fill="#484f58" text-anchor="end">2026-09-14</text>
+  <circle cx="24" cy="1247" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1251" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
+  <text x="270" y="1251" font-size="13" fill="#c9d1d9">Generate SBOM &amp; Fix dependabot version</text>
+  <text x="882"  y="1251" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
 </g>
 <line x1="1" y1="1262" x2="899" y2="1262" stroke="#21262d" stroke-width="0.5"/>
 <g class="r37">
   <circle cx="24" cy="1277" r="5" fill="#f85149"/>
-  <text x="44"  y="1281" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
-  <text x="270" y="1281" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
-  <text x="882"  y="1281" font-size="12" fill="#484f58" text-anchor="end">2026-07-31</text>
+  <text x="44"  y="1281" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
+  <text x="270" y="1281" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
+  <text x="882"  y="1281" font-size="12" fill="#484f58" text-anchor="end">2026-09-14</text>
 </g>
 <line x1="1" y1="1292" x2="899" y2="1292" stroke="#21262d" stroke-width="0.5"/>
 <g class="r38">
-  <circle cx="24" cy="1307" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1311" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="1311" font-size="13" fill="#c9d1d9">Fix: Linux character</text>
-  <text x="882"  y="1311" font-size="12" fill="#484f58" text-anchor="end">2026-07-09</text>
+  <circle cx="24" cy="1307" r="5" fill="#f85149"/>
+  <text x="44"  y="1311" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
+  <text x="270" y="1311" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
+  <text x="882"  y="1311" font-size="12" fill="#484f58" text-anchor="end">2026-07-31</text>
 </g>
 <line x1="1" y1="1322" x2="899" y2="1322" stroke="#21262d" stroke-width="0.5"/>
 <g class="r39">
   <circle cx="24" cy="1337" r="5" fill="#bc8cff"/>
   <text x="44"  y="1341" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="1341" font-size="13" fill="#c9d1d9">Fix: Use french date &amp; Version is deprecated</text>
-  <text x="882"  y="1341" font-size="12" fill="#484f58" text-anchor="end">2026-07-08</text>
+  <text x="270" y="1341" font-size="13" fill="#c9d1d9">Fix: Linux character</text>
+  <text x="882"  y="1341" font-size="12" fill="#484f58" text-anchor="end">2026-07-09</text>
 </g>
 <line x1="1" y1="1352" x2="899" y2="1352" stroke="#21262d" stroke-width="0.5"/>
 <g class="r40">
   <circle cx="24" cy="1367" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1371" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="1371" font-size="13" fill="#c9d1d9">Fix: Potential ECDSA and CA Authorized_Keys ByPass</text>
-  <text x="882"  y="1371" font-size="12" fill="#484f58" text-anchor="end">2026-04-20</text>
+  <text x="44"  y="1371" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
+  <text x="270" y="1371" font-size="13" fill="#c9d1d9">Fix: Use french date &amp; Version is deprecated</text>
+  <text x="882"  y="1371" font-size="12" fill="#484f58" text-anchor="end">2026-07-08</text>
 </g>
 <line x1="1" y1="1382" x2="899" y2="1382" stroke="#21262d" stroke-width="0.5"/>
 <g class="r41">
