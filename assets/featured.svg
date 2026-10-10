@@ -35,13 +35,13 @@
 <rect x="788.8000000000001" y="265" width="47.4" height="15" rx="7" fill="#0d1117" stroke="#000080" stroke-width="1"/>
 <circle cx="797.8000000000001" cy="273" r="3" fill="#000080"/>
 <text x="804.8000000000001" y="277" font-size="11" fill="#c9d1d9">Lua</text>
-<text x="22" y="296" font-size="13" fill="#8b949e">BeamNG Mod for Remote Controller (Needed for LucienLassalle/Beam-RemotePlus-Mobile)</text>
+<text x="22" y="296" font-size="13" fill="#8b949e">BeamNG.drive mod: advanced phone remote control with analog pedals, rich live telemetry, d</text>
 <line x1="22" y1="310" x2="878" y2="310" stroke="#21262d" stroke-width="0.5"/>
 <text x="22" y="329" font-size="15" fill="#58a6ff" font-weight="bold">Beam-RemotePlus-Mobile</text>
 <text x="878" y="329" font-size="13" fill="#bc8cff" text-anchor="end">★ 3</text>
 <rect x="781.0" y="317" width="55.2" height="15" rx="7" fill="#0d1117" stroke="#00B4AB" stroke-width="1"/>
 <circle cx="790.0" cy="325" r="3" fill="#00B4AB"/>
 <text x="797.0" y="329" font-size="11" fill="#c9d1d9">Dart</text>
-<text x="22" y="348" font-size="13" fill="#8b949e">BeamNG Remote Controller (Android phone)</text>
+<text x="22" y="348" font-size="13" fill="#8b949e">Android remote control for BeamNG.drive: tilt steering, analog pedals, live dashboards, wa</text>
 
 </svg>
