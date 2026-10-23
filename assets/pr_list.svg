@@ -31,7 +31,7 @@
 </g>
 <rect x="1" y="140" width="898" height="24" fill="#161b22"/>
 <text x="18" y="156" font-size="12" fill="#58a6ff" font-weight="bold">🔐 Security patches (CVE)</text>
-<text x="882" y="156" font-size="11" fill="#484f58" text-anchor="end">3 closed · 5 merged</text>
+<text x="882" y="156" font-size="11" fill="#484f58" text-anchor="end">3 closed · 4 merged</text>
 <line x1="1" y1="164" x2="899" y2="164" stroke="#21262d" stroke-width="0.5"/>
 <g class="r2">
   <circle cx="24" cy="179" r="5" fill="#bc8cff"/>
@@ -76,108 +76,108 @@
 </g>
 <line x1="1" y1="344" x2="899" y2="344" stroke="#21262d" stroke-width="0.5"/>
 <g class="r8">
-  <circle cx="24" cy="359" r="5" fill="#bc8cff"/>
-  <text x="44"  y="363" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="363" font-size="13" fill="#c9d1d9">[8.3] - Add fix for CVE-2025-26465</text>
-  <text x="882"  y="363" font-size="12" fill="#484f58" text-anchor="end">2026-02-03</text>
+  <circle cx="24" cy="359" r="5" fill="#f85149"/>
+  <text x="44"  y="363" font-size="13" fill="#8b949e">xcp-ng-rpms/setup</text>
+  <text x="270" y="363" font-size="13" fill="#c9d1d9">Import fix for CVE-2018-1113</text>
+  <text x="882"  y="363" font-size="12" fill="#484f58" text-anchor="end">2025-02-04</text>
 </g>
-<line x1="1" y1="374" x2="899" y2="374" stroke="#21262d" stroke-width="0.5"/>
+<rect x="1" y="374" width="898" height="24" fill="#161b22"/>
+<text x="18" y="390" font-size="12" fill="#58a6ff" font-weight="bold">✨ Features</text>
+<text x="882" y="390" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 10 merged</text>
+<line x1="1" y1="398" x2="899" y2="398" stroke="#21262d" stroke-width="0.5"/>
 <g class="r9">
-  <circle cx="24" cy="389" r="5" fill="#f85149"/>
-  <text x="44"  y="393" font-size="13" fill="#8b949e">xcp-ng-rpms/setup</text>
-  <text x="270" y="393" font-size="13" fill="#c9d1d9">Import fix for CVE-2018-1113</text>
-  <text x="882"  y="393" font-size="12" fill="#484f58" text-anchor="end">2025-02-04</text>
+  <circle cx="24" cy="413" r="5" fill="#56d364"/>
+  <text x="44"  y="417" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
+  <text x="270" y="417" font-size="13" fill="#c9d1d9">[depends on OpenSSH 9.9p1 update] add SSH feature coverage for the </text>
+  <text x="882"  y="417" font-size="12" fill="#484f58" text-anchor="end">2026-10-15</text>
 </g>
-<rect x="1" y="404" width="898" height="24" fill="#161b22"/>
-<text x="18" y="420" font-size="12" fill="#58a6ff" font-weight="bold">✨ Features</text>
-<text x="882" y="420" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 10 merged</text>
 <line x1="1" y1="428" x2="899" y2="428" stroke="#21262d" stroke-width="0.5"/>
 <g class="r10">
-  <circle cx="24" cy="443" r="5" fill="#56d364"/>
-  <text x="44"  y="447" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="447" font-size="13" fill="#c9d1d9">[depends on OpenSSH 9.9p1 update] add SSH feature coverage for the </text>
-  <text x="882"  y="447" font-size="12" fill="#484f58" text-anchor="end">2026-10-01</text>
+  <circle cx="24" cy="443" r="5" fill="#bc8cff"/>
+  <text x="44"  y="447" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="447" font-size="13" fill="#c9d1d9">feat: H.264 driver's view video for the phone</text>
+  <text x="882"  y="447" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="458" x2="899" y2="458" stroke="#21262d" stroke-width="0.5"/>
 <g class="r11">
   <circle cx="24" cy="473" r="5" fill="#bc8cff"/>
   <text x="44"  y="477" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="477" font-size="13" fill="#c9d1d9">feat: settings tabs, per-vibration switches, drivetrain and brakes </text>
-  <text x="882"  y="477" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="477" font-size="13" fill="#c9d1d9">feat: vehicle steering lock and direct steering filter</text>
+  <text x="882"  y="477" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="488" x2="899" y2="488" stroke="#21262d" stroke-width="0.5"/>
 <g class="r12">
   <circle cx="24" cy="503" r="5" fill="#bc8cff"/>
   <text x="44"  y="507" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="507" font-size="13" fill="#c9d1d9">feat: Beam-RemotePlus app v2</text>
-  <text x="882"  y="507" font-size="12" fill="#484f58" text-anchor="end">2026-10-07</text>
+  <text x="270" y="507" font-size="13" fill="#c9d1d9">docs(readme): refresh the screenshots, add the Drift theme</text>
+  <text x="882"  y="507" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="518" x2="899" y2="518" stroke="#21262d" stroke-width="0.5"/>
 <g class="r13">
   <circle cx="24" cy="533" r="5" fill="#bc8cff"/>
   <text x="44"  y="537" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="537" font-size="13" fill="#c9d1d9">feat: Beam-RemotePlus mod v2</text>
-  <text x="882"  y="537" font-size="12" fill="#484f58" text-anchor="end">2026-10-07</text>
+  <text x="270" y="537" font-size="13" fill="#c9d1d9">feat: colour-blind mode</text>
+  <text x="882"  y="537" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="548" x2="899" y2="548" stroke="#21262d" stroke-width="0.5"/>
 <g class="r14">
   <circle cx="24" cy="563" r="5" fill="#bc8cff"/>
-  <text x="44"  y="567" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
-  <text x="270" y="567" font-size="13" fill="#c9d1d9">Add: Fuzzing</text>
-  <text x="882"  y="567" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
+  <text x="44"  y="567" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="567" font-size="13" fill="#c9d1d9">feat: link quality and lost signal</text>
+  <text x="882"  y="567" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="578" x2="899" y2="578" stroke="#21262d" stroke-width="0.5"/>
 <g class="r15">
   <circle cx="24" cy="593" r="5" fill="#bc8cff"/>
-  <text x="44"  y="597" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="597" font-size="13" fill="#c9d1d9">add test coverage for sudo</text>
-  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
+  <text x="44"  y="597" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="597" font-size="13" fill="#c9d1d9">feat: drift angle and handbrake command</text>
+  <text x="882"  y="597" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="608" x2="899" y2="608" stroke="#21262d" stroke-width="0.5"/>
 <g class="r16">
   <circle cx="24" cy="623" r="5" fill="#bc8cff"/>
-  <text x="44"  y="627" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="627" font-size="13" fill="#c9d1d9">Add: Include sshd_config.d drop-in directory in sshd_config</text>
-  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-08-17</text>
+  <text x="44"  y="627" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="627" font-size="13" fill="#c9d1d9">feat: commands of the phone's More sheet</text>
+  <text x="882"  y="627" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="638" x2="899" y2="638" stroke="#21262d" stroke-width="0.5"/>
 <g class="r17">
   <circle cx="24" cy="653" r="5" fill="#bc8cff"/>
-  <text x="44"  y="657" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="657" font-size="13" fill="#c9d1d9">tests: add sshd_config.d include regression test</text>
-  <text x="882"  y="657" font-size="12" fill="#484f58" text-anchor="end">2026-08-11</text>
+  <text x="44"  y="657" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="657" font-size="13" fill="#c9d1d9">feat: the game's colour of each player</text>
+  <text x="882"  y="657" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="668" x2="899" y2="668" stroke="#21262d" stroke-width="0.5"/>
 <g class="r18">
   <circle cx="24" cy="683" r="5" fill="#bc8cff"/>
-  <text x="44"  y="687" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="687" font-size="13" fill="#c9d1d9">feat: driverdle update &amp; sitemap fixes</text>
-  <text x="882"  y="687" font-size="12" fill="#484f58" text-anchor="end">2026-06-20</text>
+  <text x="44"  y="687" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="687" font-size="13" fill="#c9d1d9">feat: pairing QR code in the panel</text>
+  <text x="882"  y="687" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="698" x2="899" y2="698" stroke="#21262d" stroke-width="0.5"/>
 <g class="r19">
   <circle cx="24" cy="713" r="5" fill="#bc8cff"/>
-  <text x="44"  y="717" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="717" font-size="13" fill="#c9d1d9">Add: Enable ssh-rsa with warning</text>
-  <text x="882"  y="717" font-size="12" fill="#484f58" text-anchor="end">2026-03-12</text>
+  <text x="44"  y="717" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="717" font-size="13" fill="#c9d1d9">feat: live status of the phones in the panel</text>
+  <text x="882"  y="717" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="728" x2="899" y2="728" stroke="#21262d" stroke-width="0.5"/>
 <g class="r20">
-  <circle cx="24" cy="743" r="5" fill="#bc8cff"/>
-  <text x="44"  y="747" font-size="13" fill="#8b949e">LucienLassalle/SLE</text>
-  <text x="270" y="747" font-size="13" fill="#c9d1d9">feat: auto-reload, disk buffering (WAL) and queue management</text>
-  <text x="882"  y="747" font-size="12" fill="#484f58" text-anchor="end">2025-12-19</text>
+  <circle cx="24" cy="743" r="5" fill="#f85149"/>
+  <text x="44"  y="747" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="747" font-size="13" fill="#c9d1d9">Add error when cards is not valid</text>
+  <text x="882"  y="747" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
 </g>
-<line x1="1" y1="758" x2="899" y2="758" stroke="#21262d" stroke-width="0.5"/>
+<rect x="1" y="758" width="898" height="24" fill="#161b22"/>
+<text x="18" y="774" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
+<text x="882" y="774" font-size="11" fill="#484f58" text-anchor="end">2 open · 4 closed · 10 merged</text>
+<line x1="1" y1="782" x2="899" y2="782" stroke="#21262d" stroke-width="0.5"/>
 <g class="r21">
-  <circle cx="24" cy="773" r="5" fill="#f85149"/>
-  <text x="44"  y="777" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="777" font-size="13" fill="#c9d1d9">Add error when cards is not valid</text>
-  <text x="882"  y="777" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
+  <circle cx="24" cy="797" r="5" fill="#56d364"/>
+  <text x="44"  y="801" font-size="13" fill="#8b949e">xcp-ng-rpms/libssh2</text>
+  <text x="270" y="801" font-size="13" fill="#c9d1d9">Fix: Multiple vulnerabilities in libssh2</text>
+  <text x="882"  y="801" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
-<rect x="1" y="788" width="898" height="24" fill="#161b22"/>
-<text x="18" y="804" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
-<text x="882" y="804" font-size="11" fill="#484f58" text-anchor="end">2 open · 4 closed · 10 merged</text>
 <line x1="1" y1="812" x2="899" y2="812" stroke="#21262d" stroke-width="0.5"/>
 <g class="r22">
   <circle cx="24" cy="827" r="5" fill="#56d364"/>
@@ -187,73 +187,73 @@
 </g>
 <line x1="1" y1="842" x2="899" y2="842" stroke="#21262d" stroke-width="0.5"/>
 <g class="r23">
-  <circle cx="24" cy="857" r="5" fill="#56d364"/>
-  <text x="44"  y="861" font-size="13" fill="#8b949e">xcp-ng-rpms/libssh2</text>
-  <text x="270" y="861" font-size="13" fill="#c9d1d9">Fix: Multiple vulnerabilities in libssh2</text>
-  <text x="882"  y="861" font-size="12" fill="#484f58" text-anchor="end">2026-09-28</text>
+  <circle cx="24" cy="857" r="5" fill="#bc8cff"/>
+  <text x="44"  y="861" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="861" font-size="13" fill="#c9d1d9">fix(driving): say why there is no driver's view video</text>
+  <text x="882"  y="861" font-size="12" fill="#484f58" text-anchor="end">2026-10-21</text>
 </g>
 <line x1="1" y1="872" x2="899" y2="872" stroke="#21262d" stroke-width="0.5"/>
 <g class="r24">
   <circle cx="24" cy="887" r="5" fill="#bc8cff"/>
   <text x="44"  y="891" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="891" font-size="13" fill="#c9d1d9">fix(l10n): translate the Road theme labels and check both languages</text>
-  <text x="882"  y="891" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="891" font-size="13" fill="#c9d1d9">fix(pov): tell the phone why the game cannot stream the video</text>
+  <text x="882"  y="891" font-size="12" fill="#484f58" text-anchor="end">2026-10-21</text>
 </g>
 <line x1="1" y1="902" x2="899" y2="902" stroke="#21262d" stroke-width="0.5"/>
 <g class="r25">
   <circle cx="24" cy="917" r="5" fill="#bc8cff"/>
   <text x="44"  y="921" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="921" font-size="13" fill="#c9d1d9">Fix/feedback 2</text>
-  <text x="882"  y="921" font-size="12" fill="#484f58" text-anchor="end">2026-10-07</text>
+  <text x="270" y="921" font-size="13" fill="#c9d1d9">fix: BeamNG.drive 0.40 compatibility</text>
+  <text x="882"  y="921" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="932" x2="899" y2="932" stroke="#21262d" stroke-width="0.5"/>
 <g class="r26">
   <circle cx="24" cy="947" r="5" fill="#bc8cff"/>
-  <text x="44"  y="951" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="951" font-size="13" fill="#c9d1d9">Security: Fix SQLi &amp; XSS, then improve website</text>
-  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
+  <text x="44"  y="951" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="951" font-size="13" fill="#c9d1d9">fix(network): find the PC over USB tethering</text>
+  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-10-17</text>
 </g>
 <line x1="1" y1="962" x2="899" y2="962" stroke="#21262d" stroke-width="0.5"/>
 <g class="r27">
   <circle cx="24" cy="977" r="5" fill="#bc8cff"/>
-  <text x="44"  y="981" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="981" font-size="13" fill="#c9d1d9">Fix dependencies</text>
-  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
+  <text x="44"  y="981" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="981" font-size="13" fill="#c9d1d9">fix(l10n): translate the Road theme labels and check both languages</text>
+  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
 </g>
 <line x1="1" y1="992" x2="899" y2="992" stroke="#21262d" stroke-width="0.5"/>
 <g class="r28">
   <circle cx="24" cy="1007" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1011" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1011" font-size="13" fill="#c9d1d9">Security: Several fixes link to Trivy flags</text>
-  <text x="882"  y="1011" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
+  <text x="44"  y="1011" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="1011" font-size="13" fill="#c9d1d9">Fix/feedback 2</text>
+  <text x="882"  y="1011" font-size="12" fill="#484f58" text-anchor="end">2026-10-07</text>
 </g>
 <line x1="1" y1="1022" x2="899" y2="1022" stroke="#21262d" stroke-width="0.5"/>
 <g class="r29">
   <circle cx="24" cy="1037" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1041" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
-  <text x="270" y="1041" font-size="13" fill="#c9d1d9">Improve: Trivy, KICS &amp; fix of systemd</text>
+  <text x="44"  y="1041" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
+  <text x="270" y="1041" font-size="13" fill="#c9d1d9">Security: Fix SQLi &amp; XSS, then improve website</text>
   <text x="882"  y="1041" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1052" x2="899" y2="1052" stroke="#21262d" stroke-width="0.5"/>
 <g class="r30">
   <circle cx="24" cy="1067" r="5" fill="#bc8cff"/>
   <text x="44"  y="1071" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1071" font-size="13" fill="#c9d1d9">Proposal: Rework CI/CD, Security fixes &amp; fix release number</text>
-  <text x="882"  y="1071" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
+  <text x="270" y="1071" font-size="13" fill="#c9d1d9">Fix dependencies</text>
+  <text x="882"  y="1071" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1082" x2="899" y2="1082" stroke="#21262d" stroke-width="0.5"/>
 <g class="r31">
   <circle cx="24" cy="1097" r="5" fill="#bc8cff"/>
   <text x="44"  y="1101" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1101" font-size="13" fill="#c9d1d9">fix(deps): bump express to 4.22.0 and body-parser to 1.20.6</text>
-  <text x="882"  y="1101" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
+  <text x="270" y="1101" font-size="13" fill="#c9d1d9">Security: Several fixes link to Trivy flags</text>
+  <text x="882"  y="1101" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1112" x2="899" y2="1112" stroke="#21262d" stroke-width="0.5"/>
 <g class="r32">
   <circle cx="24" cy="1127" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1131" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1131" font-size="13" fill="#c9d1d9">Generate SBOM &amp; Fix dependabot version</text>
-  <text x="882"  y="1131" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
+  <text x="44"  y="1131" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
+  <text x="270" y="1131" font-size="13" fill="#c9d1d9">Improve: Trivy, KICS &amp; fix of systemd</text>
+  <text x="882"  y="1131" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="1142" x2="899" y2="1142" stroke="#21262d" stroke-width="0.5"/>
 <g class="r33">
@@ -271,113 +271,113 @@
 </g>
 <line x1="1" y1="1202" x2="899" y2="1202" stroke="#21262d" stroke-width="0.5"/>
 <g class="r35">
-  <circle cx="24" cy="1217" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1221" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="1221" font-size="13" fill="#c9d1d9">Fix: Linux character</text>
-  <text x="882"  y="1221" font-size="12" fill="#484f58" text-anchor="end">2026-07-09</text>
+  <circle cx="24" cy="1217" r="5" fill="#f85149"/>
+  <text x="44"  y="1221" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
+  <text x="270" y="1221" font-size="13" fill="#c9d1d9">Fix(testsuite): Fix testsuite and fix ciphers</text>
+  <text x="882"  y="1221" font-size="12" fill="#484f58" text-anchor="end">2026-02-13</text>
 </g>
 <line x1="1" y1="1232" x2="899" y2="1232" stroke="#21262d" stroke-width="0.5"/>
 <g class="r36">
   <circle cx="24" cy="1247" r="5" fill="#f85149"/>
-  <text x="44"  y="1251" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="1251" font-size="13" fill="#c9d1d9">Fix(testsuite): Fix testsuite and fix ciphers</text>
-  <text x="882"  y="1251" font-size="12" fill="#484f58" text-anchor="end">2026-02-13</text>
+  <text x="44"  y="1251" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-release</text>
+  <text x="270" y="1251" font-size="13" fill="#c9d1d9">8.2 fix curl ciphers for xoa</text>
+  <text x="882"  y="1251" font-size="12" fill="#484f58" text-anchor="end">2025-01-14</text>
 </g>
-<line x1="1" y1="1262" x2="899" y2="1262" stroke="#21262d" stroke-width="0.5"/>
+<rect x="1" y="1262" width="898" height="24" fill="#161b22"/>
+<text x="18" y="1278" font-size="12" fill="#58a6ff" font-weight="bold">🔄 Dependency updates</text>
+<text x="882" y="1278" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 5 merged</text>
+<line x1="1" y1="1286" x2="899" y2="1286" stroke="#21262d" stroke-width="0.5"/>
 <g class="r37">
-  <circle cx="24" cy="1277" r="5" fill="#f85149"/>
-  <text x="44"  y="1281" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-release</text>
-  <text x="270" y="1281" font-size="13" fill="#c9d1d9">8.2 fix curl ciphers for xoa</text>
-  <text x="882"  y="1281" font-size="12" fill="#484f58" text-anchor="end">2025-01-14</text>
+  <circle cx="24" cy="1301" r="5" fill="#56d364"/>
+  <text x="44"  y="1305" font-size="13" fill="#8b949e">Mayfly277/ctftime_events_inf</text>
+  <text x="270" y="1305" font-size="13" fill="#c9d1d9">Update for Python3</text>
+  <text x="882"  y="1305" font-size="12" fill="#484f58" text-anchor="end">2023-04-22</text>
 </g>
-<rect x="1" y="1292" width="898" height="24" fill="#161b22"/>
-<text x="18" y="1308" font-size="12" fill="#58a6ff" font-weight="bold">🔄 Dependency updates</text>
-<text x="882" y="1308" font-size="11" fill="#484f58" text-anchor="end">2 open · 1 closed · 4 merged</text>
 <line x1="1" y1="1316" x2="899" y2="1316" stroke="#21262d" stroke-width="0.5"/>
 <g class="r38">
-  <circle cx="24" cy="1331" r="5" fill="#56d364"/>
+  <circle cx="24" cy="1331" r="5" fill="#bc8cff"/>
   <text x="44"  y="1335" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
   <text x="270" y="1335" font-size="13" fill="#c9d1d9">Update sudo to 1.9.17-10 from CentOS10</text>
-  <text x="882"  y="1335" font-size="12" fill="#484f58" text-anchor="end">2026-09-25</text>
+  <text x="882"  y="1335" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="1346" x2="899" y2="1346" stroke="#21262d" stroke-width="0.5"/>
 <g class="r39">
-  <circle cx="24" cy="1361" r="5" fill="#56d364"/>
-  <text x="44"  y="1365" font-size="13" fill="#8b949e">Mayfly277/ctftime_events_inf</text>
-  <text x="270" y="1365" font-size="13" fill="#c9d1d9">Update for Python3</text>
-  <text x="882"  y="1365" font-size="12" fill="#484f58" text-anchor="end">2023-04-22</text>
+  <circle cx="24" cy="1361" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1365" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
+  <text x="270" y="1365" font-size="13" fill="#c9d1d9">build(deps): update every dependency and verify checksums</text>
+  <text x="882"  y="1365" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
 </g>
 <line x1="1" y1="1376" x2="899" y2="1376" stroke="#21262d" stroke-width="0.5"/>
 <g class="r40">
   <circle cx="24" cy="1391" r="5" fill="#bc8cff"/>
   <text x="44"  y="1395" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1395" font-size="13" fill="#c9d1d9">build(deps): update every dependency and verify checksums</text>
+  <text x="270" y="1395" font-size="13" fill="#c9d1d9">build(deps): upgrade Flutter to 3.47.7 and apply the Dependabot bum</text>
   <text x="882"  y="1395" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
 </g>
 <line x1="1" y1="1406" x2="899" y2="1406" stroke="#21262d" stroke-width="0.5"/>
 <g class="r41">
   <circle cx="24" cy="1421" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1425" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1425" font-size="13" fill="#c9d1d9">build(deps): upgrade Flutter to 3.47.7 and apply the Dependabot bum</text>
-  <text x="882"  y="1425" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="44"  y="1425" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
+  <text x="270" y="1425" font-size="13" fill="#c9d1d9">Update package</text>
+  <text x="882"  y="1425" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
 </g>
 <line x1="1" y1="1436" x2="899" y2="1436" stroke="#21262d" stroke-width="0.5"/>
 <g class="r42">
-  <circle cx="24" cy="1451" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1455" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1455" font-size="13" fill="#c9d1d9">Update package</text>
-  <text x="882"  y="1455" font-size="12" fill="#484f58" text-anchor="end">2026-10-05</text>
+  <circle cx="24" cy="1451" r="5" fill="#f85149"/>
+  <text x="44"  y="1455" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
+  <text x="270" y="1455" font-size="13" fill="#c9d1d9">Revert &quot;Update sudo to 1.9.17-4 from CentOS10&quot;</text>
+  <text x="882"  y="1455" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
 </g>
 <line x1="1" y1="1466" x2="899" y2="1466" stroke="#21262d" stroke-width="0.5"/>
 <g class="r43">
-  <circle cx="24" cy="1481" r="5" fill="#f85149"/>
+  <circle cx="24" cy="1481" r="5" fill="#bc8cff"/>
   <text x="44"  y="1485" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="1485" font-size="13" fill="#c9d1d9">Revert &quot;Update sudo to 1.9.17-4 from CentOS10&quot;</text>
-  <text x="882"  y="1485" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
+  <text x="270" y="1485" font-size="13" fill="#c9d1d9">Update sudo to 1.9.17-4 from CentOS10</text>
+  <text x="882"  y="1485" font-size="12" fill="#484f58" text-anchor="end">2026-06-18</text>
 </g>
-<line x1="1" y1="1496" x2="899" y2="1496" stroke="#21262d" stroke-width="0.5"/>
+<rect x="1" y="1496" width="898" height="24" fill="#161b22"/>
+<text x="18" y="1512" font-size="12" fill="#58a6ff" font-weight="bold">🔧 Other contributions</text>
+<text x="882" y="1512" font-size="11" fill="#484f58" text-anchor="end">8 open · 2 closed · 10 merged</text>
+<line x1="1" y1="1520" x2="899" y2="1520" stroke="#21262d" stroke-width="0.5"/>
 <g class="r44">
-  <circle cx="24" cy="1511" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1515" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="1515" font-size="13" fill="#c9d1d9">Update sudo to 1.9.17-4 from CentOS10</text>
-  <text x="882"  y="1515" font-size="12" fill="#484f58" text-anchor="end">2026-06-18</text>
+  <circle cx="24" cy="1535" r="5" fill="#56d364"/>
+  <text x="44"  y="1539" font-size="13" fill="#8b949e">ValveSoftware/wine</text>
+  <text x="270" y="1539" font-size="13" fill="#c9d1d9">win32u: Avoid a crash when __WINE_OPENXR_VK_INSTANCE_EXTENSIONS is </text>
+  <text x="882"  y="1539" font-size="12" fill="#484f58" text-anchor="end">2026-10-21</text>
 </g>
-<rect x="1" y="1526" width="898" height="24" fill="#161b22"/>
-<text x="18" y="1542" font-size="12" fill="#58a6ff" font-weight="bold">🔧 Other contributions</text>
-<text x="882" y="1542" font-size="11" fill="#484f58" text-anchor="end">7 open · 2 closed · 10 merged</text>
 <line x1="1" y1="1550" x2="899" y2="1550" stroke="#21262d" stroke-width="0.5"/>
 <g class="r45">
   <circle cx="24" cy="1565" r="5" fill="#56d364"/>
   <text x="44"  y="1569" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-org</text>
   <text x="270" y="1569" font-size="13" fill="#c9d1d9">[waiting for OpenSSH 9.9p1] openssh.md: Configuring and hardening O</text>
-  <text x="882"  y="1569" font-size="12" fill="#484f58" text-anchor="end">2026-10-02</text>
+  <text x="882"  y="1569" font-size="12" fill="#484f58" text-anchor="end">2026-10-20</text>
 </g>
 <line x1="1" y1="1580" x2="899" y2="1580" stroke="#21262d" stroke-width="0.5"/>
 <g class="r46">
   <circle cx="24" cy="1595" r="5" fill="#56d364"/>
-  <text x="44"  y="1599" font-size="13" fill="#8b949e">xcp-ng-rpms/libfido2</text>
-  <text x="270" y="1599" font-size="13" fill="#c9d1d9">Import libfido2-1.14.0-7.el10.src.rpm</text>
-  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-10-02</text>
+  <text x="44"  y="1599" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
+  <text x="270" y="1599" font-size="13" fill="#c9d1d9">For 8.3/import openssh 9.9p1 27.el10.alma.1.src.rpm</text>
+  <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-10-16</text>
 </g>
 <line x1="1" y1="1610" x2="899" y2="1610" stroke="#21262d" stroke-width="0.5"/>
 <g class="r47">
   <circle cx="24" cy="1625" r="5" fill="#56d364"/>
-  <text x="44"  y="1629" font-size="13" fill="#8b949e">xcp-ng-rpms/libcbor</text>
-  <text x="270" y="1629" font-size="13" fill="#c9d1d9">Import libcbor-0.11.0-3.el10.src.rpm</text>
-  <text x="882"  y="1629" font-size="12" fill="#484f58" text-anchor="end">2026-10-01</text>
+  <text x="44"  y="1629" font-size="13" fill="#8b949e">xcp-ng-rpms/libfido2</text>
+  <text x="270" y="1629" font-size="13" fill="#c9d1d9">Import libfido2-1.14.0-7.el10.src.rpm</text>
+  <text x="882"  y="1629" font-size="12" fill="#484f58" text-anchor="end">2026-10-02</text>
 </g>
 <line x1="1" y1="1640" x2="899" y2="1640" stroke="#21262d" stroke-width="0.5"/>
 <g class="r48">
   <circle cx="24" cy="1655" r="5" fill="#56d364"/>
-  <text x="44"  y="1659" font-size="13" fill="#8b949e">xcp-ng/host-installer</text>
-  <text x="270" y="1659" font-size="13" fill="#c9d1d9">[XCPNG9] Preserve etc/ssh/sshd_config.d and etc/ssh/ssh_config.d</text>
+  <text x="44"  y="1659" font-size="13" fill="#8b949e">xcp-ng-rpms/libcbor</text>
+  <text x="270" y="1659" font-size="13" fill="#c9d1d9">Import libcbor-0.11.0-3.el10.src.rpm</text>
   <text x="882"  y="1659" font-size="12" fill="#484f58" text-anchor="end">2026-10-01</text>
 </g>
 <line x1="1" y1="1670" x2="899" y2="1670" stroke="#21262d" stroke-width="0.5"/>
 <g class="r49">
   <circle cx="24" cy="1685" r="5" fill="#56d364"/>
-  <text x="44"  y="1689" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="1689" font-size="13" fill="#c9d1d9">For 8.3/import openssh 9.9p1 27.el10.alma.1.src.rpm</text>
+  <text x="44"  y="1689" font-size="13" fill="#8b949e">xcp-ng/host-installer</text>
+  <text x="270" y="1689" font-size="13" fill="#c9d1d9">[XCPNG9] Preserve etc/ssh/sshd_config.d and etc/ssh/ssh_config.d</text>
   <text x="882"  y="1689" font-size="12" fill="#484f58" text-anchor="end">2026-10-01</text>
 </g>
 <line x1="1" y1="1700" x2="899" y2="1700" stroke="#21262d" stroke-width="0.5"/>
@@ -398,71 +398,71 @@
 <g class="r52">
   <circle cx="24" cy="1775" r="5" fill="#bc8cff"/>
   <text x="44"  y="1779" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1779" font-size="13" fill="#c9d1d9">Tidy up: versions from the release tag, app named Beam-RemotePlus, </text>
-  <text x="882"  y="1779" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1779" font-size="13" fill="#c9d1d9">feat(driving): look around the video, and its free camera</text>
+  <text x="882"  y="1779" font-size="12" fill="#484f58" text-anchor="end">2026-10-20</text>
 </g>
 <line x1="1" y1="1790" x2="899" y2="1790" stroke="#21262d" stroke-width="0.5"/>
 <g class="r53">
   <circle cx="24" cy="1805" r="5" fill="#bc8cff"/>
   <text x="44"  y="1809" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1809" font-size="13" fill="#c9d1d9">Tidy up: versions from the release tag, no mod_info, clearer docs</text>
-  <text x="882"  y="1809" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1809" font-size="13" fill="#c9d1d9">feat(pov): turn the camera of the video, and its free camera</text>
+  <text x="882"  y="1809" font-size="12" fill="#484f58" text-anchor="end">2026-10-20</text>
 </g>
 <line x1="1" y1="1820" x2="899" y2="1820" stroke="#21262d" stroke-width="0.5"/>
 <g class="r54">
   <circle cx="24" cy="1835" r="5" fill="#bc8cff"/>
   <text x="44"  y="1839" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1839" font-size="13" fill="#c9d1d9">Feat/vehicle skeleton</text>
-  <text x="882"  y="1839" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1839" font-size="13" fill="#c9d1d9">docs: only the phone side of the network</text>
+  <text x="882"  y="1839" font-size="12" fill="#484f58" text-anchor="end">2026-10-20</text>
 </g>
 <line x1="1" y1="1850" x2="899" y2="1850" stroke="#21262d" stroke-width="0.5"/>
 <g class="r55">
   <circle cx="24" cy="1865" r="5" fill="#bc8cff"/>
   <text x="44"  y="1869" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1869" font-size="13" fill="#c9d1d9">Feat/vehicle skeleton</text>
-  <text x="882"  y="1869" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1869" font-size="13" fill="#c9d1d9">feat(driving): video in the shape of the screen, bitrate setting, o</text>
+  <text x="882"  y="1869" font-size="12" fill="#484f58" text-anchor="end">2026-10-20</text>
 </g>
 <line x1="1" y1="1880" x2="899" y2="1880" stroke="#21262d" stroke-width="0.5"/>
 <g class="r56">
   <circle cx="24" cy="1895" r="5" fill="#bc8cff"/>
   <text x="44"  y="1899" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1899" font-size="13" fill="#c9d1d9">feat(telemetry): support electric and hybrid vehicles</text>
-  <text x="882"  y="1899" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1899" font-size="13" fill="#c9d1d9">docs(readme): only the PC side of the network</text>
+  <text x="882"  y="1899" font-size="12" fill="#484f58" text-anchor="end">2026-10-20</text>
 </g>
 <line x1="1" y1="1910" x2="899" y2="1910" stroke="#21262d" stroke-width="0.5"/>
 <g class="r57">
   <circle cx="24" cy="1925" r="5" fill="#bc8cff"/>
   <text x="44"  y="1929" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1929" font-size="13" fill="#c9d1d9">feat(telemetry): relay the game's other vehicle warnings</text>
-  <text x="882"  y="1929" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1929" font-size="13" fill="#c9d1d9">feat(pov): video in the shape of the phone, anti-aliasing and bitra</text>
+  <text x="882"  y="1929" font-size="12" fill="#484f58" text-anchor="end">2026-10-20</text>
 </g>
 <line x1="1" y1="1940" x2="899" y2="1940" stroke="#21262d" stroke-width="0.5"/>
 <g class="r58">
   <circle cx="24" cy="1955" r="5" fill="#bc8cff"/>
   <text x="44"  y="1959" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1959" font-size="13" fill="#c9d1d9">feat(vehicle-status): support electric and hybrid vehicles</text>
-  <text x="882"  y="1959" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1959" font-size="13" fill="#c9d1d9">docs(security): the video port 4448</text>
+  <text x="882"  y="1959" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="1970" x2="899" y2="1970" stroke="#21262d" stroke-width="0.5"/>
 <g class="r59">
   <circle cx="24" cy="1985" r="5" fill="#bc8cff"/>
   <text x="44"  y="1989" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1989" font-size="13" fill="#c9d1d9">feat(vehicle-status): warning lights for the game's other vehicle w</text>
-  <text x="882"  y="1989" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="1989" font-size="13" fill="#c9d1d9">docs(readme): ports of the phone in the network section</text>
+  <text x="882"  y="1989" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="2000" x2="899" y2="2000" stroke="#21262d" stroke-width="0.5"/>
 <g class="r60">
   <circle cx="24" cy="2015" r="5" fill="#bc8cff"/>
   <text x="44"  y="2019" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="2019" font-size="13" fill="#c9d1d9">feat(vehicle-status): redraw the damage schematic to be read at a g</text>
-  <text x="882"  y="2019" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="2019" font-size="13" fill="#c9d1d9">feat(driving): H.264 driver's view video</text>
+  <text x="882"  y="2019" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="2030" x2="899" y2="2030" stroke="#21262d" stroke-width="0.5"/>
 <g class="r61">
   <circle cx="24" cy="2045" r="5" fill="#bc8cff"/>
   <text x="44"  y="2049" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="2049" font-size="13" fill="#c9d1d9">feat(haptics): adjustable vibration strength and an ABS vibration</text>
-  <text x="882"  y="2049" font-size="12" fill="#484f58" text-anchor="end">2026-10-09</text>
+  <text x="270" y="2049" font-size="13" fill="#c9d1d9">feat(steering): tilt past 90° and real wheel mode</text>
+  <text x="882"  y="2049" font-size="12" fill="#484f58" text-anchor="end">2026-10-19</text>
 </g>
 <line x1="1" y1="2060" x2="899" y2="2060" stroke="#21262d" stroke-width="0.5"/>
 <g class="r62">
