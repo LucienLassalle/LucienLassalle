@@ -89,7 +89,7 @@
   <circle cx="24" cy="413" r="5" fill="#56d364"/>
   <text x="44"  y="417" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
   <text x="270" y="417" font-size="13" fill="#c9d1d9">Add: sftp &amp; scp test with curl</text>
-  <text x="882"  y="417" font-size="12" fill="#484f58" text-anchor="end">2026-10-26</text>
+  <text x="882"  y="417" font-size="12" fill="#484f58" text-anchor="end">2026-10-27</text>
 </g>
 <line x1="1" y1="428" x2="899" y2="428" stroke="#21262d" stroke-width="0.5"/>
 <g class="r10">
