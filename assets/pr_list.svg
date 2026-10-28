@@ -190,7 +190,7 @@
   <circle cx="24" cy="857" r="5" fill="#56d364"/>
   <text x="44"  y="861" font-size="13" fill="#8b949e">xcp-ng-rpms/libssh2</text>
   <text x="270" y="861" font-size="13" fill="#c9d1d9">Fix: Multiple vulnerabilities in libssh2</text>
-  <text x="882"  y="861" font-size="12" fill="#484f58" text-anchor="end">2026-10-26</text>
+  <text x="882"  y="861" font-size="12" fill="#484f58" text-anchor="end">2026-10-27</text>
 </g>
 <line x1="1" y1="872" x2="899" y2="872" stroke="#21262d" stroke-width="0.5"/>
 <g class="r24">
