@@ -54,59 +54,59 @@
   <text x="733.8" y="74" font-size="14" fill="#c9d1d9">Perl</text>
 </g>
 <g class="c9">
-  <rect x="786.1999999999999" y="56" width="49.2" height="28" rx="14" fill="#0d1117" stroke="#00ADD8" stroke-width="1.5"/>
-  <circle cx="800.1999999999999" cy="70" r="4" fill="#00ADD8"/>
-  <text x="808.1999999999999" y="74" font-size="14" fill="#c9d1d9">Go</text>
+  <rect x="786.1999999999999" y="56" width="66.4" height="28" rx="14" fill="#0d1117" stroke="#00B4AB" stroke-width="1.5"/>
+  <circle cx="800.1999999999999" cy="70" r="4" fill="#00B4AB"/>
+  <text x="808.1999999999999" y="74" font-size="14" fill="#c9d1d9">Dart</text>
 </g>
 <g class="c10">
-  <rect x="22" y="94" width="66.4" height="28" rx="14" fill="#0d1117" stroke="#00B4AB" stroke-width="1.5"/>
-  <circle cx="36" cy="108" r="4" fill="#00B4AB"/>
-  <text x="44" y="112" font-size="14" fill="#c9d1d9">Dart</text>
+  <rect x="22" y="94" width="49.2" height="28" rx="14" fill="#0d1117" stroke="#00ADD8" stroke-width="1.5"/>
+  <circle cx="36" cy="108" r="4" fill="#00ADD8"/>
+  <text x="44" y="112" font-size="14" fill="#c9d1d9">Go</text>
 </g>
 <g class="c11">
-  <rect x="96.4" y="94" width="57.8" height="28" rx="14" fill="#0d1117" stroke="#663399" stroke-width="1.5"/>
-  <circle cx="110.4" cy="108" r="4" fill="#663399"/>
-  <text x="118.4" y="112" font-size="14" fill="#c9d1d9">CSS</text>
+  <rect x="79.2" y="94" width="57.8" height="28" rx="14" fill="#0d1117" stroke="#663399" stroke-width="1.5"/>
+  <circle cx="93.2" cy="108" r="4" fill="#663399"/>
+  <text x="101.2" y="112" font-size="14" fill="#c9d1d9">CSS</text>
 </g>
 <g class="c12">
-  <rect x="162.2" y="94" width="100.8" height="28" rx="14" fill="#0d1117" stroke="#427819" stroke-width="1.5"/>
-  <circle cx="176.2" cy="108" r="4" fill="#427819"/>
-  <text x="184.2" y="112" font-size="14" fill="#c9d1d9">Makefile</text>
+  <rect x="145.0" y="94" width="100.8" height="28" rx="14" fill="#0d1117" stroke="#427819" stroke-width="1.5"/>
+  <circle cx="159.0" cy="108" r="4" fill="#427819"/>
+  <text x="167.0" y="112" font-size="14" fill="#c9d1d9">Makefile</text>
 </g>
 <g class="c13">
-  <rect x="271.0" y="94" width="126.6" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
-  <circle cx="285.0" cy="108" r="4" fill="#ededed"/>
-  <text x="293.0" y="112" font-size="14" fill="#c9d1d9">Objective-C</text>
+  <rect x="253.8" y="94" width="126.6" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
+  <circle cx="267.8" cy="108" r="4" fill="#ededed"/>
+  <text x="275.8" y="112" font-size="14" fill="#c9d1d9">Objective-C</text>
 </g>
 <g class="c14">
-  <rect x="405.6" y="94" width="57.8" height="28" rx="14" fill="#0d1117" stroke="#000080" stroke-width="1.5"/>
-  <circle cx="419.6" cy="108" r="4" fill="#000080"/>
-  <text x="427.6" y="112" font-size="14" fill="#c9d1d9">Lua</text>
+  <rect x="388.4" y="94" width="57.8" height="28" rx="14" fill="#0d1117" stroke="#000080" stroke-width="1.5"/>
+  <circle cx="402.4" cy="108" r="4" fill="#000080"/>
+  <text x="410.4" y="112" font-size="14" fill="#c9d1d9">Lua</text>
 </g>
 <g class="c15">
-  <rect x="471.40000000000003" y="94" width="57.8" height="28" rx="14" fill="#0d1117" stroke="#4F5D95" stroke-width="1.5"/>
-  <circle cx="485.40000000000003" cy="108" r="4" fill="#4F5D95"/>
-  <text x="493.40000000000003" y="112" font-size="14" fill="#c9d1d9">PHP</text>
+  <rect x="454.2" y="94" width="57.8" height="28" rx="14" fill="#0d1117" stroke="#4F5D95" stroke-width="1.5"/>
+  <circle cx="468.2" cy="108" r="4" fill="#4F5D95"/>
+  <text x="476.2" y="112" font-size="14" fill="#c9d1d9">PHP</text>
 </g>
 <g class="c16">
-  <rect x="537.2" y="94" width="75.0" height="28" rx="14" fill="#0d1117" stroke="#89e051" stroke-width="1.5"/>
-  <circle cx="551.2" cy="108" r="4" fill="#89e051"/>
-  <text x="559.2" y="112" font-size="14" fill="#c9d1d9">Shell</text>
+  <rect x="520.0" y="94" width="75.0" height="28" rx="14" fill="#0d1117" stroke="#89e051" stroke-width="1.5"/>
+  <circle cx="534.0" cy="108" r="4" fill="#89e051"/>
+  <text x="542.0" y="112" font-size="14" fill="#c9d1d9">Shell</text>
 </g>
 <g class="c17">
-  <rect x="620.2" y="94" width="49.2" height="28" rx="14" fill="#0d1117" stroke="#178600" stroke-width="1.5"/>
-  <circle cx="634.2" cy="108" r="4" fill="#178600"/>
-  <text x="642.2" y="112" font-size="14" fill="#c9d1d9">C#</text>
+  <rect x="603.0" y="94" width="49.2" height="28" rx="14" fill="#0d1117" stroke="#178600" stroke-width="1.5"/>
+  <circle cx="617.0" cy="108" r="4" fill="#178600"/>
+  <text x="625.0" y="112" font-size="14" fill="#c9d1d9">C#</text>
 </g>
 <g class="c18">
-  <rect x="677.4000000000001" y="94" width="100.8" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
-  <circle cx="691.4000000000001" cy="108" r="4" fill="#ededed"/>
-  <text x="699.4000000000001" y="112" font-size="14" fill="#c9d1d9">VBScript</text>
+  <rect x="660.2" y="94" width="100.8" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
+  <circle cx="674.2" cy="108" r="4" fill="#ededed"/>
+  <text x="682.2" y="112" font-size="14" fill="#c9d1d9">VBScript</text>
 </g>
 <g class="c19">
-  <rect x="786.2" y="94" width="66.4" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
-  <circle cx="800.2" cy="108" r="4" fill="#ededed"/>
-  <text x="808.2" y="112" font-size="14" fill="#c9d1d9">Ruby</text>
+  <rect x="769.0" y="94" width="66.4" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
+  <circle cx="783.0" cy="108" r="4" fill="#ededed"/>
+  <text x="791.0" y="112" font-size="14" fill="#c9d1d9">Ruby</text>
 </g>
 <g class="c20">
   <rect x="22" y="132" width="66.4" height="28" rx="14" fill="#0d1117" stroke="#ededed" stroke-width="1.5"/>
