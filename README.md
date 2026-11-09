@@ -31,7 +31,7 @@
 
 </div>
 
-> _0 public contributions · 2 issues opened / 1 closed_
+> _1305 public contributions · 2 issues opened / 1 closed_
 
 ---
 
@@ -63,7 +63,7 @@
 
 </div>
 
-<sub>228 PRs merged · 13 open in total</sub>
+<sub>228 PRs merged · 16 open in total</sub>
 
 ---
 
