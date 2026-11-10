@@ -294,7 +294,7 @@
   <circle cx="24" cy="1325" r="5" fill="#56d364"/>
   <text x="44"  y="1329" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-org</text>
   <text x="270" y="1329" font-size="13" fill="#c9d1d9">[waiting for OpenSSH 9.9p1] openssh.md: Configuring and hardening O</text>
-  <text x="882"  y="1329" font-size="12" fill="#484f58" text-anchor="end">2026-11-09</text>
+  <text x="882"  y="1329" font-size="12" fill="#484f58" text-anchor="end">2026-11-10</text>
 </g>
 <line x1="1" y1="1340" x2="899" y2="1340" stroke="#21262d" stroke-width="0.5"/>
 <g class="r38">
