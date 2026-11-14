@@ -48,20 +48,20 @@
 </g>
 <rect x="1" y="224" width="898" height="24" fill="#161b22"/>
 <text x="18" y="240" font-size="12" fill="#58a6ff" font-weight="bold">✨ Features</text>
-<text x="882" y="240" font-size="11" fill="#484f58" text-anchor="end">2 open · 1 closed · 7 merged</text>
+<text x="882" y="240" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 8 merged</text>
 <line x1="1" y1="248" x2="899" y2="248" stroke="#21262d" stroke-width="0.5"/>
 <g class="r4">
   <circle cx="24" cy="263" r="5" fill="#56d364"/>
   <text x="44"  y="267" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="267" font-size="13" fill="#c9d1d9">Add: sftp &amp; scp test with curl</text>
-  <text x="882"  y="267" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
+  <text x="270" y="267" font-size="13" fill="#c9d1d9">[depends on OpenSSH 9.9p1 update] add SSH feature coverage for the </text>
+  <text x="882"  y="267" font-size="12" fill="#484f58" text-anchor="end">2026-11-10</text>
 </g>
 <line x1="1" y1="278" x2="899" y2="278" stroke="#21262d" stroke-width="0.5"/>
 <g class="r5">
-  <circle cx="24" cy="293" r="5" fill="#56d364"/>
+  <circle cx="24" cy="293" r="5" fill="#bc8cff"/>
   <text x="44"  y="297" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="297" font-size="13" fill="#c9d1d9">[depends on OpenSSH 9.9p1 update] add SSH feature coverage for the </text>
-  <text x="882"  y="297" font-size="12" fill="#484f58" text-anchor="end">2026-11-10</text>
+  <text x="270" y="297" font-size="13" fill="#c9d1d9">Add: sftp &amp; scp test with curl</text>
+  <text x="882"  y="297" font-size="12" fill="#484f58" text-anchor="end">2026-11-13</text>
 </g>
 <line x1="1" y1="308" x2="899" y2="308" stroke="#21262d" stroke-width="0.5"/>
 <g class="r6">
@@ -195,71 +195,71 @@
 <line x1="1" y1="872" x2="899" y2="872" stroke="#21262d" stroke-width="0.5"/>
 <g class="r24">
   <circle cx="24" cy="887" r="5" fill="#bc8cff"/>
-  <text x="44"  y="891" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="891" font-size="13" fill="#c9d1d9">fix(wrc2): no fake classified entry at the 2021 Safari Rally</text>
-  <text x="882"  y="891" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
+  <text x="44"  y="891" font-size="13" fill="#8b949e">xcp-ng-rpms/libssh2</text>
+  <text x="270" y="891" font-size="13" fill="#c9d1d9">Fix: Multiple vulnerabilities in libssh2</text>
+  <text x="882"  y="891" font-size="12" fill="#484f58" text-anchor="end">2026-11-13</text>
 </g>
 <line x1="1" y1="902" x2="899" y2="902" stroke="#21262d" stroke-width="0.5"/>
 <g class="r25">
   <circle cx="24" cy="917" r="5" fill="#bc8cff"/>
   <text x="44"  y="921" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="921" font-size="13" fill="#c9d1d9">fix(endurance): missing drivers in ALMS, ELMS, Asian LMS and IMSA</text>
+  <text x="270" y="921" font-size="13" fill="#c9d1d9">fix(wrc2): no fake classified entry at the 2021 Safari Rally</text>
   <text x="882"  y="921" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="932" x2="899" y2="932" stroke="#21262d" stroke-width="0.5"/>
 <g class="r26">
   <circle cx="24" cy="947" r="5" fill="#bc8cff"/>
   <text x="44"  y="951" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="951" font-size="13" fill="#c9d1d9">fix(wec): Monza 2026, results checked against the official results,</text>
+  <text x="270" y="951" font-size="13" fill="#c9d1d9">fix(endurance): missing drivers in ALMS, ELMS, Asian LMS and IMSA</text>
   <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="962" x2="899" y2="962" stroke="#21262d" stroke-width="0.5"/>
 <g class="r27">
   <circle cx="24" cy="977" r="5" fill="#bc8cff"/>
-  <text x="44"  y="981" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="981" font-size="13" fill="#c9d1d9">fix(drivers): WEC drivers without a Wikipedia article, merged dupli</text>
+  <text x="44"  y="981" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="981" font-size="13" fill="#c9d1d9">fix(wec): Monza 2026, results checked against the official results,</text>
   <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="992" x2="899" y2="992" stroke="#21262d" stroke-width="0.5"/>
 <g class="r28">
   <circle cx="24" cy="1007" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1011" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1011" font-size="13" fill="#c9d1d9">fix(ui): &quot;Founded&quot; shown without a year on some team pages</text>
+  <text x="44"  y="1011" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1011" font-size="13" fill="#c9d1d9">fix(drivers): WEC drivers without a Wikipedia article, merged dupli</text>
   <text x="882"  y="1011" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1022" x2="899" y2="1022" stroke="#21262d" stroke-width="0.5"/>
 <g class="r29">
   <circle cx="24" cy="1037" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1041" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1041" font-size="13" fill="#c9d1d9">fix(teams): remove the fake team 'No classified finishers'</text>
+  <text x="44"  y="1041" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1041" font-size="13" fill="#c9d1d9">fix(ui): &quot;Founded&quot; shown without a year on some team pages</text>
   <text x="882"  y="1041" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1052" x2="899" y2="1052" stroke="#21262d" stroke-width="0.5"/>
 <g class="r30">
   <circle cx="24" cy="1067" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1071" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1071" font-size="13" fill="#c9d1d9">fix(network): steady status and fresh sockets during a signal loss</text>
-  <text x="882"  y="1071" font-size="12" fill="#484f58" text-anchor="end">2026-11-07</text>
+  <text x="44"  y="1071" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
+  <text x="270" y="1071" font-size="13" fill="#c9d1d9">fix(teams): remove the fake team 'No classified finishers'</text>
+  <text x="882"  y="1071" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1082" x2="899" y2="1082" stroke="#21262d" stroke-width="0.5"/>
 <g class="r31">
   <circle cx="24" cy="1097" r="5" fill="#bc8cff"/>
   <text x="44"  y="1101" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1101" font-size="13" fill="#c9d1d9">fix(network): reconnection after a Wi-Fi cut on the phone</text>
+  <text x="270" y="1101" font-size="13" fill="#c9d1d9">fix(network): steady status and fresh sockets during a signal loss</text>
   <text x="882"  y="1101" font-size="12" fill="#484f58" text-anchor="end">2026-11-07</text>
 </g>
 <line x1="1" y1="1112" x2="899" y2="1112" stroke="#21262d" stroke-width="0.5"/>
 <g class="r32">
   <circle cx="24" cy="1127" r="5" fill="#bc8cff"/>
   <text x="44"  y="1131" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1131" font-size="13" fill="#c9d1d9">fix(clients): a phone back from another address keeps its player</text>
+  <text x="270" y="1131" font-size="13" fill="#c9d1d9">fix(network): reconnection after a Wi-Fi cut on the phone</text>
   <text x="882"  y="1131" font-size="12" fill="#484f58" text-anchor="end">2026-11-07</text>
 </g>
 <line x1="1" y1="1142" x2="899" y2="1142" stroke="#21262d" stroke-width="0.5"/>
 <g class="r33">
   <circle cx="24" cy="1157" r="5" fill="#bc8cff"/>
   <text x="44"  y="1161" font-size="13" fill="#8b949e">LucienLassalle/Beam-RemotePl</text>
-  <text x="270" y="1161" font-size="13" fill="#c9d1d9">fix(driving): neutral controls when the app leaves the screen</text>
+  <text x="270" y="1161" font-size="13" fill="#c9d1d9">fix(clients): a phone back from another address keeps its player</text>
   <text x="882"  y="1161" font-size="12" fill="#484f58" text-anchor="end">2026-11-07</text>
 </g>
 <line x1="1" y1="1172" x2="899" y2="1172" stroke="#21262d" stroke-width="0.5"/>
