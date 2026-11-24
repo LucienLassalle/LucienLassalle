@@ -10,7 +10,7 @@
 <text x="850" y="23" font-size="13" fill="#484f58" text-anchor="end">─</text>
 <text x="22" y="69" font-size="13" class="j0"><tspan fill="#484f58">{</tspan></text>
 <text x="36" y="88" font-size="13" class="j1"><tspan fill="#58a6ff">&quot;name&quot;</tspan><tspan fill="#484f58">: </tspan><tspan fill="#56d364">&quot;Lucien Lassalle&quot;</tspan><tspan fill="#484f58">,</tspan></text>
-<text x="36" y="107" font-size="13" class="j2"><tspan fill="#58a6ff">&quot;age&quot;</tspan><tspan fill="#484f58">: </tspan><tspan fill="#56d364">&quot;22 yo&quot;</tspan><tspan fill="#484f58">,</tspan></text>
+<text x="36" y="107" font-size="13" class="j2"><tspan fill="#58a6ff">&quot;age&quot;</tspan><tspan fill="#484f58">: </tspan><tspan fill="#56d364">&quot;23 yo&quot;</tspan><tspan fill="#484f58">,</tspan></text>
 <text x="36" y="126" font-size="13" class="j3"><tspan fill="#58a6ff">&quot;company&quot;</tspan><tspan fill="#484f58">: {</tspan></text>
 <text x="50" y="145" font-size="13" class="j4"><tspan fill="#58a6ff">&quot;Vates&quot;</tspan><tspan fill="#484f58">: {</tspan></text>
 <text x="64" y="164" font-size="13" class="j5"><tspan fill="#58a6ff">&quot;DevOps &amp; Security Specialist&quot;</tspan><tspan fill="#484f58">: </tspan><tspan fill="#56d364">&quot;2025-2026&quot;</tspan><tspan fill="#484f58">,</tspan></text>
