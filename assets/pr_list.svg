@@ -313,148 +313,148 @@
 <line x1="1" y1="1400" x2="899" y2="1400" stroke="#21262d" stroke-width="0.5"/>
 <g class="r40">
   <circle cx="24" cy="1415" r="5" fill="#56d364"/>
-  <text x="44"  y="1419" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-org</text>
-  <text x="270" y="1419" font-size="13" fill="#c9d1d9">[waiting for OpenSSH 9.9p1] openssh.md: Configuring and hardening O</text>
-  <text x="882"  y="1419" font-size="12" fill="#484f58" text-anchor="end">2026-11-24</text>
+  <text x="44"  y="1419" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1419" font-size="13" fill="#c9d1d9">feat(asian-lms): Dubai races 1-2 and Abu Dhabi race 2 of the 2025-2</text>
+  <text x="882"  y="1419" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1430" x2="899" y2="1430" stroke="#21262d" stroke-width="0.5"/>
 <g class="r41">
   <circle cx="24" cy="1445" r="5" fill="#56d364"/>
-  <text x="44"  y="1449" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1449" font-size="13" fill="#c9d1d9">feat(asian-lms): Dubai races 1-2 and Abu Dhabi race 2 of the 2025-2</text>
+  <text x="44"  y="1449" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="1449" font-size="13" fill="#c9d1d9">feat(races): Le Mans, Targa Florio, Mille Miglia, Sebring and Dayto</text>
   <text x="882"  y="1449" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1460" x2="899" y2="1460" stroke="#21262d" stroke-width="0.5"/>
 <g class="r42">
   <circle cx="24" cy="1475" r="5" fill="#56d364"/>
   <text x="44"  y="1479" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1479" font-size="13" fill="#c9d1d9">feat(races): Le Mans, Targa Florio, Mille Miglia, Sebring and Dayto</text>
+  <text x="270" y="1479" font-size="13" fill="#c9d1d9">feat(races): logos of ALMS, Asian LMS, GP Explorer, WSC, the Grand </text>
   <text x="882"  y="1479" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1490" x2="899" y2="1490" stroke="#21262d" stroke-width="0.5"/>
 <g class="r43">
   <circle cx="24" cy="1505" r="5" fill="#56d364"/>
-  <text x="44"  y="1509" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1509" font-size="13" fill="#c9d1d9">feat(races): logos of ALMS, Asian LMS, GP Explorer, WSC, the Grand </text>
+  <text x="44"  y="1509" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1509" font-size="13" fill="#c9d1d9">feat(seo): send AI crawlers to the GitHub repositories (robots.txt,</text>
   <text x="882"  y="1509" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1520" x2="899" y2="1520" stroke="#21262d" stroke-width="0.5"/>
 <g class="r44">
   <circle cx="24" cy="1535" r="5" fill="#56d364"/>
-  <text x="44"  y="1539" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1539" font-size="13" fill="#c9d1d9">feat(seo): send AI crawlers to the GitHub repositories (robots.txt,</text>
+  <text x="44"  y="1539" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="1539" font-size="13" fill="#c9d1d9">feat(asian-lms): Dubai races 1-2 and Abu Dhabi race 2 of the 2025-2</text>
   <text x="882"  y="1539" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1550" x2="899" y2="1550" stroke="#21262d" stroke-width="0.5"/>
 <g class="r45">
   <circle cx="24" cy="1565" r="5" fill="#56d364"/>
-  <text x="44"  y="1569" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1569" font-size="13" fill="#c9d1d9">feat(asian-lms): Dubai races 1-2 and Abu Dhabi race 2 of the 2025-2</text>
+  <text x="44"  y="1569" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1569" font-size="13" fill="#c9d1d9">feat(races): Indianapolis 500 1911-2026</text>
   <text x="882"  y="1569" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1580" x2="899" y2="1580" stroke="#21262d" stroke-width="0.5"/>
 <g class="r46">
   <circle cx="24" cy="1595" r="5" fill="#56d364"/>
-  <text x="44"  y="1599" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="44"  y="1599" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
   <text x="270" y="1599" font-size="13" fill="#c9d1d9">feat(races): Indianapolis 500 1911-2026</text>
   <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1610" x2="899" y2="1610" stroke="#21262d" stroke-width="0.5"/>
 <g class="r47">
   <circle cx="24" cy="1625" r="5" fill="#56d364"/>
-  <text x="44"  y="1629" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
+  <text x="44"  y="1629" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
   <text x="270" y="1629" font-size="13" fill="#c9d1d9">feat(races): Indianapolis 500 1911-2026</text>
   <text x="882"  y="1629" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1640" x2="899" y2="1640" stroke="#21262d" stroke-width="0.5"/>
 <g class="r48">
   <circle cx="24" cy="1655" r="5" fill="#56d364"/>
-  <text x="44"  y="1659" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1659" font-size="13" fill="#c9d1d9">feat(races): Indianapolis 500 1911-2026</text>
+  <text x="44"  y="1659" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1659" font-size="13" fill="#c9d1d9">feat(ui): honours on driver and team pages, Triple Crown races high</text>
   <text x="882"  y="1659" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1670" x2="899" y2="1670" stroke="#21262d" stroke-width="0.5"/>
 <g class="r49">
   <circle cx="24" cy="1685" r="5" fill="#56d364"/>
-  <text x="44"  y="1689" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1689" font-size="13" fill="#c9d1d9">feat(ui): honours on driver and team pages, Triple Crown races high</text>
+  <text x="44"  y="1689" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="1689" font-size="13" fill="#c9d1d9">feat(races): world titles of the premier categories</text>
   <text x="882"  y="1689" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1700" x2="899" y2="1700" stroke="#21262d" stroke-width="0.5"/>
 <g class="r50">
-  <circle cx="24" cy="1715" r="5" fill="#f85149"/>
-  <text x="44"  y="1719" font-size="13" fill="#8b949e">crazy-max/diun</text>
-  <text x="270" y="1719" font-size="13" fill="#c9d1d9">Improve watch_repo with newer_only option</text>
-  <text x="882"  y="1719" font-size="12" fill="#484f58" text-anchor="end">2026-11-16</text>
+  <circle cx="24" cy="1715" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1719" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-org</text>
+  <text x="270" y="1719" font-size="13" fill="#c9d1d9">openssh.md: Configuring and hardening OpenSSH</text>
+  <text x="882"  y="1719" font-size="12" fill="#484f58" text-anchor="end">2026-11-25</text>
 </g>
 <line x1="1" y1="1730" x2="899" y2="1730" stroke="#21262d" stroke-width="0.5"/>
 <g class="r51">
-  <circle cx="24" cy="1745" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1749" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1749" font-size="13" fill="#c9d1d9">feat(wsc): World Sportscar Championship 1953-1992</text>
-  <text x="882"  y="1749" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
+  <circle cx="24" cy="1745" r="5" fill="#f85149"/>
+  <text x="44"  y="1749" font-size="13" fill="#8b949e">crazy-max/diun</text>
+  <text x="270" y="1749" font-size="13" fill="#c9d1d9">Improve watch_repo with newer_only option</text>
+  <text x="882"  y="1749" font-size="12" fill="#484f58" text-anchor="end">2026-11-16</text>
 </g>
 <line x1="1" y1="1760" x2="899" y2="1760" stroke="#21262d" stroke-width="0.5"/>
 <g class="r52">
   <circle cx="24" cy="1775" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1779" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1779" font-size="13" fill="#c9d1d9">feat(drivers): endurance drivers without a Wikipedia article</text>
+  <text x="44"  y="1779" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="1779" font-size="13" fill="#c9d1d9">feat(wsc): World Sportscar Championship 1953-1992</text>
   <text x="882"  y="1779" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1790" x2="899" y2="1790" stroke="#21262d" stroke-width="0.5"/>
 <g class="r53">
   <circle cx="24" cy="1805" r="5" fill="#bc8cff"/>
   <text x="44"  y="1809" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1809" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the World Sportscar Championship 1953-199</text>
+  <text x="270" y="1809" font-size="13" fill="#c9d1d9">feat(drivers): endurance drivers without a Wikipedia article</text>
   <text x="882"  y="1809" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1820" x2="899" y2="1820" stroke="#21262d" stroke-width="0.5"/>
 <g class="r54">
   <circle cx="24" cy="1835" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1839" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1839" font-size="13" fill="#c9d1d9">feat(wsc): World Sportscar Championship 1953-1992</text>
+  <text x="44"  y="1839" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1839" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the World Sportscar Championship 1953-199</text>
   <text x="882"  y="1839" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1850" x2="899" y2="1850" stroke="#21262d" stroke-width="0.5"/>
 <g class="r55">
   <circle cx="24" cy="1865" r="5" fill="#bc8cff"/>
   <text x="44"  y="1869" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1869" font-size="13" fill="#c9d1d9">feat(f1): 2026 São Paulo Grand Prix</text>
+  <text x="270" y="1869" font-size="13" fill="#c9d1d9">feat(wsc): World Sportscar Championship 1953-1992</text>
   <text x="882"  y="1869" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1880" x2="899" y2="1880" stroke="#21262d" stroke-width="0.5"/>
 <g class="r56">
   <circle cx="24" cy="1895" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1899" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1899" font-size="13" fill="#c9d1d9">feat(elo): level of the World Sportscar Championship</text>
+  <text x="44"  y="1899" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="1899" font-size="13" fill="#c9d1d9">feat(f1): 2026 São Paulo Grand Prix</text>
   <text x="882"  y="1899" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1910" x2="899" y2="1910" stroke="#21262d" stroke-width="0.5"/>
 <g class="r57">
   <circle cx="24" cy="1925" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1929" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1929" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the World Sportscar Championship 1953-199</text>
+  <text x="44"  y="1929" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1929" font-size="13" fill="#c9d1d9">feat(elo): level of the World Sportscar Championship</text>
   <text x="882"  y="1929" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1940" x2="899" y2="1940" stroke="#21262d" stroke-width="0.5"/>
 <g class="r58">
   <circle cx="24" cy="1955" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1959" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1959" font-size="13" fill="#c9d1d9">feat(games): nationality column in the driverdle F1 and All</text>
+  <text x="44"  y="1959" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1959" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the World Sportscar Championship 1953-199</text>
   <text x="882"  y="1959" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="1970" x2="899" y2="1970" stroke="#21262d" stroke-width="0.5"/>
 <g class="r59">
   <circle cx="24" cy="1985" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1989" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1989" font-size="13" fill="#c9d1d9">feat(drivers): endurance drivers without a Wikipedia article</text>
+  <text x="44"  y="1989" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1989" font-size="13" fill="#c9d1d9">feat(games): nationality column in the driverdle F1 and All</text>
   <text x="882"  y="1989" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="2000" x2="899" y2="2000" stroke="#21262d" stroke-width="0.5"/>
 <g class="r60">
   <circle cx="24" cy="2015" r="5" fill="#bc8cff"/>
-  <text x="44"  y="2019" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="2019" font-size="13" fill="#c9d1d9">feat(teams): entrants of the World Sportscar Championship 1953-1992</text>
+  <text x="44"  y="2019" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="2019" font-size="13" fill="#c9d1d9">feat(drivers): endurance drivers without a Wikipedia article</text>
   <text x="882"  y="2019" font-size="12" fill="#484f58" text-anchor="end">2026-11-12</text>
 </g>
 <line x1="1" y1="2030" x2="899" y2="2030" stroke="#21262d" stroke-width="0.5"/>
