@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1796" viewBox="0 0 900 1796">
-  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes sl{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}.r0{animation:sl .3s 0.00s ease forwards;opacity:0}.r1{animation:sl .3s 0.05s ease forwards;opacity:0}.r2{animation:sl .3s 0.10s ease forwards;opacity:0}.r3{animation:sl .3s 0.15s ease forwards;opacity:0}.r4{animation:sl .3s 0.20s ease forwards;opacity:0}.r5{animation:sl .3s 0.25s ease forwards;opacity:0}.r6{animation:sl .3s 0.30s ease forwards;opacity:0}.r7{animation:sl .3s 0.35s ease forwards;opacity:0}.r8{animation:sl .3s 0.40s ease forwards;opacity:0}.r9{animation:sl .3s 0.45s ease forwards;opacity:0}.r10{animation:sl .3s 0.50s ease forwards;opacity:0}.r11{animation:sl .3s 0.55s ease forwards;opacity:0}.r12{animation:sl .3s 0.60s ease forwards;opacity:0}.r13{animation:sl .3s 0.65s ease forwards;opacity:0}.r14{animation:sl .3s 0.70s ease forwards;opacity:0}.r15{animation:sl .3s 0.75s ease forwards;opacity:0}.r16{animation:sl .3s 0.80s ease forwards;opacity:0}.r17{animation:sl .3s 0.85s ease forwards;opacity:0}.r18{animation:sl .3s 0.90s ease forwards;opacity:0}.r19{animation:sl .3s 0.95s ease forwards;opacity:0}.r20{animation:sl .3s 1.00s ease forwards;opacity:0}.r21{animation:sl .3s 1.05s ease forwards;opacity:0}.r22{animation:sl .3s 1.10s ease forwards;opacity:0}.r23{animation:sl .3s 1.15s ease forwards;opacity:0}.r24{animation:sl .3s 1.20s ease forwards;opacity:0}.r25{animation:sl .3s 1.25s ease forwards;opacity:0}.r26{animation:sl .3s 1.30s ease forwards;opacity:0}.r27{animation:sl .3s 1.35s ease forwards;opacity:0}.r28{animation:sl .3s 1.40s ease forwards;opacity:0}.r29{animation:sl .3s 1.45s ease forwards;opacity:0}.r30{animation:sl .3s 1.50s ease forwards;opacity:0}.r31{animation:sl .3s 1.55s ease forwards;opacity:0}.r32{animation:sl .3s 1.60s ease forwards;opacity:0}.r33{animation:sl .3s 1.65s ease forwards;opacity:0}.r34{animation:sl .3s 1.70s ease forwards;opacity:0}.r35{animation:sl .3s 1.75s ease forwards;opacity:0}.r36{animation:sl .3s 1.80s ease forwards;opacity:0}.r37{animation:sl .3s 1.85s ease forwards;opacity:0}.r38{animation:sl .3s 1.90s ease forwards;opacity:0}.r39{animation:sl .3s 1.95s ease forwards;opacity:0}.r40{animation:sl .3s 2.00s ease forwards;opacity:0}.r41{animation:sl .3s 2.05s ease forwards;opacity:0}.r42{animation:sl .3s 2.10s ease forwards;opacity:0}.r43{animation:sl .3s 2.15s ease forwards;opacity:0}.r44{animation:sl .3s 2.20s ease forwards;opacity:0}.r45{animation:sl .3s 2.25s ease forwards;opacity:0}.r46{animation:sl .3s 2.30s ease forwards;opacity:0}.r47{animation:sl .3s 2.35s ease forwards;opacity:0}.r48{animation:sl .3s 2.40s ease forwards;opacity:0}.r49{animation:sl .3s 2.45s ease forwards;opacity:0}.r50{animation:sl .3s 2.50s ease forwards;opacity:0}.r51{animation:sl .3s 2.55s ease forwards;opacity:0}.r52{animation:sl .3s 2.60s ease forwards;opacity:0}</style></defs>
-<rect width="900" height="1796" fill="#0d1117" rx="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1736" viewBox="0 0 900 1736">
+  <defs><style>text{font-family:'Courier New', Courier, monospace} @keyframes sl{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}.r0{animation:sl .3s 0.00s ease forwards;opacity:0}.r1{animation:sl .3s 0.05s ease forwards;opacity:0}.r2{animation:sl .3s 0.10s ease forwards;opacity:0}.r3{animation:sl .3s 0.15s ease forwards;opacity:0}.r4{animation:sl .3s 0.20s ease forwards;opacity:0}.r5{animation:sl .3s 0.25s ease forwards;opacity:0}.r6{animation:sl .3s 0.30s ease forwards;opacity:0}.r7{animation:sl .3s 0.35s ease forwards;opacity:0}.r8{animation:sl .3s 0.40s ease forwards;opacity:0}.r9{animation:sl .3s 0.45s ease forwards;opacity:0}.r10{animation:sl .3s 0.50s ease forwards;opacity:0}.r11{animation:sl .3s 0.55s ease forwards;opacity:0}.r12{animation:sl .3s 0.60s ease forwards;opacity:0}.r13{animation:sl .3s 0.65s ease forwards;opacity:0}.r14{animation:sl .3s 0.70s ease forwards;opacity:0}.r15{animation:sl .3s 0.75s ease forwards;opacity:0}.r16{animation:sl .3s 0.80s ease forwards;opacity:0}.r17{animation:sl .3s 0.85s ease forwards;opacity:0}.r18{animation:sl .3s 0.90s ease forwards;opacity:0}.r19{animation:sl .3s 0.95s ease forwards;opacity:0}.r20{animation:sl .3s 1.00s ease forwards;opacity:0}.r21{animation:sl .3s 1.05s ease forwards;opacity:0}.r22{animation:sl .3s 1.10s ease forwards;opacity:0}.r23{animation:sl .3s 1.15s ease forwards;opacity:0}.r24{animation:sl .3s 1.20s ease forwards;opacity:0}.r25{animation:sl .3s 1.25s ease forwards;opacity:0}.r26{animation:sl .3s 1.30s ease forwards;opacity:0}.r27{animation:sl .3s 1.35s ease forwards;opacity:0}.r28{animation:sl .3s 1.40s ease forwards;opacity:0}.r29{animation:sl .3s 1.45s ease forwards;opacity:0}.r30{animation:sl .3s 1.50s ease forwards;opacity:0}.r31{animation:sl .3s 1.55s ease forwards;opacity:0}.r32{animation:sl .3s 1.60s ease forwards;opacity:0}.r33{animation:sl .3s 1.65s ease forwards;opacity:0}.r34{animation:sl .3s 1.70s ease forwards;opacity:0}.r35{animation:sl .3s 1.75s ease forwards;opacity:0}.r36{animation:sl .3s 1.80s ease forwards;opacity:0}.r37{animation:sl .3s 1.85s ease forwards;opacity:0}.r38{animation:sl .3s 1.90s ease forwards;opacity:0}.r39{animation:sl .3s 1.95s ease forwards;opacity:0}.r40{animation:sl .3s 2.00s ease forwards;opacity:0}.r41{animation:sl .3s 2.05s ease forwards;opacity:0}.r42{animation:sl .3s 2.10s ease forwards;opacity:0}.r43{animation:sl .3s 2.15s ease forwards;opacity:0}.r44{animation:sl .3s 2.20s ease forwards;opacity:0}.r45{animation:sl .3s 2.25s ease forwards;opacity:0}.r46{animation:sl .3s 2.30s ease forwards;opacity:0}.r47{animation:sl .3s 2.35s ease forwards;opacity:0}.r48{animation:sl .3s 2.40s ease forwards;opacity:0}.r49{animation:sl .3s 2.45s ease forwards;opacity:0}.r50{animation:sl .3s 2.50s ease forwards;opacity:0}</style></defs>
+<rect width="900" height="1736" fill="#0d1117" rx="10"/>
 <path d="M 10 0 L 890 0 Q 900 0 900 10 L 900 36 L 0 36 L 0 10 Q 0 0 10 0 Z" fill="#161b22"/>
 <line x1="1" y1="36" x2="899" y2="36" stroke="#21262d" stroke-width="1"/>
 <text x="14" y="23" font-size="13"><tspan fill="#56d364">loka@nobara:~$</tspan><tspan fill="#484f58"> gh pr list --author @me --state all</tspan></text>
@@ -48,359 +48,345 @@
 </g>
 <rect x="1" y="224" width="898" height="24" fill="#161b22"/>
 <text x="18" y="240" font-size="12" fill="#58a6ff" font-weight="bold">✨ Features</text>
-<text x="882" y="240" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 3 merged</text>
+<text x="882" y="240" font-size="11" fill="#484f58" text-anchor="end">1 closed · 9 merged</text>
 <line x1="1" y1="248" x2="899" y2="248" stroke="#21262d" stroke-width="0.5"/>
 <g class="r4">
-  <circle cx="24" cy="263" r="5" fill="#56d364"/>
+  <circle cx="24" cy="263" r="5" fill="#bc8cff"/>
   <text x="44"  y="267" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="267" font-size="13" fill="#c9d1d9">feat: late November 2026 results</text>
-  <text x="882"  y="267" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="270" y="267" font-size="13" fill="#c9d1d9">feat(formula-v8-3.5): add 2017 points</text>
+  <text x="882"  y="267" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="278" x2="899" y2="278" stroke="#21262d" stroke-width="0.5"/>
 <g class="r5">
   <circle cx="24" cy="293" r="5" fill="#bc8cff"/>
-  <text x="44"  y="297" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="297" font-size="13" fill="#c9d1d9">feat: ELO ranking of every driver, used by the driverdle</text>
-  <text x="882"  y="297" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="297" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="297" font-size="13" fill="#c9d1d9">feat(f3-euro-series): add 2003 and 2007-2010 points</text>
+  <text x="882"  y="297" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="308" x2="899" y2="308" stroke="#21262d" stroke-width="0.5"/>
 <g class="r6">
   <circle cx="24" cy="323" r="5" fill="#bc8cff"/>
-  <text x="44"  y="327" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="327" font-size="13" fill="#c9d1d9">[depends on OpenSSH 9.9p1 update] add SSH feature coverage for the </text>
-  <text x="882"  y="327" font-size="12" fill="#484f58" text-anchor="end">2026-11-19</text>
+  <text x="44"  y="327" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="327" font-size="13" fill="#c9d1d9">feat(f3-european): add 2013-2017 points from the official standings</text>
+  <text x="882"  y="327" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="338" x2="899" y2="338" stroke="#21262d" stroke-width="0.5"/>
 <g class="r7">
   <circle cx="24" cy="353" r="5" fill="#bc8cff"/>
-  <text x="44"  y="357" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-tests</text>
-  <text x="270" y="357" font-size="13" fill="#c9d1d9">Add: sftp &amp; scp test with curl</text>
-  <text x="882"  y="357" font-size="12" fill="#484f58" text-anchor="end">2026-11-13</text>
+  <text x="44"  y="357" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="357" font-size="13" fill="#c9d1d9">feat(wtcc): add points 2005-2009 and 2011-2016</text>
+  <text x="882"  y="357" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="368" x2="899" y2="368" stroke="#21262d" stroke-width="0.5"/>
 <g class="r8">
-  <circle cx="24" cy="383" r="5" fill="#f85149"/>
-  <text x="44"  y="387" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="387" font-size="13" fill="#c9d1d9">Add error when cards is not valid</text>
-  <text x="882"  y="387" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
+  <circle cx="24" cy="383" r="5" fill="#bc8cff"/>
+  <text x="44"  y="387" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="387" font-size="13" fill="#c9d1d9">feat(gp3): add points from the official standings</text>
+  <text x="882"  y="387" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
-<rect x="1" y="398" width="898" height="24" fill="#161b22"/>
-<text x="18" y="414" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
-<text x="882" y="414" font-size="11" fill="#484f58" text-anchor="end">5 open · 4 closed · 10 merged</text>
-<line x1="1" y1="422" x2="899" y2="422" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="398" x2="899" y2="398" stroke="#21262d" stroke-width="0.5"/>
 <g class="r9">
-  <circle cx="24" cy="437" r="5" fill="#56d364"/>
-  <text x="44"  y="441" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="441" font-size="13" fill="#c9d1d9">fix: merge duplicate driver ids (Huffaker, Talkanitsa, Sargent)</text>
-  <text x="882"  y="441" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="413" r="5" fill="#bc8cff"/>
+  <text x="44"  y="417" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="417" font-size="13" fill="#c9d1d9">feat(gp2): add points from the official standings</text>
+  <text x="882"  y="417" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
-<line x1="1" y1="452" x2="899" y2="452" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="428" x2="899" y2="428" stroke="#21262d" stroke-width="0.5"/>
 <g class="r10">
-  <circle cx="24" cy="467" r="5" fill="#56d364"/>
-  <text x="44"  y="471" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="471" font-size="13" fill="#c9d1d9">fix: merge duplicate driver ids (Huffaker, Talkanitsa, Sargent)</text>
-  <text x="882"  y="471" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="443" r="5" fill="#bc8cff"/>
+  <text x="44"  y="447" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="447" font-size="13" fill="#c9d1d9">feat(drivers): add McKenzy Cresswell</text>
+  <text x="882"  y="447" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
-<line x1="1" y1="482" x2="899" y2="482" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="458" x2="899" y2="458" stroke="#21262d" stroke-width="0.5"/>
 <g class="r11">
-  <circle cx="24" cy="497" r="5" fill="#56d364"/>
-  <text x="44"  y="501" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="501" font-size="13" fill="#c9d1d9">fix(f1-academy): 2023-2025 points</text>
-  <text x="882"  y="501" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="473" r="5" fill="#bc8cff"/>
+  <text x="44"  y="477" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="477" font-size="13" fill="#c9d1d9">feat: late November 2026 results</text>
+  <text x="882"  y="477" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
-<line x1="1" y1="512" x2="899" y2="512" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="488" x2="899" y2="488" stroke="#21262d" stroke-width="0.5"/>
 <g class="r12">
-  <circle cx="24" cy="527" r="5" fill="#56d364"/>
-  <text x="44"  y="531" font-size="13" fill="#8b949e">xapi-project/xen-api</text>
-  <text x="270" y="531" font-size="13" fill="#c9d1d9">fix(extauth-hook-AD): move sshd settings to a drop-in file</text>
-  <text x="882"  y="531" font-size="12" fill="#484f58" text-anchor="end">2026-11-09</text>
+  <circle cx="24" cy="503" r="5" fill="#bc8cff"/>
+  <text x="44"  y="507" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="507" font-size="13" fill="#c9d1d9">feat: ELO ranking of every driver, used by the driverdle</text>
+  <text x="882"  y="507" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
 </g>
-<line x1="1" y1="542" x2="899" y2="542" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="518" x2="899" y2="518" stroke="#21262d" stroke-width="0.5"/>
 <g class="r13">
-  <circle cx="24" cy="557" r="5" fill="#56d364"/>
-  <text x="44"  y="561" font-size="13" fill="#8b949e">Prateor/DevSecOps-public</text>
-  <text x="270" y="561" font-size="13" fill="#c9d1d9">Fix: README</text>
-  <text x="882"  y="561" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
+  <circle cx="24" cy="533" r="5" fill="#f85149"/>
+  <text x="44"  y="537" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="537" font-size="13" fill="#c9d1d9">Add error when cards is not valid</text>
+  <text x="882"  y="537" font-size="12" fill="#484f58" text-anchor="end">2025-12-08</text>
 </g>
+<rect x="1" y="548" width="898" height="24" fill="#161b22"/>
+<text x="18" y="564" font-size="12" fill="#58a6ff" font-weight="bold">🐛 Bug fixes</text>
+<text x="882" y="564" font-size="11" fill="#484f58" text-anchor="end">2 open · 4 closed · 10 merged</text>
 <line x1="1" y1="572" x2="899" y2="572" stroke="#21262d" stroke-width="0.5"/>
 <g class="r14">
-  <circle cx="24" cy="587" r="5" fill="#bc8cff"/>
-  <text x="44"  y="591" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="591" font-size="13" fill="#c9d1d9">fix(teams): remove the fake team 'No classified finishers'</text>
-  <text x="882"  y="591" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="587" r="5" fill="#56d364"/>
+  <text x="44"  y="591" font-size="13" fill="#8b949e">xapi-project/xen-api</text>
+  <text x="270" y="591" font-size="13" fill="#c9d1d9">fix(extauth-hook-AD): move sshd settings to a drop-in file</text>
+  <text x="882"  y="591" font-size="12" fill="#484f58" text-anchor="end">2026-11-09</text>
 </g>
 <line x1="1" y1="602" x2="899" y2="602" stroke="#21262d" stroke-width="0.5"/>
 <g class="r15">
-  <circle cx="24" cy="617" r="5" fill="#bc8cff"/>
-  <text x="44"  y="621" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="621" font-size="13" fill="#c9d1d9">fix(wsc): nine cars listed without a position</text>
-  <text x="882"  y="621" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="617" r="5" fill="#56d364"/>
+  <text x="44"  y="621" font-size="13" fill="#8b949e">Prateor/DevSecOps-public</text>
+  <text x="270" y="621" font-size="13" fill="#c9d1d9">Fix: README</text>
+  <text x="882"  y="621" font-size="12" fill="#484f58" text-anchor="end">2026-10-06</text>
 </g>
 <line x1="1" y1="632" x2="899" y2="632" stroke="#21262d" stroke-width="0.5"/>
 <g class="r16">
   <circle cx="24" cy="647" r="5" fill="#bc8cff"/>
   <text x="44"  y="651" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="651" font-size="13" fill="#c9d1d9">fix(wsc): first names of 23 drivers and 2 homonyms identified</text>
-  <text x="882"  y="651" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="270" y="651" font-size="13" fill="#c9d1d9">fix(drivers): merge Mikhail_Goikhberg into Misha_Goikhberg</text>
+  <text x="882"  y="651" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="662" x2="899" y2="662" stroke="#21262d" stroke-width="0.5"/>
 <g class="r17">
   <circle cx="24" cy="677" r="5" fill="#bc8cff"/>
   <text x="44"  y="681" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="681" font-size="13" fill="#c9d1d9">fix(wsc): ten cars listed without a position</text>
-  <text x="882"  y="681" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="270" y="681" font-size="13" fill="#c9d1d9">fix(imsa): 2016, 2017 and 2020 official results and points</text>
+  <text x="882"  y="681" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="692" x2="899" y2="692" stroke="#21262d" stroke-width="0.5"/>
 <g class="r18">
   <circle cx="24" cy="707" r="5" fill="#bc8cff"/>
-  <text x="44"  y="711" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="711" font-size="13" fill="#c9d1d9">fix(drivers): five endurance drivers stored under two spellings mer</text>
-  <text x="882"  y="711" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="711" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="711" font-size="13" fill="#c9d1d9">fix(f3): rebuild 2019 from the official F3 results</text>
+  <text x="882"  y="711" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="722" x2="899" y2="722" stroke="#21262d" stroke-width="0.5"/>
 <g class="r19">
   <circle cx="24" cy="737" r="5" fill="#bc8cff"/>
-  <text x="44"  y="741" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="741" font-size="13" fill="#c9d1d9">fix(drivers): five WSC homonyms identified, full names of the other</text>
-  <text x="882"  y="741" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="741" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="741" font-size="13" fill="#c9d1d9">fix(karting): merge the duplicate Ben Barnicoat id</text>
+  <text x="882"  y="741" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="752" x2="899" y2="752" stroke="#21262d" stroke-width="0.5"/>
 <g class="r20">
   <circle cx="24" cy="767" r="5" fill="#bc8cff"/>
-  <text x="44"  y="771" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="771" font-size="13" fill="#c9d1d9">fix(drivers): doubtful duplicates settled with racingsportscars.com</text>
-  <text x="882"  y="771" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="771" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="771" font-size="13" fill="#c9d1d9">fix(f3): rebuild 2020 from the official F3 results</text>
+  <text x="882"  y="771" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="782" x2="899" y2="782" stroke="#21262d" stroke-width="0.5"/>
 <g class="r21">
   <circle cx="24" cy="797" r="5" fill="#bc8cff"/>
-  <text x="44"  y="801" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="801" font-size="13" fill="#c9d1d9">fix(data): Ye Hongli is Leo Ye Hongli, points of the 24 Hours of Le</text>
-  <text x="882"  y="801" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="801" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="801" font-size="13" fill="#c9d1d9">fix(formula-e): 2022-23 to 2024-25 race results and points</text>
+  <text x="882"  y="801" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="812" x2="899" y2="812" stroke="#21262d" stroke-width="0.5"/>
 <g class="r22">
   <circle cx="24" cy="827" r="5" fill="#bc8cff"/>
   <text x="44"  y="831" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="831" font-size="13" fill="#c9d1d9">fix(data): Ye Hongli is Leo Ye Hongli, points of the 24 Hours of Le</text>
-  <text x="882"  y="831" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="270" y="831" font-size="13" fill="#c9d1d9">fix(f2-f3): official results and points 2017-2026</text>
+  <text x="882"  y="831" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="842" x2="899" y2="842" stroke="#21262d" stroke-width="0.5"/>
 <g class="r23">
   <circle cx="24" cy="857" r="5" fill="#bc8cff"/>
   <text x="44"  y="861" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="861" font-size="13" fill="#c9d1d9">fix(wsc): first names of 23 drivers and 2 homonyms identified</text>
-  <text x="882"  y="861" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="270" y="861" font-size="13" fill="#c9d1d9">fix(aslms): 2025-26 points and status of retired cars</text>
+  <text x="882"  y="861" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="872" x2="899" y2="872" stroke="#21262d" stroke-width="0.5"/>
 <g class="r24">
-  <circle cx="24" cy="887" r="5" fill="#f85149"/>
-  <text x="44"  y="891" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="891" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
-  <text x="882"  y="891" font-size="12" fill="#484f58" text-anchor="end">2026-09-14</text>
+  <circle cx="24" cy="887" r="5" fill="#bc8cff"/>
+  <text x="44"  y="891" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="891" font-size="13" fill="#c9d1d9">fix(drivers): remove the duplicate Benjamin_Barnicoat</text>
+  <text x="882"  y="891" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="902" x2="899" y2="902" stroke="#21262d" stroke-width="0.5"/>
 <g class="r25">
-  <circle cx="24" cy="917" r="5" fill="#f85149"/>
-  <text x="44"  y="921" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
-  <text x="270" y="921" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
-  <text x="882"  y="921" font-size="12" fill="#484f58" text-anchor="end">2026-07-31</text>
+  <circle cx="24" cy="917" r="5" fill="#bc8cff"/>
+  <text x="44"  y="921" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="921" font-size="13" fill="#c9d1d9">fix(f1-academy): 2023-2025 points</text>
+  <text x="882"  y="921" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="932" x2="899" y2="932" stroke="#21262d" stroke-width="0.5"/>
 <g class="r26">
   <circle cx="24" cy="947" r="5" fill="#f85149"/>
-  <text x="44"  y="951" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
-  <text x="270" y="951" font-size="13" fill="#c9d1d9">Fix(testsuite): Fix testsuite and fix ciphers</text>
-  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-02-13</text>
+  <text x="44"  y="951" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
+  <text x="270" y="951" font-size="13" fill="#c9d1d9">Fix: Conditionnal macros to explain the changes</text>
+  <text x="882"  y="951" font-size="12" fill="#484f58" text-anchor="end">2026-09-14</text>
 </g>
 <line x1="1" y1="962" x2="899" y2="962" stroke="#21262d" stroke-width="0.5"/>
 <g class="r27">
   <circle cx="24" cy="977" r="5" fill="#f85149"/>
-  <text x="44"  y="981" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-release</text>
-  <text x="270" y="981" font-size="13" fill="#c9d1d9">8.2 fix curl ciphers for xoa</text>
-  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2025-01-14</text>
+  <text x="44"  y="981" font-size="13" fill="#8b949e">cinnyapp/cinny</text>
+  <text x="270" y="981" font-size="13" fill="#c9d1d9">fix(reactions): keep reaction pill order stable when counts change</text>
+  <text x="882"  y="981" font-size="12" fill="#484f58" text-anchor="end">2026-07-31</text>
 </g>
-<rect x="1" y="992" width="898" height="24" fill="#161b22"/>
-<text x="18" y="1008" font-size="12" fill="#58a6ff" font-weight="bold">🔄 Dependency updates</text>
-<text x="882" y="1008" font-size="11" fill="#484f58" text-anchor="end">2 open · 1 closed</text>
-<line x1="1" y1="1016" x2="899" y2="1016" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="992" x2="899" y2="992" stroke="#21262d" stroke-width="0.5"/>
 <g class="r28">
-  <circle cx="24" cy="1031" r="5" fill="#56d364"/>
-  <text x="44"  y="1035" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1035" font-size="13" fill="#c9d1d9">chore(docker): upgrade PHP to 8.5.13</text>
-  <text x="882"  y="1035" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="1007" r="5" fill="#f85149"/>
+  <text x="44"  y="1011" font-size="13" fill="#8b949e">xcp-ng-rpms/openssh</text>
+  <text x="270" y="1011" font-size="13" fill="#c9d1d9">Fix(testsuite): Fix testsuite and fix ciphers</text>
+  <text x="882"  y="1011" font-size="12" fill="#484f58" text-anchor="end">2026-02-13</text>
 </g>
-<line x1="1" y1="1046" x2="899" y2="1046" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="1022" x2="899" y2="1022" stroke="#21262d" stroke-width="0.5"/>
 <g class="r29">
-  <circle cx="24" cy="1061" r="5" fill="#56d364"/>
-  <text x="44"  y="1065" font-size="13" fill="#8b949e">Mayfly277/ctftime_events_inf</text>
-  <text x="270" y="1065" font-size="13" fill="#c9d1d9">Update for Python3</text>
-  <text x="882"  y="1065" font-size="12" fill="#484f58" text-anchor="end">2023-04-22</text>
+  <circle cx="24" cy="1037" r="5" fill="#f85149"/>
+  <text x="44"  y="1041" font-size="13" fill="#8b949e">xcp-ng/xcp-ng-release</text>
+  <text x="270" y="1041" font-size="13" fill="#c9d1d9">8.2 fix curl ciphers for xoa</text>
+  <text x="882"  y="1041" font-size="12" fill="#484f58" text-anchor="end">2025-01-14</text>
 </g>
+<rect x="1" y="1052" width="898" height="24" fill="#161b22"/>
+<text x="18" y="1068" font-size="12" fill="#58a6ff" font-weight="bold">🔄 Dependency updates</text>
+<text x="882" y="1068" font-size="11" fill="#484f58" text-anchor="end">1 open · 1 closed · 1 merged</text>
 <line x1="1" y1="1076" x2="899" y2="1076" stroke="#21262d" stroke-width="0.5"/>
 <g class="r30">
-  <circle cx="24" cy="1091" r="5" fill="#f85149"/>
-  <text x="44"  y="1095" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
-  <text x="270" y="1095" font-size="13" fill="#c9d1d9">Revert &quot;Update sudo to 1.9.17-4 from CentOS10&quot;</text>
-  <text x="882"  y="1095" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
+  <circle cx="24" cy="1091" r="5" fill="#56d364"/>
+  <text x="44"  y="1095" font-size="13" fill="#8b949e">Mayfly277/ctftime_events_inf</text>
+  <text x="270" y="1095" font-size="13" fill="#c9d1d9">Update for Python3</text>
+  <text x="882"  y="1095" font-size="12" fill="#484f58" text-anchor="end">2023-04-22</text>
 </g>
-<rect x="1" y="1106" width="898" height="24" fill="#161b22"/>
-<text x="18" y="1122" font-size="12" fill="#58a6ff" font-weight="bold">🔧 Other contributions</text>
-<text x="882" y="1122" font-size="11" fill="#484f58" text-anchor="end">9 open · 3 closed · 10 merged</text>
-<line x1="1" y1="1130" x2="899" y2="1130" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="1106" x2="899" y2="1106" stroke="#21262d" stroke-width="0.5"/>
 <g class="r31">
-  <circle cx="24" cy="1145" r="5" fill="#56d364"/>
-  <text x="44"  y="1149" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1149" font-size="13" fill="#c9d1d9">feat(teams): teams of the 2026-27 Asian Le Mans Series opening roun</text>
-  <text x="882"  y="1149" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="1121" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1125" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1125" font-size="13" fill="#c9d1d9">chore(docker): upgrade PHP to 8.5.13</text>
+  <text x="882"  y="1125" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
-<line x1="1" y1="1160" x2="899" y2="1160" stroke="#21262d" stroke-width="0.5"/>
+<line x1="1" y1="1136" x2="899" y2="1136" stroke="#21262d" stroke-width="0.5"/>
 <g class="r32">
-  <circle cx="24" cy="1175" r="5" fill="#56d364"/>
-  <text x="44"  y="1179" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1179" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the 2026-27 Asian Le Mans Series opening </text>
-  <text x="882"  y="1179" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="1151" r="5" fill="#f85149"/>
+  <text x="44"  y="1155" font-size="13" fill="#8b949e">xcp-ng-rpms/sudo</text>
+  <text x="270" y="1155" font-size="13" fill="#c9d1d9">Revert &quot;Update sudo to 1.9.17-4 from CentOS10&quot;</text>
+  <text x="882"  y="1155" font-size="12" fill="#484f58" text-anchor="end">2026-06-19</text>
 </g>
+<rect x="1" y="1166" width="898" height="24" fill="#161b22"/>
+<text x="18" y="1182" font-size="12" fill="#58a6ff" font-weight="bold">🔧 Other contributions</text>
+<text x="882" y="1182" font-size="11" fill="#484f58" text-anchor="end">5 open · 3 closed · 10 merged</text>
 <line x1="1" y1="1190" x2="899" y2="1190" stroke="#21262d" stroke-width="0.5"/>
 <g class="r33">
   <circle cx="24" cy="1205" r="5" fill="#56d364"/>
-  <text x="44"  y="1209" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1209" font-size="13" fill="#c9d1d9">feat(aslms): 2026-27 season, 4 Hours of Le Castellet</text>
-  <text x="882"  y="1209" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="1209" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
+  <text x="270" y="1209" font-size="13" fill="#c9d1d9">Delete .github/dependabot.yml</text>
+  <text x="882"  y="1209" font-size="12" fill="#484f58" text-anchor="end">2026-11-09</text>
 </g>
 <line x1="1" y1="1220" x2="899" y2="1220" stroke="#21262d" stroke-width="0.5"/>
 <g class="r34">
   <circle cx="24" cy="1235" r="5" fill="#56d364"/>
-  <text x="44"  y="1239" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1239" font-size="13" fill="#c9d1d9">feat(drivers): riders of the late November 2026 results</text>
-  <text x="882"  y="1239" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="1239" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
+  <text x="270" y="1239" font-size="13" fill="#c9d1d9">Delete .github/dependabot.yml</text>
+  <text x="882"  y="1239" font-size="12" fill="#484f58" text-anchor="end">2026-11-09</text>
 </g>
 <line x1="1" y1="1250" x2="899" y2="1250" stroke="#21262d" stroke-width="0.5"/>
 <g class="r35">
   <circle cx="24" cy="1265" r="5" fill="#56d364"/>
-  <text x="44"  y="1269" font-size="13" fill="#8b949e">LucienLassalle/SDP</text>
-  <text x="270" y="1269" font-size="13" fill="#c9d1d9">Delete .github/dependabot.yml</text>
-  <text x="882"  y="1269" font-size="12" fill="#484f58" text-anchor="end">2026-11-09</text>
+  <text x="44"  y="1269" font-size="13" fill="#8b949e">ValveSoftware/wine</text>
+  <text x="270" y="1269" font-size="13" fill="#c9d1d9">win32u: Avoid a crash when __WINE_OPENXR_VK_INSTANCE_EXTENSIONS is </text>
+  <text x="882"  y="1269" font-size="12" fill="#484f58" text-anchor="end">2026-10-21</text>
 </g>
 <line x1="1" y1="1280" x2="899" y2="1280" stroke="#21262d" stroke-width="0.5"/>
 <g class="r36">
   <circle cx="24" cy="1295" r="5" fill="#56d364"/>
-  <text x="44"  y="1299" font-size="13" fill="#8b949e">LucienLassalle/SDP-Tests</text>
-  <text x="270" y="1299" font-size="13" fill="#c9d1d9">Delete .github/dependabot.yml</text>
-  <text x="882"  y="1299" font-size="12" fill="#484f58" text-anchor="end">2026-11-09</text>
+  <text x="44"  y="1299" font-size="13" fill="#8b949e">xcp-ng/host-installer</text>
+  <text x="270" y="1299" font-size="13" fill="#c9d1d9">[XCPNG9] Preserve etc/ssh/sshd_config.d and etc/ssh/ssh_config.d</text>
+  <text x="882"  y="1299" font-size="12" fill="#484f58" text-anchor="end">2026-10-01</text>
 </g>
 <line x1="1" y1="1310" x2="899" y2="1310" stroke="#21262d" stroke-width="0.5"/>
 <g class="r37">
   <circle cx="24" cy="1325" r="5" fill="#56d364"/>
-  <text x="44"  y="1329" font-size="13" fill="#8b949e">ValveSoftware/wine</text>
-  <text x="270" y="1329" font-size="13" fill="#c9d1d9">win32u: Avoid a crash when __WINE_OPENXR_VK_INSTANCE_EXTENSIONS is </text>
-  <text x="882"  y="1329" font-size="12" fill="#484f58" text-anchor="end">2026-10-21</text>
+  <text x="44"  y="1329" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
+  <text x="270" y="1329" font-size="13" fill="#c9d1d9">Merge staging --&gt; main</text>
+  <text x="882"  y="1329" font-size="12" fill="#484f58" text-anchor="end">2026-07-10</text>
 </g>
 <line x1="1" y1="1340" x2="899" y2="1340" stroke="#21262d" stroke-width="0.5"/>
 <g class="r38">
-  <circle cx="24" cy="1355" r="5" fill="#56d364"/>
-  <text x="44"  y="1359" font-size="13" fill="#8b949e">xcp-ng/host-installer</text>
-  <text x="270" y="1359" font-size="13" fill="#c9d1d9">[XCPNG9] Preserve etc/ssh/sshd_config.d and etc/ssh/ssh_config.d</text>
-  <text x="882"  y="1359" font-size="12" fill="#484f58" text-anchor="end">2026-10-01</text>
+  <circle cx="24" cy="1355" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1359" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1359" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the 2026-27 Asian Le Mans Series opening </text>
+  <text x="882"  y="1359" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="1370" x2="899" y2="1370" stroke="#21262d" stroke-width="0.5"/>
 <g class="r39">
-  <circle cx="24" cy="1385" r="5" fill="#56d364"/>
-  <text x="44"  y="1389" font-size="13" fill="#8b949e">ThatsMeTomtom/projet_powersh</text>
-  <text x="270" y="1389" font-size="13" fill="#c9d1d9">Merge staging --&gt; main</text>
-  <text x="882"  y="1389" font-size="12" fill="#484f58" text-anchor="end">2026-07-10</text>
+  <circle cx="24" cy="1385" r="5" fill="#bc8cff"/>
+  <text x="44"  y="1389" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="1389" font-size="13" fill="#c9d1d9">feat(aslms): 2026-27 season, 4 Hours of Le Castellet</text>
+  <text x="882"  y="1389" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="1400" x2="899" y2="1400" stroke="#21262d" stroke-width="0.5"/>
 <g class="r40">
   <circle cx="24" cy="1415" r="5" fill="#bc8cff"/>
   <text x="44"  y="1419" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1419" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the World Sportscar Championship 1953-199</text>
-  <text x="882"  y="1419" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="270" y="1419" font-size="13" fill="#c9d1d9">feat(drivers): riders of the late November 2026 results</text>
+  <text x="882"  y="1419" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="1430" x2="899" y2="1430" stroke="#21262d" stroke-width="0.5"/>
 <g class="r41">
   <circle cx="24" cy="1445" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1449" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1449" font-size="13" fill="#c9d1d9">feat(teams): entrants of the World Sportscar Championship 1953-1992</text>
-  <text x="882"  y="1449" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="44"  y="1449" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1449" font-size="13" fill="#c9d1d9">feat(points): per-driver points of a car</text>
+  <text x="882"  y="1449" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="1460" x2="899" y2="1460" stroke="#21262d" stroke-width="0.5"/>
 <g class="r42">
   <circle cx="24" cy="1475" r="5" fill="#bc8cff"/>
   <text x="44"  y="1479" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1479" font-size="13" fill="#c9d1d9">chore: bring the stacked data PRs into main</text>
-  <text x="882"  y="1479" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <text x="270" y="1479" font-size="13" fill="#c9d1d9">feat(teams): teams of the 2026-27 Asian Le Mans Series opening roun</text>
+  <text x="882"  y="1479" font-size="12" fill="#484f58" text-anchor="end">2026-11-27</text>
 </g>
 <line x1="1" y1="1490" x2="899" y2="1490" stroke="#21262d" stroke-width="0.5"/>
 <g class="r43">
   <circle cx="24" cy="1505" r="5" fill="#bc8cff"/>
   <text x="44"  y="1509" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1509" font-size="13" fill="#c9d1d9">chore: bring the stacked data PRs into main</text>
+  <text x="270" y="1509" font-size="13" fill="#c9d1d9">feat(drivers): drivers of the World Sportscar Championship 1953-199</text>
   <text x="882"  y="1509" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
 </g>
 <line x1="1" y1="1520" x2="899" y2="1520" stroke="#21262d" stroke-width="0.5"/>
 <g class="r44">
   <circle cx="24" cy="1535" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1539" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
-  <text x="270" y="1539" font-size="13" fill="#c9d1d9">chore: bring the stacked data PRs into main</text>
+  <text x="44"  y="1539" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
+  <text x="270" y="1539" font-size="13" fill="#c9d1d9">feat(teams): entrants of the World Sportscar Championship 1953-1992</text>
   <text x="882"  y="1539" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
 </g>
 <line x1="1" y1="1550" x2="899" y2="1550" stroke="#21262d" stroke-width="0.5"/>
 <g class="r45">
   <circle cx="24" cy="1565" r="5" fill="#bc8cff"/>
   <text x="44"  y="1569" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1569" font-size="13" fill="#c9d1d9">feat(races): Indianapolis 500 1911-2026</text>
+  <text x="270" y="1569" font-size="13" fill="#c9d1d9">chore: bring the stacked data PRs into main</text>
   <text x="882"  y="1569" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
 </g>
 <line x1="1" y1="1580" x2="899" y2="1580" stroke="#21262d" stroke-width="0.5"/>
 <g class="r46">
   <circle cx="24" cy="1595" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1599" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1599" font-size="13" fill="#c9d1d9">feat(data): Moto GP history (all classes), WRC/WRC2/WRC3, ELMS, ALM</text>
+  <text x="44"  y="1599" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
+  <text x="270" y="1599" font-size="13" fill="#c9d1d9">chore: bring the stacked data PRs into main</text>
   <text x="882"  y="1599" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
 </g>
 <line x1="1" y1="1610" x2="899" y2="1610" stroke="#21262d" stroke-width="0.5"/>
 <g class="r47">
   <circle cx="24" cy="1625" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1629" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1629" font-size="13" fill="#c9d1d9">feat(data): new teams and normalised countries</text>
+  <text x="44"  y="1629" font-size="13" fill="#8b949e">Motorsport-DB/races</text>
+  <text x="270" y="1629" font-size="13" fill="#c9d1d9">chore: bring the stacked data PRs into main</text>
   <text x="882"  y="1629" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
 </g>
 <line x1="1" y1="1640" x2="899" y2="1640" stroke="#21262d" stroke-width="0.5"/>
 <g class="r48">
-  <circle cx="24" cy="1655" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1659" font-size="13" fill="#8b949e">Motorsport-DB/teams</text>
-  <text x="270" y="1659" font-size="13" fill="#c9d1d9">feat(teams): logos, Wikidata ids, countries and dates of more teams</text>
-  <text x="882"  y="1659" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="1655" r="5" fill="#f85149"/>
+  <text x="44"  y="1659" font-size="13" fill="#8b949e">crazy-max/diun</text>
+  <text x="270" y="1659" font-size="13" fill="#c9d1d9">Improve watch_repo with newer_only option</text>
+  <text x="882"  y="1659" font-size="12" fill="#484f58" text-anchor="end">2026-11-16</text>
 </g>
 <line x1="1" y1="1670" x2="899" y2="1670" stroke="#21262d" stroke-width="0.5"/>
 <g class="r49">
-  <circle cx="24" cy="1685" r="5" fill="#bc8cff"/>
-  <text x="44"  y="1689" font-size="13" fill="#8b949e">Motorsport-DB/drivers</text>
-  <text x="270" y="1689" font-size="13" fill="#c9d1d9">feat(drivers): endurance drivers without a Wikipedia article</text>
-  <text x="882"  y="1689" font-size="12" fill="#484f58" text-anchor="end">2026-11-26</text>
+  <circle cx="24" cy="1685" r="5" fill="#f85149"/>
+  <text x="44"  y="1689" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
+  <text x="270" y="1689" font-size="13" fill="#c9d1d9">In dev</text>
+  <text x="882"  y="1689" font-size="12" fill="#484f58" text-anchor="end">2025-12-07</text>
 </g>
 <line x1="1" y1="1700" x2="899" y2="1700" stroke="#21262d" stroke-width="0.5"/>
 <g class="r50">
   <circle cx="24" cy="1715" r="5" fill="#f85149"/>
-  <text x="44"  y="1719" font-size="13" fill="#8b949e">crazy-max/diun</text>
-  <text x="270" y="1719" font-size="13" fill="#c9d1d9">Improve watch_repo with newer_only option</text>
-  <text x="882"  y="1719" font-size="12" fill="#484f58" text-anchor="end">2026-11-16</text>
+  <text x="44"  y="1719" font-size="13" fill="#8b949e">xcp-ng-rpms/samba</text>
+  <text x="270" y="1719" font-size="13" fill="#c9d1d9">8.3 import 4.10.16 25.src.rpm</text>
+  <text x="882"  y="1719" font-size="12" fill="#484f58" text-anchor="end">2025-03-28</text>
 </g>
-<line x1="1" y1="1730" x2="899" y2="1730" stroke="#21262d" stroke-width="0.5"/>
-<g class="r51">
-  <circle cx="24" cy="1745" r="5" fill="#f85149"/>
-  <text x="44"  y="1749" font-size="13" fill="#8b949e">Motorsport-DB/website</text>
-  <text x="270" y="1749" font-size="13" fill="#c9d1d9">In dev</text>
-  <text x="882"  y="1749" font-size="12" fill="#484f58" text-anchor="end">2025-12-07</text>
-</g>
-<line x1="1" y1="1760" x2="899" y2="1760" stroke="#21262d" stroke-width="0.5"/>
-<g class="r52">
-  <circle cx="24" cy="1775" r="5" fill="#f85149"/>
-  <text x="44"  y="1779" font-size="13" fill="#8b949e">xcp-ng-rpms/samba</text>
-  <text x="270" y="1779" font-size="13" fill="#c9d1d9">8.3 import 4.10.16 25.src.rpm</text>
-  <text x="882"  y="1779" font-size="12" fill="#484f58" text-anchor="end">2025-03-28</text>
-</g>
-<rect x="1" y="1" width="898" height="1794" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+<rect x="1" y="1" width="898" height="1734" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
 
 </svg>
